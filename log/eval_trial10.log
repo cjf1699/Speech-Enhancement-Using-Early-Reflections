@@ -1,0 +1,2001 @@
+2020-01-02 23:29:35,291 eval_logger INFO The loss for the current batch:2860.2724609375
+2020-01-02 23:29:38,974 eval_logger INFO SDR before enhancement:[-20.50587036]
+2020-01-02 23:29:38,974 eval_logger INFO SDR after enhancement:[-20.45131608]
+2020-01-02 23:29:38,975 eval_logger INFO The SDR improvement for this wav:0.054554277516022154
+2020-01-02 23:29:39,195 eval_logger INFO The loss for the current batch:2716.797607421875
+2020-01-02 23:29:41,972 eval_logger INFO SDR before enhancement:[-21.24299426]
+2020-01-02 23:29:41,973 eval_logger INFO SDR after enhancement:[-20.80253265]
+2020-01-02 23:29:41,973 eval_logger INFO The SDR improvement for this wav:0.44046161227347724
+2020-01-02 23:29:42,229 eval_logger INFO The loss for the current batch:1475.2650146484375
+2020-01-02 23:29:45,121 eval_logger INFO SDR before enhancement:[-19.65620945]
+2020-01-02 23:29:45,121 eval_logger INFO SDR after enhancement:[-18.58911307]
+2020-01-02 23:29:45,121 eval_logger INFO The SDR improvement for this wav:1.0670963803012121
+2020-01-02 23:29:45,453 eval_logger INFO The loss for the current batch:2585.226318359375
+2020-01-02 23:29:48,776 eval_logger INFO SDR before enhancement:[-19.65287592]
+2020-01-02 23:29:48,776 eval_logger INFO SDR after enhancement:[-19.58060176]
+2020-01-02 23:29:48,777 eval_logger INFO The SDR improvement for this wav:0.07227415295234607
+2020-01-02 23:29:49,031 eval_logger INFO The loss for the current batch:2012.4027099609375
+2020-01-02 23:29:52,537 eval_logger INFO SDR before enhancement:[-23.53421846]
+2020-01-02 23:29:52,538 eval_logger INFO SDR after enhancement:[-22.24728152]
+2020-01-02 23:29:52,538 eval_logger INFO The SDR improvement for this wav:1.286936942111609
+2020-01-02 23:29:52,811 eval_logger INFO The loss for the current batch:1007.4895629882812
+2020-01-02 23:29:55,721 eval_logger INFO SDR before enhancement:[-22.92740108]
+2020-01-02 23:29:55,721 eval_logger INFO SDR after enhancement:[-23.82795018]
+2020-01-02 23:29:55,721 eval_logger INFO The SDR improvement for this wav:-0.9005490959707956
+2020-01-02 23:29:55,927 eval_logger INFO The loss for the current batch:3029.072265625
+2020-01-02 23:29:59,558 eval_logger INFO SDR before enhancement:[-21.06182336]
+2020-01-02 23:29:59,558 eval_logger INFO SDR after enhancement:[-21.21892848]
+2020-01-02 23:29:59,559 eval_logger INFO The SDR improvement for this wav:-0.1571051204265821
+2020-01-02 23:29:59,846 eval_logger INFO The loss for the current batch:2067.8056640625
+2020-01-02 23:30:02,792 eval_logger INFO SDR before enhancement:[-18.36672674]
+2020-01-02 23:30:02,793 eval_logger INFO SDR after enhancement:[-21.51747852]
+2020-01-02 23:30:02,793 eval_logger INFO The SDR improvement for this wav:-3.1507517752424654
+2020-01-02 23:30:03,109 eval_logger INFO The loss for the current batch:2537.56689453125
+2020-01-02 23:30:06,506 eval_logger INFO SDR before enhancement:[-26.11339237]
+2020-01-02 23:30:06,506 eval_logger INFO SDR after enhancement:[-19.78504272]
+2020-01-02 23:30:06,506 eval_logger INFO The SDR improvement for this wav:6.328349645752688
+2020-01-02 23:30:06,761 eval_logger INFO The loss for the current batch:1894.7877197265625
+2020-01-02 23:30:09,831 eval_logger INFO SDR before enhancement:[-16.43699201]
+2020-01-02 23:30:09,832 eval_logger INFO SDR after enhancement:[-19.4107025]
+2020-01-02 23:30:09,832 eval_logger INFO The SDR improvement for this wav:-2.97371048477655
+2020-01-02 23:30:10,141 eval_logger INFO The loss for the current batch:2520.246337890625
+2020-01-02 23:30:13,346 eval_logger INFO SDR before enhancement:[-17.66393601]
+2020-01-02 23:30:13,347 eval_logger INFO SDR after enhancement:[-20.15883111]
+2020-01-02 23:30:13,347 eval_logger INFO The SDR improvement for this wav:-2.4948951018973347
+2020-01-02 23:30:13,692 eval_logger INFO The loss for the current batch:3539.50732421875
+2020-01-02 23:30:16,457 eval_logger INFO SDR before enhancement:[-21.77419682]
+2020-01-02 23:30:16,458 eval_logger INFO SDR after enhancement:[-23.06102924]
+2020-01-02 23:30:16,458 eval_logger INFO The SDR improvement for this wav:-1.2868324204849415
+2020-01-02 23:30:16,748 eval_logger INFO The loss for the current batch:1005.5564575195312
+2020-01-02 23:30:19,642 eval_logger INFO SDR before enhancement:[-19.34765728]
+2020-01-02 23:30:19,643 eval_logger INFO SDR after enhancement:[-22.0448631]
+2020-01-02 23:30:19,643 eval_logger INFO The SDR improvement for this wav:-2.697205821099111
+2020-01-02 23:30:19,953 eval_logger INFO The loss for the current batch:1038.5648193359375
+2020-01-02 23:30:23,859 eval_logger INFO SDR before enhancement:[-22.42941636]
+2020-01-02 23:30:23,860 eval_logger INFO SDR after enhancement:[-22.03148891]
+2020-01-02 23:30:23,860 eval_logger INFO The SDR improvement for this wav:0.3979274454854824
+2020-01-02 23:30:24,163 eval_logger INFO The loss for the current batch:6140.38720703125
+2020-01-02 23:30:27,216 eval_logger INFO SDR before enhancement:[-18.91728892]
+2020-01-02 23:30:27,216 eval_logger INFO SDR after enhancement:[-18.93511068]
+2020-01-02 23:30:27,216 eval_logger INFO The SDR improvement for this wav:-0.017821761077843945
+2020-01-02 23:30:27,719 eval_logger INFO The loss for the current batch:2418.430419921875
+2020-01-02 23:30:31,305 eval_logger INFO SDR before enhancement:[-22.61649677]
+2020-01-02 23:30:31,305 eval_logger INFO SDR after enhancement:[-22.93525745]
+2020-01-02 23:30:31,305 eval_logger INFO The SDR improvement for this wav:-0.318760681411117
+2020-01-02 23:30:31,609 eval_logger INFO The loss for the current batch:3934.38232421875
+2020-01-02 23:30:33,817 eval_logger INFO SDR before enhancement:[-23.47150737]
+2020-01-02 23:30:33,817 eval_logger INFO SDR after enhancement:[-22.69608473]
+2020-01-02 23:30:33,817 eval_logger INFO The SDR improvement for this wav:0.7754226409387108
+2020-01-02 23:30:34,248 eval_logger INFO The loss for the current batch:3219.261962890625
+2020-01-02 23:30:38,208 eval_logger INFO SDR before enhancement:[-20.38976147]
+2020-01-02 23:30:38,208 eval_logger INFO SDR after enhancement:[-21.38828458]
+2020-01-02 23:30:38,208 eval_logger INFO The SDR improvement for this wav:-0.9985231049901238
+2020-01-02 23:30:38,478 eval_logger INFO The loss for the current batch:3297.38134765625
+2020-01-02 23:30:41,694 eval_logger INFO SDR before enhancement:[-23.12504611]
+2020-01-02 23:30:41,694 eval_logger INFO SDR after enhancement:[-22.83148259]
+2020-01-02 23:30:41,694 eval_logger INFO The SDR improvement for this wav:0.2935635192308155
+2020-01-02 23:30:41,925 eval_logger INFO The loss for the current batch:2931.07958984375
+2020-01-02 23:30:44,834 eval_logger INFO SDR before enhancement:[-17.39479326]
+2020-01-02 23:30:44,835 eval_logger INFO SDR after enhancement:[-20.35937926]
+2020-01-02 23:30:44,835 eval_logger INFO The SDR improvement for this wav:-2.9645860065379637
+2020-01-02 23:30:45,105 eval_logger INFO The loss for the current batch:5772.45849609375
+2020-01-02 23:30:47,701 eval_logger INFO SDR before enhancement:[-15.46547646]
+2020-01-02 23:30:47,702 eval_logger INFO SDR after enhancement:[-15.19869056]
+2020-01-02 23:30:47,702 eval_logger INFO The SDR improvement for this wav:0.26678590087321474
+2020-01-02 23:30:47,878 eval_logger INFO The loss for the current batch:8026.91015625
+2020-01-02 23:30:51,301 eval_logger INFO SDR before enhancement:[-20.1283451]
+2020-01-02 23:30:51,306 eval_logger INFO SDR after enhancement:[-19.98452333]
+2020-01-02 23:30:51,306 eval_logger INFO The SDR improvement for this wav:0.1438217615724362
+2020-01-02 23:30:51,617 eval_logger INFO The loss for the current batch:2641.37744140625
+2020-01-02 23:30:54,626 eval_logger INFO SDR before enhancement:[-15.99915237]
+2020-01-02 23:30:54,626 eval_logger INFO SDR after enhancement:[-16.87243952]
+2020-01-02 23:30:54,626 eval_logger INFO The SDR improvement for this wav:-0.8732871461288081
+2020-01-02 23:30:54,950 eval_logger INFO The loss for the current batch:4141.50634765625
+2020-01-02 23:30:58,502 eval_logger INFO SDR before enhancement:[-19.61728031]
+2020-01-02 23:30:58,502 eval_logger INFO SDR after enhancement:[-19.54914546]
+2020-01-02 23:30:58,503 eval_logger INFO The SDR improvement for this wav:0.06813484654058044
+2020-01-02 23:30:58,860 eval_logger INFO The loss for the current batch:1054.628173828125
+2020-01-02 23:31:01,061 eval_logger INFO SDR before enhancement:[-25.99908225]
+2020-01-02 23:31:01,062 eval_logger INFO SDR after enhancement:[-27.54872102]
+2020-01-02 23:31:01,062 eval_logger INFO The SDR improvement for this wav:-1.5496387681278563
+2020-01-02 23:31:01,544 eval_logger INFO The loss for the current batch:1628.7921142578125
+2020-01-02 23:31:05,434 eval_logger INFO SDR before enhancement:[-22.04502177]
+2020-01-02 23:31:05,436 eval_logger INFO SDR after enhancement:[-21.2717432]
+2020-01-02 23:31:05,436 eval_logger INFO The SDR improvement for this wav:0.7732785657700134
+2020-01-02 23:31:05,766 eval_logger INFO The loss for the current batch:971.0474853515625
+2020-01-02 23:31:08,040 eval_logger INFO SDR before enhancement:[-18.85193294]
+2020-01-02 23:31:08,041 eval_logger INFO SDR after enhancement:[-19.03401661]
+2020-01-02 23:31:08,041 eval_logger INFO The SDR improvement for this wav:-0.18208366769332684
+2020-01-02 23:31:08,323 eval_logger INFO The loss for the current batch:3013.606689453125
+2020-01-02 23:31:11,520 eval_logger INFO SDR before enhancement:[-13.93459857]
+2020-01-02 23:31:11,524 eval_logger INFO SDR after enhancement:[-17.2273735]
+2020-01-02 23:31:11,524 eval_logger INFO The SDR improvement for this wav:-3.292774931557515
+2020-01-02 23:31:11,872 eval_logger INFO The loss for the current batch:3077.524658203125
+2020-01-02 23:31:14,532 eval_logger INFO SDR before enhancement:[-23.80605043]
+2020-01-02 23:31:14,533 eval_logger INFO SDR after enhancement:[-20.3477473]
+2020-01-02 23:31:14,533 eval_logger INFO The SDR improvement for this wav:3.4583031262019013
+2020-01-02 23:31:15,003 eval_logger INFO The loss for the current batch:3110.198974609375
+2020-01-02 23:31:17,892 eval_logger INFO SDR before enhancement:[-15.26178686]
+2020-01-02 23:31:17,893 eval_logger INFO SDR after enhancement:[-15.19203774]
+2020-01-02 23:31:17,893 eval_logger INFO The SDR improvement for this wav:0.06974911934285899
+2020-01-02 23:31:18,112 eval_logger INFO The loss for the current batch:3207.955810546875
+2020-01-02 23:31:21,789 eval_logger INFO SDR before enhancement:[-20.2083339]
+2020-01-02 23:31:21,790 eval_logger INFO SDR after enhancement:[-20.08682709]
+2020-01-02 23:31:21,790 eval_logger INFO The SDR improvement for this wav:0.12150681712174105
+2020-01-02 23:31:22,149 eval_logger INFO The loss for the current batch:3876.752685546875
+2020-01-02 23:31:25,840 eval_logger INFO SDR before enhancement:[-22.37637393]
+2020-01-02 23:31:25,855 eval_logger INFO SDR after enhancement:[-22.08018935]
+2020-01-02 23:31:25,855 eval_logger INFO The SDR improvement for this wav:0.29618457396480835
+2020-01-02 23:31:26,123 eval_logger INFO The loss for the current batch:5241.67626953125
+2020-01-02 23:31:29,253 eval_logger INFO SDR before enhancement:[-22.06188742]
+2020-01-02 23:31:29,256 eval_logger INFO SDR after enhancement:[-22.22824372]
+2020-01-02 23:31:29,256 eval_logger INFO The SDR improvement for this wav:-0.1663562983727651
+2020-01-02 23:31:29,658 eval_logger INFO The loss for the current batch:4791.00146484375
+2020-01-02 23:31:32,702 eval_logger INFO SDR before enhancement:[-22.78637367]
+2020-01-02 23:31:32,715 eval_logger INFO SDR after enhancement:[-21.43810852]
+2020-01-02 23:31:32,715 eval_logger INFO The SDR improvement for this wav:1.348265148200376
+2020-01-02 23:31:33,054 eval_logger INFO The loss for the current batch:2544.451416015625
+2020-01-02 23:31:36,198 eval_logger INFO SDR before enhancement:[-19.99522738]
+2020-01-02 23:31:36,199 eval_logger INFO SDR after enhancement:[-18.95878848]
+2020-01-02 23:31:36,199 eval_logger INFO The SDR improvement for this wav:1.0364389020973448
+2020-01-02 23:31:36,596 eval_logger INFO The loss for the current batch:3457.859130859375
+2020-01-02 23:31:39,925 eval_logger INFO SDR before enhancement:[-23.35217992]
+2020-01-02 23:31:39,927 eval_logger INFO SDR after enhancement:[-23.37421794]
+2020-01-02 23:31:39,927 eval_logger INFO The SDR improvement for this wav:-0.02203802789748721
+2020-01-02 23:31:40,262 eval_logger INFO The loss for the current batch:2116.179931640625
+2020-01-02 23:31:43,727 eval_logger INFO SDR before enhancement:[-23.30388445]
+2020-01-02 23:31:43,728 eval_logger INFO SDR after enhancement:[-24.9507863]
+2020-01-02 23:31:43,728 eval_logger INFO The SDR improvement for this wav:-1.6469018451380997
+2020-01-02 23:31:44,011 eval_logger INFO The loss for the current batch:1110.314208984375
+2020-01-02 23:31:47,353 eval_logger INFO SDR before enhancement:[-24.69479437]
+2020-01-02 23:31:47,364 eval_logger INFO SDR after enhancement:[-24.86789559]
+2020-01-02 23:31:47,364 eval_logger INFO The SDR improvement for this wav:-0.17310121937799394
+2020-01-02 23:31:47,620 eval_logger INFO The loss for the current batch:2125.144287109375
+2020-01-02 23:31:50,198 eval_logger INFO SDR before enhancement:[-17.9475969]
+2020-01-02 23:31:50,198 eval_logger INFO SDR after enhancement:[-17.86815879]
+2020-01-02 23:31:50,202 eval_logger INFO The SDR improvement for this wav:0.07943811186930105
+2020-01-02 23:31:50,417 eval_logger INFO The loss for the current batch:1578.8416748046875
+2020-01-02 23:31:53,524 eval_logger INFO SDR before enhancement:[-19.27271366]
+2020-01-02 23:31:53,524 eval_logger INFO SDR after enhancement:[-18.11175332]
+2020-01-02 23:31:53,524 eval_logger INFO The SDR improvement for this wav:1.1609603366180714
+2020-01-02 23:31:53,851 eval_logger INFO The loss for the current batch:4853.80322265625
+2020-01-02 23:31:57,291 eval_logger INFO SDR before enhancement:[-18.62468798]
+2020-01-02 23:31:57,291 eval_logger INFO SDR after enhancement:[-18.57441075]
+2020-01-02 23:31:57,292 eval_logger INFO The SDR improvement for this wav:0.050277222412216105
+2020-01-02 23:31:57,591 eval_logger INFO The loss for the current batch:4488.79296875
+2020-01-02 23:32:01,063 eval_logger INFO SDR before enhancement:[-18.72602484]
+2020-01-02 23:32:01,064 eval_logger INFO SDR after enhancement:[-17.77085893]
+2020-01-02 23:32:01,064 eval_logger INFO The SDR improvement for this wav:0.955165919937258
+2020-01-02 23:32:01,436 eval_logger INFO The loss for the current batch:4308.9345703125
+2020-01-02 23:32:04,070 eval_logger INFO SDR before enhancement:[-23.98487145]
+2020-01-02 23:32:04,070 eval_logger INFO SDR after enhancement:[-23.80728673]
+2020-01-02 23:32:04,070 eval_logger INFO The SDR improvement for this wav:0.1775847221965634
+2020-01-02 23:32:04,314 eval_logger INFO The loss for the current batch:1363.2728271484375
+2020-01-02 23:32:07,659 eval_logger INFO SDR before enhancement:[-18.96393861]
+2020-01-02 23:32:07,665 eval_logger INFO SDR after enhancement:[-18.01207151]
+2020-01-02 23:32:07,665 eval_logger INFO The SDR improvement for this wav:0.9518670968305685
+2020-01-02 23:32:08,090 eval_logger INFO The loss for the current batch:1351.772216796875
+2020-01-02 23:32:11,327 eval_logger INFO SDR before enhancement:[-24.73670621]
+2020-01-02 23:32:11,327 eval_logger INFO SDR after enhancement:[-23.35766665]
+2020-01-02 23:32:11,327 eval_logger INFO The SDR improvement for this wav:1.3790395637306787
+2020-01-02 23:32:11,668 eval_logger INFO The loss for the current batch:555.4359741210938
+2020-01-02 23:32:14,155 eval_logger INFO SDR before enhancement:[-22.49481369]
+2020-01-02 23:32:14,156 eval_logger INFO SDR after enhancement:[-18.06911488]
+2020-01-02 23:32:14,156 eval_logger INFO The SDR improvement for this wav:4.425698808984496
+2020-01-02 23:32:14,521 eval_logger INFO The loss for the current batch:2941.0927734375
+2020-01-02 23:32:17,759 eval_logger INFO SDR before enhancement:[-22.22562999]
+2020-01-02 23:32:17,759 eval_logger INFO SDR after enhancement:[-22.47524682]
+2020-01-02 23:32:17,759 eval_logger INFO The SDR improvement for this wav:-0.2496168281812885
+2020-01-02 23:32:18,056 eval_logger INFO The loss for the current batch:1277.3519287109375
+2020-01-02 23:32:21,275 eval_logger INFO SDR before enhancement:[-19.54441248]
+2020-01-02 23:32:21,275 eval_logger INFO SDR after enhancement:[-19.30768133]
+2020-01-02 23:32:21,276 eval_logger INFO The SDR improvement for this wav:0.2367311420205418
+2020-01-02 23:32:21,632 eval_logger INFO The loss for the current batch:1470.721435546875
+2020-01-02 23:32:24,758 eval_logger INFO SDR before enhancement:[-22.7705874]
+2020-01-02 23:32:24,759 eval_logger INFO SDR after enhancement:[-21.35883014]
+2020-01-02 23:32:24,759 eval_logger INFO The SDR improvement for this wav:1.4117572625126158
+2020-01-02 23:32:24,997 eval_logger INFO The loss for the current batch:4799.61572265625
+2020-01-02 23:32:28,388 eval_logger INFO SDR before enhancement:[-17.27215035]
+2020-01-02 23:32:28,388 eval_logger INFO SDR after enhancement:[-17.34675862]
+2020-01-02 23:32:28,388 eval_logger INFO The SDR improvement for this wav:-0.07460827046806529
+2020-01-02 23:32:28,812 eval_logger INFO The loss for the current batch:2876.345947265625
+2020-01-02 23:32:32,509 eval_logger INFO SDR before enhancement:[-18.74252116]
+2020-01-02 23:32:32,510 eval_logger INFO SDR after enhancement:[-18.56695251]
+2020-01-02 23:32:32,510 eval_logger INFO The SDR improvement for this wav:0.17556865264207744
+2020-01-02 23:32:32,781 eval_logger INFO The loss for the current batch:6044.25634765625
+2020-01-02 23:32:35,513 eval_logger INFO SDR before enhancement:[-17.19404339]
+2020-01-02 23:32:35,513 eval_logger INFO SDR after enhancement:[-16.73655233]
+2020-01-02 23:32:35,513 eval_logger INFO The SDR improvement for this wav:0.45749106109317594
+2020-01-02 23:32:35,847 eval_logger INFO The loss for the current batch:7373.02783203125
+2020-01-02 23:32:38,561 eval_logger INFO SDR before enhancement:[-14.65555182]
+2020-01-02 23:32:38,562 eval_logger INFO SDR after enhancement:[-17.55790558]
+2020-01-02 23:32:38,562 eval_logger INFO The SDR improvement for this wav:-2.9023537632192067
+2020-01-02 23:32:38,944 eval_logger INFO The loss for the current batch:4243.30517578125
+2020-01-02 23:32:41,673 eval_logger INFO SDR before enhancement:[-19.50098031]
+2020-01-02 23:32:41,673 eval_logger INFO SDR after enhancement:[-18.98087164]
+2020-01-02 23:32:41,673 eval_logger INFO The SDR improvement for this wav:0.5201086631437448
+2020-01-02 23:32:41,906 eval_logger INFO The loss for the current batch:8138.634765625
+2020-01-02 23:32:44,887 eval_logger INFO SDR before enhancement:[-21.54665205]
+2020-01-02 23:32:44,888 eval_logger INFO SDR after enhancement:[-22.01920313]
+2020-01-02 23:32:44,888 eval_logger INFO The SDR improvement for this wav:-0.4725510824829229
+2020-01-02 23:32:45,256 eval_logger INFO The loss for the current batch:2244.0625
+2020-01-02 23:32:48,627 eval_logger INFO SDR before enhancement:[-18.51765614]
+2020-01-02 23:32:48,627 eval_logger INFO SDR after enhancement:[-18.02172583]
+2020-01-02 23:32:48,627 eval_logger INFO The SDR improvement for this wav:0.49593031295547263
+2020-01-02 23:32:48,989 eval_logger INFO The loss for the current batch:2243.145263671875
+2020-01-02 23:32:52,407 eval_logger INFO SDR before enhancement:[-22.16884995]
+2020-01-02 23:32:52,407 eval_logger INFO SDR after enhancement:[-21.67215675]
+2020-01-02 23:32:52,408 eval_logger INFO The SDR improvement for this wav:0.4966932008788518
+2020-01-02 23:32:52,744 eval_logger INFO The loss for the current batch:3607.247314453125
+2020-01-02 23:32:55,316 eval_logger INFO SDR before enhancement:[-19.99645187]
+2020-01-02 23:32:55,317 eval_logger INFO SDR after enhancement:[-19.12704403]
+2020-01-02 23:32:55,317 eval_logger INFO The SDR improvement for this wav:0.8694078487436627
+2020-01-02 23:32:55,782 eval_logger INFO The loss for the current batch:5325.6494140625
+2020-01-02 23:32:59,274 eval_logger INFO SDR before enhancement:[-20.35753216]
+2020-01-02 23:32:59,274 eval_logger INFO SDR after enhancement:[-20.51186677]
+2020-01-02 23:32:59,274 eval_logger INFO The SDR improvement for this wav:-0.15433460912501573
+2020-01-02 23:32:59,549 eval_logger INFO The loss for the current batch:2395.639892578125
+2020-01-02 23:33:02,312 eval_logger INFO SDR before enhancement:[-23.48936252]
+2020-01-02 23:33:02,312 eval_logger INFO SDR after enhancement:[-23.76554044]
+2020-01-02 23:33:02,312 eval_logger INFO The SDR improvement for this wav:-0.2761779131189108
+2020-01-02 23:33:02,708 eval_logger INFO The loss for the current batch:2818.783203125
+2020-01-02 23:33:05,545 eval_logger INFO SDR before enhancement:[-20.4479192]
+2020-01-02 23:33:05,545 eval_logger INFO SDR after enhancement:[-20.09809183]
+2020-01-02 23:33:05,545 eval_logger INFO The SDR improvement for this wav:0.349827374233346
+2020-01-02 23:33:05,773 eval_logger INFO The loss for the current batch:2868.302734375
+2020-01-02 23:33:08,865 eval_logger INFO SDR before enhancement:[-16.07161209]
+2020-01-02 23:33:08,866 eval_logger INFO SDR after enhancement:[-18.8836425]
+2020-01-02 23:33:08,866 eval_logger INFO The SDR improvement for this wav:-2.812030413031703
+2020-01-02 23:33:09,308 eval_logger INFO The loss for the current batch:2416.630859375
+2020-01-02 23:33:12,939 eval_logger INFO SDR before enhancement:[-16.99672745]
+2020-01-02 23:33:12,940 eval_logger INFO SDR after enhancement:[-17.49937286]
+2020-01-02 23:33:12,940 eval_logger INFO The SDR improvement for this wav:-0.5026454105088547
+2020-01-02 23:33:13,391 eval_logger INFO The loss for the current batch:2233.258544921875
+2020-01-02 23:33:17,088 eval_logger INFO SDR before enhancement:[-25.33695691]
+2020-01-02 23:33:17,092 eval_logger INFO SDR after enhancement:[-24.5791476]
+2020-01-02 23:33:17,093 eval_logger INFO The SDR improvement for this wav:0.7578093100085361
+2020-01-02 23:33:17,403 eval_logger INFO The loss for the current batch:5917.189453125
+2020-01-02 23:33:20,377 eval_logger INFO SDR before enhancement:[-18.4276569]
+2020-01-02 23:33:20,378 eval_logger INFO SDR after enhancement:[-18.20956511]
+2020-01-02 23:33:20,378 eval_logger INFO The SDR improvement for this wav:0.21809179281192925
+2020-01-02 23:33:20,634 eval_logger INFO The loss for the current batch:1189.818115234375
+2020-01-02 23:33:23,354 eval_logger INFO SDR before enhancement:[-20.4097034]
+2020-01-02 23:33:23,355 eval_logger INFO SDR after enhancement:[-17.98422633]
+2020-01-02 23:33:23,355 eval_logger INFO The SDR improvement for this wav:2.425477069921854
+2020-01-02 23:33:23,829 eval_logger INFO The loss for the current batch:1142.6170654296875
+2020-01-02 23:33:26,700 eval_logger INFO SDR before enhancement:[-26.49453148]
+2020-01-02 23:33:26,700 eval_logger INFO SDR after enhancement:[-25.45688455]
+2020-01-02 23:33:26,700 eval_logger INFO The SDR improvement for this wav:1.0376469297185302
+2020-01-02 23:33:26,965 eval_logger INFO The loss for the current batch:2953.3681640625
+2020-01-02 23:33:30,215 eval_logger INFO SDR before enhancement:[-21.21262756]
+2020-01-02 23:33:30,215 eval_logger INFO SDR after enhancement:[-20.26357678]
+2020-01-02 23:33:30,215 eval_logger INFO The SDR improvement for this wav:0.9490507801415475
+2020-01-02 23:33:30,550 eval_logger INFO The loss for the current batch:1526.4810791015625
+2020-01-02 23:33:32,202 eval_logger INFO SDR before enhancement:[-28.58874505]
+2020-01-02 23:33:32,203 eval_logger INFO SDR after enhancement:[-24.8328665]
+2020-01-02 23:33:32,203 eval_logger INFO The SDR improvement for this wav:3.7558785435617423
+2020-01-02 23:33:32,490 eval_logger INFO The loss for the current batch:3887.31103515625
+2020-01-02 23:33:35,754 eval_logger INFO SDR before enhancement:[-23.36507813]
+2020-01-02 23:33:35,755 eval_logger INFO SDR after enhancement:[-23.53852449]
+2020-01-02 23:33:35,755 eval_logger INFO The SDR improvement for this wav:-0.17344636628605414
+2020-01-02 23:33:36,197 eval_logger INFO The loss for the current batch:4506.9833984375
+2020-01-02 23:33:39,345 eval_logger INFO SDR before enhancement:[-21.74946466]
+2020-01-02 23:33:39,345 eval_logger INFO SDR after enhancement:[-20.79273296]
+2020-01-02 23:33:39,346 eval_logger INFO The SDR improvement for this wav:0.9567316971197144
+2020-01-02 23:33:39,767 eval_logger INFO The loss for the current batch:1732.560302734375
+2020-01-02 23:33:42,644 eval_logger INFO SDR before enhancement:[-17.10444062]
+2020-01-02 23:33:42,645 eval_logger INFO SDR after enhancement:[-17.4762893]
+2020-01-02 23:33:42,645 eval_logger INFO The SDR improvement for this wav:-0.3718486851494909
+2020-01-02 23:33:42,932 eval_logger INFO The loss for the current batch:2706.002685546875
+2020-01-02 23:33:46,485 eval_logger INFO SDR before enhancement:[-21.6615207]
+2020-01-02 23:33:46,485 eval_logger INFO SDR after enhancement:[-20.60077179]
+2020-01-02 23:33:46,485 eval_logger INFO The SDR improvement for this wav:1.0607489038688058
+2020-01-02 23:33:46,876 eval_logger INFO The loss for the current batch:3841.729248046875
+2020-01-02 23:33:50,262 eval_logger INFO SDR before enhancement:[-18.84360147]
+2020-01-02 23:33:50,262 eval_logger INFO SDR after enhancement:[-19.01579081]
+2020-01-02 23:33:50,263 eval_logger INFO The SDR improvement for this wav:-0.17218933555644966
+2020-01-02 23:33:50,477 eval_logger INFO The loss for the current batch:3554.119140625
+2020-01-02 23:33:53,821 eval_logger INFO SDR before enhancement:[-22.03621423]
+2020-01-02 23:33:53,829 eval_logger INFO SDR after enhancement:[-22.28149265]
+2020-01-02 23:33:53,829 eval_logger INFO The SDR improvement for this wav:-0.2452784120022642
+2020-01-02 23:33:54,196 eval_logger INFO The loss for the current batch:1946.1319580078125
+2020-01-02 23:33:56,882 eval_logger INFO SDR before enhancement:[-19.47407474]
+2020-01-02 23:33:56,882 eval_logger INFO SDR after enhancement:[-20.37744254]
+2020-01-02 23:33:56,882 eval_logger INFO The SDR improvement for this wav:-0.903367791357379
+2020-01-02 23:33:57,080 eval_logger INFO The loss for the current batch:4327.8876953125
+2020-01-02 23:34:00,252 eval_logger INFO SDR before enhancement:[-10.99362023]
+2020-01-02 23:34:00,252 eval_logger INFO SDR after enhancement:[-14.04691594]
+2020-01-02 23:34:00,252 eval_logger INFO The SDR improvement for this wav:-3.053295701875493
+2020-01-02 23:34:00,716 eval_logger INFO The loss for the current batch:1306.8056640625
+2020-01-02 23:34:03,731 eval_logger INFO SDR before enhancement:[-23.60983104]
+2020-01-02 23:34:03,732 eval_logger INFO SDR after enhancement:[-23.68446852]
+2020-01-02 23:34:03,732 eval_logger INFO The SDR improvement for this wav:-0.07463747947148391
+2020-01-02 23:34:04,049 eval_logger INFO The loss for the current batch:2845.948974609375
+2020-01-02 23:34:06,973 eval_logger INFO SDR before enhancement:[-17.20166104]
+2020-01-02 23:34:06,974 eval_logger INFO SDR after enhancement:[-18.28006719]
+2020-01-02 23:34:06,974 eval_logger INFO The SDR improvement for this wav:-1.0784061508047458
+2020-01-02 23:34:07,177 eval_logger INFO The loss for the current batch:4457.2001953125
+2020-01-02 23:34:09,666 eval_logger INFO SDR before enhancement:[-22.70611559]
+2020-01-02 23:34:09,667 eval_logger INFO SDR after enhancement:[-21.00781244]
+2020-01-02 23:34:09,667 eval_logger INFO The SDR improvement for this wav:1.6983031488493872
+2020-01-02 23:34:10,011 eval_logger INFO The loss for the current batch:4215.7255859375
+2020-01-02 23:34:13,106 eval_logger INFO SDR before enhancement:[-18.56549135]
+2020-01-02 23:34:13,106 eval_logger INFO SDR after enhancement:[-17.82837228]
+2020-01-02 23:34:13,107 eval_logger INFO The SDR improvement for this wav:0.737119070006159
+2020-01-02 23:34:13,380 eval_logger INFO The loss for the current batch:1471.3880615234375
+2020-01-02 23:34:16,582 eval_logger INFO SDR before enhancement:[-18.28535757]
+2020-01-02 23:34:16,583 eval_logger INFO SDR after enhancement:[-18.61342481]
+2020-01-02 23:34:16,583 eval_logger INFO The SDR improvement for this wav:-0.32806723236306823
+2020-01-02 23:34:16,874 eval_logger INFO The loss for the current batch:434.4010009765625
+2020-01-02 23:34:20,586 eval_logger INFO SDR before enhancement:[-25.88767707]
+2020-01-02 23:34:20,586 eval_logger INFO SDR after enhancement:[-23.87301033]
+2020-01-02 23:34:20,586 eval_logger INFO The SDR improvement for this wav:2.014666745060172
+2020-01-02 23:34:20,914 eval_logger INFO The loss for the current batch:1694.03857421875
+2020-01-02 23:34:23,933 eval_logger INFO SDR before enhancement:[-15.32029377]
+2020-01-02 23:34:23,933 eval_logger INFO SDR after enhancement:[-19.22186239]
+2020-01-02 23:34:23,933 eval_logger INFO The SDR improvement for this wav:-3.901568625111043
+2020-01-02 23:34:24,147 eval_logger INFO The loss for the current batch:7761.998046875
+2020-01-02 23:34:27,213 eval_logger INFO SDR before enhancement:[-20.4595244]
+2020-01-02 23:34:27,214 eval_logger INFO SDR after enhancement:[-18.72359074]
+2020-01-02 23:34:27,214 eval_logger INFO The SDR improvement for this wav:1.7359336596299286
+2020-01-02 23:34:27,487 eval_logger INFO The loss for the current batch:3807.3603515625
+2020-01-02 23:34:30,596 eval_logger INFO SDR before enhancement:[-21.11029162]
+2020-01-02 23:34:30,603 eval_logger INFO SDR after enhancement:[-21.86400309]
+2020-01-02 23:34:30,603 eval_logger INFO The SDR improvement for this wav:-0.7537114619292389
+2020-01-02 23:34:30,914 eval_logger INFO The loss for the current batch:1759.421142578125
+2020-01-02 23:34:33,462 eval_logger INFO SDR before enhancement:[-20.62952652]
+2020-01-02 23:34:33,463 eval_logger INFO SDR after enhancement:[-18.83023555]
+2020-01-02 23:34:33,463 eval_logger INFO The SDR improvement for this wav:1.7992909735618383
+2020-01-02 23:34:33,691 eval_logger INFO The loss for the current batch:5403.52587890625
+2020-01-02 23:34:37,175 eval_logger INFO SDR before enhancement:[-20.68609364]
+2020-01-02 23:34:37,176 eval_logger INFO SDR after enhancement:[-19.80922964]
+2020-01-02 23:34:37,176 eval_logger INFO The SDR improvement for this wav:0.8768639951761017
+2020-01-02 23:34:37,506 eval_logger INFO The loss for the current batch:4727.9638671875
+2020-01-02 23:34:40,591 eval_logger INFO SDR before enhancement:[-25.13162277]
+2020-01-02 23:34:40,592 eval_logger INFO SDR after enhancement:[-24.56869886]
+2020-01-02 23:34:40,592 eval_logger INFO The SDR improvement for this wav:0.5629239100934669
+2020-01-02 23:34:40,891 eval_logger INFO The loss for the current batch:2546.028564453125
+2020-01-02 23:34:44,552 eval_logger INFO SDR before enhancement:[-20.13678373]
+2020-01-02 23:34:44,553 eval_logger INFO SDR after enhancement:[-21.91117998]
+2020-01-02 23:34:44,553 eval_logger INFO The SDR improvement for this wav:-1.7743962527709911
+2020-01-02 23:34:45,004 eval_logger INFO The loss for the current batch:1757.77490234375
+2020-01-02 23:34:48,055 eval_logger INFO SDR before enhancement:[-25.43699551]
+2020-01-02 23:34:48,056 eval_logger INFO SDR after enhancement:[-23.70399547]
+2020-01-02 23:34:48,056 eval_logger INFO The SDR improvement for this wav:1.7330000417056226
+2020-01-02 23:34:48,375 eval_logger INFO The loss for the current batch:2727.74365234375
+2020-01-02 23:34:51,450 eval_logger INFO SDR before enhancement:[-18.98518308]
+2020-01-02 23:34:51,450 eval_logger INFO SDR after enhancement:[-17.11073909]
+2020-01-02 23:34:51,451 eval_logger INFO The SDR improvement for this wav:1.8744439937816288
+2020-01-02 23:34:51,678 eval_logger INFO The loss for the current batch:8557.26953125
+2020-01-02 23:34:55,079 eval_logger INFO SDR before enhancement:[-18.60509384]
+2020-01-02 23:34:55,079 eval_logger INFO SDR after enhancement:[-18.74295041]
+2020-01-02 23:34:55,079 eval_logger INFO The SDR improvement for this wav:-0.13785657191377254
+2020-01-02 23:34:55,446 eval_logger INFO The loss for the current batch:4520.1611328125
+2020-01-02 23:34:58,255 eval_logger INFO SDR before enhancement:[-20.10972702]
+2020-01-02 23:34:58,255 eval_logger INFO SDR after enhancement:[-19.2233068]
+2020-01-02 23:34:58,256 eval_logger INFO The SDR improvement for this wav:0.8864202192796959
+2020-01-02 23:34:58,493 eval_logger INFO The loss for the current batch:4856.193359375
+2020-01-02 23:35:00,688 eval_logger INFO SDR before enhancement:[-15.22795276]
+2020-01-02 23:35:00,688 eval_logger INFO SDR after enhancement:[-14.67913487]
+2020-01-02 23:35:00,689 eval_logger INFO The SDR improvement for this wav:0.5488178846151879
+2020-01-02 23:35:00,920 eval_logger INFO The loss for the current batch:4310.80078125
+2020-01-02 23:35:03,623 eval_logger INFO SDR before enhancement:[-17.89669351]
+2020-01-02 23:35:03,623 eval_logger INFO SDR after enhancement:[-16.8276235]
+2020-01-02 23:35:03,623 eval_logger INFO The SDR improvement for this wav:1.0690700111565015
+2020-01-02 23:35:04,048 eval_logger INFO The loss for the current batch:2426.2744140625
+2020-01-02 23:35:06,912 eval_logger INFO SDR before enhancement:[-20.40524653]
+2020-01-02 23:35:06,917 eval_logger INFO SDR after enhancement:[-19.65470487]
+2020-01-02 23:35:06,918 eval_logger INFO The SDR improvement for this wav:0.7505416537797558
+2020-01-02 23:35:07,136 eval_logger INFO The loss for the current batch:3349.581787109375
+2020-01-02 23:35:10,486 eval_logger INFO SDR before enhancement:[-17.16365181]
+2020-01-02 23:35:10,486 eval_logger INFO SDR after enhancement:[-18.67867976]
+2020-01-02 23:35:10,486 eval_logger INFO The SDR improvement for this wav:-1.5150279545735295
+2020-01-02 23:35:10,769 eval_logger INFO The loss for the current batch:2027.097900390625
+2020-01-02 23:35:14,627 eval_logger INFO SDR before enhancement:[-23.99811035]
+2020-01-02 23:35:14,627 eval_logger INFO SDR after enhancement:[-22.16996192]
+2020-01-02 23:35:14,627 eval_logger INFO The SDR improvement for this wav:1.8281484288241039
+2020-01-02 23:35:14,977 eval_logger INFO The loss for the current batch:5651.12939453125
+2020-01-02 23:35:18,362 eval_logger INFO SDR before enhancement:[-20.51777719]
+2020-01-02 23:35:18,362 eval_logger INFO SDR after enhancement:[-20.29962967]
+2020-01-02 23:35:18,362 eval_logger INFO The SDR improvement for this wav:0.2181475148594103
+2020-01-02 23:35:18,676 eval_logger INFO The loss for the current batch:1792.24609375
+2020-01-02 23:35:21,005 eval_logger INFO SDR before enhancement:[-18.33532387]
+2020-01-02 23:35:21,005 eval_logger INFO SDR after enhancement:[-17.8690987]
+2020-01-02 23:35:21,005 eval_logger INFO The SDR improvement for this wav:0.4662251709999836
+2020-01-02 23:35:21,431 eval_logger INFO The loss for the current batch:2899.017578125
+2020-01-02 23:35:24,805 eval_logger INFO SDR before enhancement:[-22.09484915]
+2020-01-02 23:35:24,805 eval_logger INFO SDR after enhancement:[-22.2070899]
+2020-01-02 23:35:24,805 eval_logger INFO The SDR improvement for this wav:-0.11224075529369415
+2020-01-02 23:35:25,199 eval_logger INFO The loss for the current batch:818.1845703125
+2020-01-02 23:35:28,429 eval_logger INFO SDR before enhancement:[-21.46702837]
+2020-01-02 23:35:28,434 eval_logger INFO SDR after enhancement:[-20.66481681]
+2020-01-02 23:35:28,434 eval_logger INFO The SDR improvement for this wav:0.8022115584279526
+2020-01-02 23:35:28,653 eval_logger INFO The loss for the current batch:2137.22021484375
+2020-01-02 23:35:31,319 eval_logger INFO SDR before enhancement:[-20.24276461]
+2020-01-02 23:35:31,320 eval_logger INFO SDR after enhancement:[-16.95148389]
+2020-01-02 23:35:31,320 eval_logger INFO The SDR improvement for this wav:3.291280722349647
+2020-01-02 23:35:31,744 eval_logger INFO The loss for the current batch:576.338623046875
+2020-01-02 23:35:34,885 eval_logger INFO SDR before enhancement:[-19.79878534]
+2020-01-02 23:35:34,885 eval_logger INFO SDR after enhancement:[-17.43713449]
+2020-01-02 23:35:34,885 eval_logger INFO The SDR improvement for this wav:2.3616508571835126
+2020-01-02 23:35:35,165 eval_logger INFO The loss for the current batch:1793.7523193359375
+2020-01-02 23:35:37,624 eval_logger INFO SDR before enhancement:[-24.33200824]
+2020-01-02 23:35:37,624 eval_logger INFO SDR after enhancement:[-25.3680425]
+2020-01-02 23:35:37,624 eval_logger INFO The SDR improvement for this wav:-1.036034255324413
+2020-01-02 23:35:38,032 eval_logger INFO The loss for the current batch:2405.53759765625
+2020-01-02 23:35:41,148 eval_logger INFO SDR before enhancement:[-15.11458164]
+2020-01-02 23:35:41,148 eval_logger INFO SDR after enhancement:[-15.95652288]
+2020-01-02 23:35:41,148 eval_logger INFO The SDR improvement for this wav:-0.8419412400333552
+2020-01-02 23:35:41,509 eval_logger INFO The loss for the current batch:4320.4296875
+2020-01-02 23:35:45,500 eval_logger INFO SDR before enhancement:[-19.99643975]
+2020-01-02 23:35:45,501 eval_logger INFO SDR after enhancement:[-19.57797676]
+2020-01-02 23:35:45,501 eval_logger INFO The SDR improvement for this wav:0.4184629847648118
+2020-01-02 23:35:45,919 eval_logger INFO The loss for the current batch:1662.0653076171875
+2020-01-02 23:35:49,598 eval_logger INFO SDR before enhancement:[-24.09984965]
+2020-01-02 23:35:49,605 eval_logger INFO SDR after enhancement:[-23.97350968]
+2020-01-02 23:35:49,605 eval_logger INFO The SDR improvement for this wav:0.1263399628342583
+2020-01-02 23:35:49,929 eval_logger INFO The loss for the current batch:1043.9248046875
+2020-01-02 23:35:54,155 eval_logger INFO SDR before enhancement:[-21.47435466]
+2020-01-02 23:35:54,156 eval_logger INFO SDR after enhancement:[-22.05534647]
+2020-01-02 23:35:54,156 eval_logger INFO The SDR improvement for this wav:-0.5809918103348473
+2020-01-02 23:35:54,508 eval_logger INFO The loss for the current batch:1631.431884765625
+2020-01-02 23:35:58,216 eval_logger INFO SDR before enhancement:[-20.3947214]
+2020-01-02 23:35:58,221 eval_logger INFO SDR after enhancement:[-20.76202856]
+2020-01-02 23:35:58,221 eval_logger INFO The SDR improvement for this wav:-0.3673071625271298
+2020-01-02 23:35:58,718 eval_logger INFO The loss for the current batch:1986.9757080078125
+2020-01-02 23:36:02,379 eval_logger INFO SDR before enhancement:[-19.07684121]
+2020-01-02 23:36:02,379 eval_logger INFO SDR after enhancement:[-19.70025818]
+2020-01-02 23:36:02,379 eval_logger INFO The SDR improvement for this wav:-0.6234169629241357
+2020-01-02 23:36:02,696 eval_logger INFO The loss for the current batch:1621.2620849609375
+2020-01-02 23:36:05,461 eval_logger INFO SDR before enhancement:[-21.3407491]
+2020-01-02 23:36:05,461 eval_logger INFO SDR after enhancement:[-19.53617518]
+2020-01-02 23:36:05,462 eval_logger INFO The SDR improvement for this wav:1.8045739134787837
+2020-01-02 23:36:05,790 eval_logger INFO The loss for the current batch:4735.19287109375
+2020-01-02 23:36:08,891 eval_logger INFO SDR before enhancement:[-17.2319413]
+2020-01-02 23:36:08,891 eval_logger INFO SDR after enhancement:[-19.7160658]
+2020-01-02 23:36:08,892 eval_logger INFO The SDR improvement for this wav:-2.4841244941226677
+2020-01-02 23:36:09,257 eval_logger INFO The loss for the current batch:1035.420166015625
+2020-01-02 23:36:12,140 eval_logger INFO SDR before enhancement:[-17.70644302]
+2020-01-02 23:36:12,140 eval_logger INFO SDR after enhancement:[-17.67325098]
+2020-01-02 23:36:12,140 eval_logger INFO The SDR improvement for this wav:0.033192039052348576
+2020-01-02 23:36:12,519 eval_logger INFO The loss for the current batch:2078.680419921875
+2020-01-02 23:36:15,821 eval_logger INFO SDR before enhancement:[-18.86173129]
+2020-01-02 23:36:15,821 eval_logger INFO SDR after enhancement:[-19.47672081]
+2020-01-02 23:36:15,822 eval_logger INFO The SDR improvement for this wav:-0.6149895182421758
+2020-01-02 23:36:16,071 eval_logger INFO The loss for the current batch:2348.260986328125
+2020-01-02 23:36:19,941 eval_logger INFO SDR before enhancement:[-19.2921168]
+2020-01-02 23:36:19,943 eval_logger INFO SDR after enhancement:[-18.59063622]
+2020-01-02 23:36:19,943 eval_logger INFO The SDR improvement for this wav:0.7014805780605045
+2020-01-02 23:36:20,356 eval_logger INFO The loss for the current batch:1876.1588134765625
+2020-01-02 23:36:23,430 eval_logger INFO SDR before enhancement:[-20.94349253]
+2020-01-02 23:36:23,442 eval_logger INFO SDR after enhancement:[-20.85194804]
+2020-01-02 23:36:23,442 eval_logger INFO The SDR improvement for this wav:0.09154448976406471
+2020-01-02 23:36:23,705 eval_logger INFO The loss for the current batch:2116.192626953125
+2020-01-02 23:36:26,641 eval_logger INFO SDR before enhancement:[-23.02907311]
+2020-01-02 23:36:26,641 eval_logger INFO SDR after enhancement:[-17.60286321]
+2020-01-02 23:36:26,641 eval_logger INFO The SDR improvement for this wav:5.426209903517098
+2020-01-02 23:36:27,105 eval_logger INFO The loss for the current batch:4694.11865234375
+2020-01-02 23:36:30,103 eval_logger INFO SDR before enhancement:[-24.68549366]
+2020-01-02 23:36:30,104 eval_logger INFO SDR after enhancement:[-24.52431871]
+2020-01-02 23:36:30,104 eval_logger INFO The SDR improvement for this wav:0.16117495132906967
+2020-01-02 23:36:30,387 eval_logger INFO The loss for the current batch:660.6787109375
+2020-01-02 23:36:33,405 eval_logger INFO SDR before enhancement:[-24.00805547]
+2020-01-02 23:36:33,405 eval_logger INFO SDR after enhancement:[-23.69140145]
+2020-01-02 23:36:33,405 eval_logger INFO The SDR improvement for this wav:0.31665402245984
+2020-01-02 23:36:33,924 eval_logger INFO The loss for the current batch:3366.281494140625
+2020-01-02 23:36:37,786 eval_logger INFO SDR before enhancement:[-20.21187138]
+2020-01-02 23:36:37,787 eval_logger INFO SDR after enhancement:[-20.58277743]
+2020-01-02 23:36:37,787 eval_logger INFO The SDR improvement for this wav:-0.3709060424224724
+2020-01-02 23:36:38,179 eval_logger INFO The loss for the current batch:4838.66943359375
+2020-01-02 23:36:41,716 eval_logger INFO SDR before enhancement:[-18.05226824]
+2020-01-02 23:36:41,716 eval_logger INFO SDR after enhancement:[-18.75352197]
+2020-01-02 23:36:41,716 eval_logger INFO The SDR improvement for this wav:-0.7012537284665861
+2020-01-02 23:36:42,039 eval_logger INFO The loss for the current batch:2419.2958984375
+2020-01-02 23:36:44,769 eval_logger INFO SDR before enhancement:[-21.60160516]
+2020-01-02 23:36:44,770 eval_logger INFO SDR after enhancement:[-20.32110489]
+2020-01-02 23:36:44,770 eval_logger INFO The SDR improvement for this wav:1.2805002728377417
+2020-01-02 23:36:45,040 eval_logger INFO The loss for the current batch:3750.602294921875
+2020-01-02 23:36:48,420 eval_logger INFO SDR before enhancement:[-20.75030919]
+2020-01-02 23:36:48,426 eval_logger INFO SDR after enhancement:[-20.37150465]
+2020-01-02 23:36:48,426 eval_logger INFO The SDR improvement for this wav:0.3788045335114738
+2020-01-02 23:36:48,805 eval_logger INFO The loss for the current batch:3441.884521484375
+2020-01-02 23:36:51,952 eval_logger INFO SDR before enhancement:[-20.09635691]
+2020-01-02 23:36:51,953 eval_logger INFO SDR after enhancement:[-19.01031938]
+2020-01-02 23:36:51,953 eval_logger INFO The SDR improvement for this wav:1.086037525344583
+2020-01-02 23:36:52,203 eval_logger INFO The loss for the current batch:3480.42138671875
+2020-01-02 23:36:55,300 eval_logger INFO SDR before enhancement:[-20.69388229]
+2020-01-02 23:36:55,301 eval_logger INFO SDR after enhancement:[-20.86492487]
+2020-01-02 23:36:55,301 eval_logger INFO The SDR improvement for this wav:-0.1710425766863395
+2020-01-02 23:36:55,601 eval_logger INFO The loss for the current batch:4275.591796875
+2020-01-02 23:36:59,895 eval_logger INFO SDR before enhancement:[-19.64052284]
+2020-01-02 23:36:59,896 eval_logger INFO SDR after enhancement:[-18.72046746]
+2020-01-02 23:36:59,896 eval_logger INFO The SDR improvement for this wav:0.9200553818441648
+2020-01-02 23:37:00,226 eval_logger INFO The loss for the current batch:2223.238037109375
+2020-01-02 23:37:03,447 eval_logger INFO SDR before enhancement:[-21.01023313]
+2020-01-02 23:37:03,448 eval_logger INFO SDR after enhancement:[-21.03917806]
+2020-01-02 23:37:03,448 eval_logger INFO The SDR improvement for this wav:-0.028944931938596596
+2020-01-02 23:37:03,828 eval_logger INFO The loss for the current batch:5148.67919921875
+2020-01-02 23:37:07,199 eval_logger INFO SDR before enhancement:[-26.24479133]
+2020-01-02 23:37:07,199 eval_logger INFO SDR after enhancement:[-26.29713193]
+2020-01-02 23:37:07,200 eval_logger INFO The SDR improvement for this wav:-0.052340600603439924
+2020-01-02 23:37:07,542 eval_logger INFO The loss for the current batch:1953.7066650390625
+2020-01-02 23:37:10,572 eval_logger INFO SDR before enhancement:[-15.92959871]
+2020-01-02 23:37:10,572 eval_logger INFO SDR after enhancement:[-17.46434229]
+2020-01-02 23:37:10,572 eval_logger INFO The SDR improvement for this wav:-1.5347435782314562
+2020-01-02 23:37:10,846 eval_logger INFO The loss for the current batch:8057.880859375
+2020-01-02 23:37:13,366 eval_logger INFO SDR before enhancement:[-18.49999465]
+2020-01-02 23:37:13,367 eval_logger INFO SDR after enhancement:[-19.98140194]
+2020-01-02 23:37:13,367 eval_logger INFO The SDR improvement for this wav:-1.4814072886949496
+2020-01-02 23:37:13,684 eval_logger INFO The loss for the current batch:612.4265747070312
+2020-01-02 23:37:17,368 eval_logger INFO SDR before enhancement:[-22.05068395]
+2020-01-02 23:37:17,368 eval_logger INFO SDR after enhancement:[-22.97919665]
+2020-01-02 23:37:17,369 eval_logger INFO The SDR improvement for this wav:-0.9285127015650652
+2020-01-02 23:37:17,764 eval_logger INFO The loss for the current batch:1936.4925537109375
+2020-01-02 23:37:20,289 eval_logger INFO SDR before enhancement:[-16.62144502]
+2020-01-02 23:37:20,289 eval_logger INFO SDR after enhancement:[-18.7747364]
+2020-01-02 23:37:20,289 eval_logger INFO The SDR improvement for this wav:-2.1532913803496996
+2020-01-02 23:37:20,730 eval_logger INFO The loss for the current batch:1356.32568359375
+2020-01-02 23:37:24,268 eval_logger INFO SDR before enhancement:[-19.16027827]
+2020-01-02 23:37:24,269 eval_logger INFO SDR after enhancement:[-21.13543466]
+2020-01-02 23:37:24,270 eval_logger INFO The SDR improvement for this wav:-1.975156390562315
+2020-01-02 23:37:24,600 eval_logger INFO The loss for the current batch:4084.701416015625
+2020-01-02 23:37:28,014 eval_logger INFO SDR before enhancement:[-20.16995227]
+2020-01-02 23:37:28,021 eval_logger INFO SDR after enhancement:[-20.00711735]
+2020-01-02 23:37:28,021 eval_logger INFO The SDR improvement for this wav:0.16283491381597415
+2020-01-02 23:37:28,373 eval_logger INFO The loss for the current batch:4673.37109375
+2020-01-02 23:37:31,731 eval_logger INFO SDR before enhancement:[-24.46965302]
+2020-01-02 23:37:31,732 eval_logger INFO SDR after enhancement:[-21.58870298]
+2020-01-02 23:37:31,732 eval_logger INFO The SDR improvement for this wav:2.8809500372031636
+2020-01-02 23:37:32,145 eval_logger INFO The loss for the current batch:1470.603515625
+2020-01-02 23:37:35,416 eval_logger INFO SDR before enhancement:[-21.50060461]
+2020-01-02 23:37:35,417 eval_logger INFO SDR after enhancement:[-20.78662604]
+2020-01-02 23:37:35,417 eval_logger INFO The SDR improvement for this wav:0.7139785779113161
+2020-01-02 23:37:35,663 eval_logger INFO The loss for the current batch:2211.63818359375
+2020-01-02 23:37:38,715 eval_logger INFO SDR before enhancement:[-19.4770751]
+2020-01-02 23:37:38,715 eval_logger INFO SDR after enhancement:[-18.27353634]
+2020-01-02 23:37:38,716 eval_logger INFO The SDR improvement for this wav:1.2035387597332203
+2020-01-02 23:37:39,102 eval_logger INFO The loss for the current batch:2850.9931640625
+2020-01-02 23:37:42,352 eval_logger INFO SDR before enhancement:[-21.6004108]
+2020-01-02 23:37:42,352 eval_logger INFO SDR after enhancement:[-21.28331662]
+2020-01-02 23:37:42,353 eval_logger INFO The SDR improvement for this wav:0.3170941798282314
+2020-01-02 23:37:42,715 eval_logger INFO The loss for the current batch:2697.5576171875
+2020-01-02 23:37:45,772 eval_logger INFO SDR before enhancement:[-23.30760866]
+2020-01-02 23:37:45,777 eval_logger INFO SDR after enhancement:[-23.0193572]
+2020-01-02 23:37:45,777 eval_logger INFO The SDR improvement for this wav:0.28825145965011956
+2020-01-02 23:37:46,182 eval_logger INFO The loss for the current batch:3586.485595703125
+2020-01-02 23:37:50,024 eval_logger INFO SDR before enhancement:[-23.58770035]
+2020-01-02 23:37:50,025 eval_logger INFO SDR after enhancement:[-24.06051724]
+2020-01-02 23:37:50,025 eval_logger INFO The SDR improvement for this wav:-0.4728168930574981
+2020-01-02 23:37:50,382 eval_logger INFO The loss for the current batch:1917.718994140625
+2020-01-02 23:37:53,974 eval_logger INFO SDR before enhancement:[-17.80246567]
+2020-01-02 23:37:53,975 eval_logger INFO SDR after enhancement:[-17.12889881]
+2020-01-02 23:37:53,975 eval_logger INFO The SDR improvement for this wav:0.6735668558164178
+2020-01-02 23:37:54,333 eval_logger INFO The loss for the current batch:4074.173095703125
+2020-01-02 23:37:57,663 eval_logger INFO SDR before enhancement:[-16.73408841]
+2020-01-02 23:37:57,664 eval_logger INFO SDR after enhancement:[-16.63589268]
+2020-01-02 23:37:57,664 eval_logger INFO The SDR improvement for this wav:0.09819573716306707
+2020-01-02 23:37:58,083 eval_logger INFO The loss for the current batch:5319.63623046875
+2020-01-02 23:38:00,952 eval_logger INFO SDR before enhancement:[-23.93001406]
+2020-01-02 23:38:00,959 eval_logger INFO SDR after enhancement:[-24.16937024]
+2020-01-02 23:38:00,959 eval_logger INFO The SDR improvement for this wav:-0.23935618096310307
+2020-01-02 23:38:01,337 eval_logger INFO The loss for the current batch:2340.19921875
+2020-01-02 23:38:04,812 eval_logger INFO SDR before enhancement:[-20.4384208]
+2020-01-02 23:38:04,813 eval_logger INFO SDR after enhancement:[-21.44522834]
+2020-01-02 23:38:04,813 eval_logger INFO The SDR improvement for this wav:-1.006807538987669
+2020-01-02 23:38:05,099 eval_logger INFO The loss for the current batch:4465.837890625
+2020-01-02 23:38:07,244 eval_logger INFO SDR before enhancement:[-19.49382677]
+2020-01-02 23:38:07,244 eval_logger INFO SDR after enhancement:[-19.42159829]
+2020-01-02 23:38:07,245 eval_logger INFO The SDR improvement for this wav:0.07222847505791563
+2020-01-02 23:38:07,512 eval_logger INFO The loss for the current batch:5343.92138671875
+2020-01-02 23:38:10,951 eval_logger INFO SDR before enhancement:[-20.09282563]
+2020-01-02 23:38:10,952 eval_logger INFO SDR after enhancement:[-21.6665382]
+2020-01-02 23:38:10,952 eval_logger INFO The SDR improvement for this wav:-1.5737125658099878
+2020-01-02 23:38:11,273 eval_logger INFO The loss for the current batch:3550.738037109375
+2020-01-02 23:38:14,052 eval_logger INFO SDR before enhancement:[-21.64528566]
+2020-01-02 23:38:14,053 eval_logger INFO SDR after enhancement:[-20.02028384]
+2020-01-02 23:38:14,053 eval_logger INFO The SDR improvement for this wav:1.6250018153575922
+2020-01-02 23:38:14,337 eval_logger INFO The loss for the current batch:2748.484619140625
+2020-01-02 23:38:17,147 eval_logger INFO SDR before enhancement:[-21.37035065]
+2020-01-02 23:38:17,147 eval_logger INFO SDR after enhancement:[-21.31502625]
+2020-01-02 23:38:17,147 eval_logger INFO The SDR improvement for this wav:0.05532439483660667
+2020-01-02 23:38:17,559 eval_logger INFO The loss for the current batch:4021.64892578125
+2020-01-02 23:38:20,624 eval_logger INFO SDR before enhancement:[-17.26794606]
+2020-01-02 23:38:20,625 eval_logger INFO SDR after enhancement:[-17.44763603]
+2020-01-02 23:38:20,625 eval_logger INFO The SDR improvement for this wav:-0.17968997340365078
+2020-01-02 23:38:20,988 eval_logger INFO The loss for the current batch:1962.4967041015625
+2020-01-02 23:38:24,627 eval_logger INFO SDR before enhancement:[-20.11509608]
+2020-01-02 23:38:24,628 eval_logger INFO SDR after enhancement:[-20.23911998]
+2020-01-02 23:38:24,628 eval_logger INFO The SDR improvement for this wav:-0.12402390275199693
+2020-01-02 23:38:24,950 eval_logger INFO The loss for the current batch:1631.3299560546875
+2020-01-02 23:38:28,466 eval_logger INFO SDR before enhancement:[-20.02220143]
+2020-01-02 23:38:28,466 eval_logger INFO SDR after enhancement:[-19.32363353]
+2020-01-02 23:38:28,466 eval_logger INFO The SDR improvement for this wav:0.6985679014778334
+2020-01-02 23:38:28,698 eval_logger INFO The loss for the current batch:6811.92724609375
+2020-01-02 23:38:32,211 eval_logger INFO SDR before enhancement:[-18.70010719]
+2020-01-02 23:38:32,212 eval_logger INFO SDR after enhancement:[-17.64638559]
+2020-01-02 23:38:32,212 eval_logger INFO The SDR improvement for this wav:1.0537216006389443
+2020-01-02 23:38:32,593 eval_logger INFO The loss for the current batch:1358.7998046875
+2020-01-02 23:38:35,618 eval_logger INFO SDR before enhancement:[-25.77019118]
+2020-01-02 23:38:35,619 eval_logger INFO SDR after enhancement:[-24.76576472]
+2020-01-02 23:38:35,619 eval_logger INFO The SDR improvement for this wav:1.0044264596683306
+2020-01-02 23:38:35,954 eval_logger INFO The loss for the current batch:9520.90625
+2020-01-02 23:38:39,002 eval_logger INFO SDR before enhancement:[-16.45924646]
+2020-01-02 23:38:39,002 eval_logger INFO SDR after enhancement:[-17.42932635]
+2020-01-02 23:38:39,002 eval_logger INFO The SDR improvement for this wav:-0.9700798961187296
+2020-01-02 23:38:39,282 eval_logger INFO The loss for the current batch:11038.3125
+2020-01-02 23:38:41,675 eval_logger INFO SDR before enhancement:[-22.64471198]
+2020-01-02 23:38:41,676 eval_logger INFO SDR after enhancement:[-22.29382106]
+2020-01-02 23:38:41,676 eval_logger INFO The SDR improvement for this wav:0.3508909131960998
+2020-01-02 23:38:42,058 eval_logger INFO The loss for the current batch:3119.425537109375
+2020-01-02 23:38:45,866 eval_logger INFO SDR before enhancement:[-22.44077437]
+2020-01-02 23:38:45,866 eval_logger INFO SDR after enhancement:[-23.56709644]
+2020-01-02 23:38:45,867 eval_logger INFO The SDR improvement for this wav:-1.1263220713334334
+2020-01-02 23:38:46,058 eval_logger INFO The loss for the current batch:3051.44140625
+2020-01-02 23:38:48,864 eval_logger INFO SDR before enhancement:[-17.84335973]
+2020-01-02 23:38:48,864 eval_logger INFO SDR after enhancement:[-18.2202625]
+2020-01-02 23:38:48,864 eval_logger INFO The SDR improvement for this wav:-0.3769027692649871
+2020-01-02 23:38:49,253 eval_logger INFO The loss for the current batch:4684.79736328125
+2020-01-02 23:38:51,941 eval_logger INFO SDR before enhancement:[-25.5522539]
+2020-01-02 23:38:51,942 eval_logger INFO SDR after enhancement:[-25.98723664]
+2020-01-02 23:38:51,942 eval_logger INFO The SDR improvement for this wav:-0.4349827431024984
+2020-01-02 23:38:52,411 eval_logger INFO The loss for the current batch:2628.78955078125
+2020-01-02 23:38:55,831 eval_logger INFO SDR before enhancement:[-31.39828573]
+2020-01-02 23:38:55,831 eval_logger INFO SDR after enhancement:[-28.40224181]
+2020-01-02 23:38:55,831 eval_logger INFO The SDR improvement for this wav:2.996043918243604
+2020-01-02 23:38:56,096 eval_logger INFO The loss for the current batch:1493.80224609375
+2020-01-02 23:38:59,258 eval_logger INFO SDR before enhancement:[-21.18718362]
+2020-01-02 23:38:59,259 eval_logger INFO SDR after enhancement:[-21.85761591]
+2020-01-02 23:38:59,259 eval_logger INFO The SDR improvement for this wav:-0.6704322885349256
+2020-01-02 23:38:59,528 eval_logger INFO The loss for the current batch:2704.102294921875
+2020-01-02 23:39:02,579 eval_logger INFO SDR before enhancement:[-19.35437876]
+2020-01-02 23:39:02,580 eval_logger INFO SDR after enhancement:[-21.17513429]
+2020-01-02 23:39:02,580 eval_logger INFO The SDR improvement for this wav:-1.82075552472039
+2020-01-02 23:39:03,032 eval_logger INFO The loss for the current batch:6251.07666015625
+2020-01-02 23:39:05,703 eval_logger INFO SDR before enhancement:[-21.73849558]
+2020-01-02 23:39:05,704 eval_logger INFO SDR after enhancement:[-21.16113996]
+2020-01-02 23:39:05,704 eval_logger INFO The SDR improvement for this wav:0.5773556197952097
+2020-01-02 23:39:05,977 eval_logger INFO The loss for the current batch:1691.89013671875
+2020-01-02 23:39:08,413 eval_logger INFO SDR before enhancement:[-24.86033076]
+2020-01-02 23:39:08,413 eval_logger INFO SDR after enhancement:[-22.71384374]
+2020-01-02 23:39:08,414 eval_logger INFO The SDR improvement for this wav:2.146487020999132
+2020-01-02 23:39:08,786 eval_logger INFO The loss for the current batch:2265.009521484375
+2020-01-02 23:39:12,471 eval_logger INFO SDR before enhancement:[-23.54446233]
+2020-01-02 23:39:12,476 eval_logger INFO SDR after enhancement:[-19.75445603]
+2020-01-02 23:39:12,476 eval_logger INFO The SDR improvement for this wav:3.7900063037089247
+2020-01-02 23:39:12,844 eval_logger INFO The loss for the current batch:2465.94189453125
+2020-01-02 23:39:16,623 eval_logger INFO SDR before enhancement:[-20.67755887]
+2020-01-02 23:39:16,624 eval_logger INFO SDR after enhancement:[-20.59302702]
+2020-01-02 23:39:16,624 eval_logger INFO The SDR improvement for this wav:0.08453184195687768
+2020-01-02 23:39:16,922 eval_logger INFO The loss for the current batch:1768.853271484375
+2020-01-02 23:39:20,110 eval_logger INFO SDR before enhancement:[-24.34402513]
+2020-01-02 23:39:20,110 eval_logger INFO SDR after enhancement:[-19.25697731]
+2020-01-02 23:39:20,110 eval_logger INFO The SDR improvement for this wav:5.087047820312964
+2020-01-02 23:39:20,600 eval_logger INFO The loss for the current batch:3996.789794921875
+2020-01-02 23:39:24,118 eval_logger INFO SDR before enhancement:[-19.68719819]
+2020-01-02 23:39:24,118 eval_logger INFO SDR after enhancement:[-19.08542129]
+2020-01-02 23:39:24,118 eval_logger INFO The SDR improvement for this wav:0.6017769007956772
+2020-01-02 23:39:24,485 eval_logger INFO The loss for the current batch:532.4366455078125
+2020-01-02 23:39:28,000 eval_logger INFO SDR before enhancement:[-26.36560652]
+2020-01-02 23:39:28,008 eval_logger INFO SDR after enhancement:[-22.01356024]
+2020-01-02 23:39:28,008 eval_logger INFO The SDR improvement for this wav:4.352046280258687
+2020-01-02 23:39:28,439 eval_logger INFO The loss for the current batch:1684.26416015625
+2020-01-02 23:39:31,849 eval_logger INFO SDR before enhancement:[-20.93514257]
+2020-01-02 23:39:31,850 eval_logger INFO SDR after enhancement:[-21.29971982]
+2020-01-02 23:39:31,850 eval_logger INFO The SDR improvement for this wav:-0.36457724932980184
+2020-01-02 23:39:32,181 eval_logger INFO The loss for the current batch:7247.943359375
+2020-01-02 23:39:35,125 eval_logger INFO SDR before enhancement:[-20.26038011]
+2020-01-02 23:39:35,125 eval_logger INFO SDR after enhancement:[-20.27958241]
+2020-01-02 23:39:35,126 eval_logger INFO The SDR improvement for this wav:-0.019202292079047112
+2020-01-02 23:39:35,447 eval_logger INFO The loss for the current batch:3801.222900390625
+2020-01-02 23:39:38,487 eval_logger INFO SDR before enhancement:[-21.9887307]
+2020-01-02 23:39:38,487 eval_logger INFO SDR after enhancement:[-21.21846162]
+2020-01-02 23:39:38,487 eval_logger INFO The SDR improvement for this wav:0.7702690838273227
+2020-01-02 23:39:38,789 eval_logger INFO The loss for the current batch:1870.213134765625
+2020-01-02 23:39:42,661 eval_logger INFO SDR before enhancement:[-15.85986464]
+2020-01-02 23:39:42,661 eval_logger INFO SDR after enhancement:[-17.66987346]
+2020-01-02 23:39:42,661 eval_logger INFO The SDR improvement for this wav:-1.8100088168277662
+2020-01-02 23:39:42,992 eval_logger INFO The loss for the current batch:2867.455810546875
+2020-01-02 23:39:46,409 eval_logger INFO SDR before enhancement:[-18.24422261]
+2020-01-02 23:39:46,409 eval_logger INFO SDR after enhancement:[-15.59036429]
+2020-01-02 23:39:46,409 eval_logger INFO The SDR improvement for this wav:2.65385832789957
+2020-01-02 23:39:46,780 eval_logger INFO The loss for the current batch:2851.273193359375
+2020-01-02 23:39:49,569 eval_logger INFO SDR before enhancement:[-21.80185002]
+2020-01-02 23:39:49,570 eval_logger INFO SDR after enhancement:[-20.32834471]
+2020-01-02 23:39:49,570 eval_logger INFO The SDR improvement for this wav:1.473505308889731
+2020-01-02 23:39:49,933 eval_logger INFO The loss for the current batch:3566.85302734375
+2020-01-02 23:39:52,864 eval_logger INFO SDR before enhancement:[-18.54008565]
+2020-01-02 23:39:52,864 eval_logger INFO SDR after enhancement:[-20.92592478]
+2020-01-02 23:39:52,864 eval_logger INFO The SDR improvement for this wav:-2.385839130931288
+2020-01-02 23:39:53,140 eval_logger INFO The loss for the current batch:1852.6522216796875
+2020-01-02 23:39:56,371 eval_logger INFO SDR before enhancement:[-24.4284166]
+2020-01-02 23:39:56,375 eval_logger INFO SDR after enhancement:[-22.65255167]
+2020-01-02 23:39:56,375 eval_logger INFO The SDR improvement for this wav:1.7758649315761197
+2020-01-02 23:39:56,625 eval_logger INFO The loss for the current batch:4007.530029296875
+2020-01-02 23:39:59,411 eval_logger INFO SDR before enhancement:[-20.11293821]
+2020-01-02 23:39:59,411 eval_logger INFO SDR after enhancement:[-19.99221398]
+2020-01-02 23:39:59,412 eval_logger INFO The SDR improvement for this wav:0.12072422532422777
+2020-01-02 23:39:59,730 eval_logger INFO The loss for the current batch:1620.447998046875
+2020-01-02 23:40:02,530 eval_logger INFO SDR before enhancement:[-21.00635995]
+2020-01-02 23:40:02,530 eval_logger INFO SDR after enhancement:[-19.90801842]
+2020-01-02 23:40:02,530 eval_logger INFO The SDR improvement for this wav:1.0983415286688576
+2020-01-02 23:40:02,787 eval_logger INFO The loss for the current batch:3964.776611328125
+2020-01-02 23:40:06,095 eval_logger INFO SDR before enhancement:[-21.19527463]
+2020-01-02 23:40:06,100 eval_logger INFO SDR after enhancement:[-21.64190456]
+2020-01-02 23:40:06,100 eval_logger INFO The SDR improvement for this wav:-0.44662993296645226
+2020-01-02 23:40:06,495 eval_logger INFO The loss for the current batch:4097.14599609375
+2020-01-02 23:40:10,456 eval_logger INFO SDR before enhancement:[-21.22457722]
+2020-01-02 23:40:10,457 eval_logger INFO SDR after enhancement:[-21.72091167]
+2020-01-02 23:40:10,457 eval_logger INFO The SDR improvement for this wav:-0.49633445792571607
+2020-01-02 23:40:10,818 eval_logger INFO The loss for the current batch:2911.63818359375
+2020-01-02 23:40:13,719 eval_logger INFO SDR before enhancement:[-21.38251083]
+2020-01-02 23:40:13,719 eval_logger INFO SDR after enhancement:[-21.40901753]
+2020-01-02 23:40:13,719 eval_logger INFO The SDR improvement for this wav:-0.026506707281868103
+2020-01-02 23:40:14,117 eval_logger INFO The loss for the current batch:1169.3953857421875
+2020-01-02 23:40:17,548 eval_logger INFO SDR before enhancement:[-20.94278494]
+2020-01-02 23:40:17,548 eval_logger INFO SDR after enhancement:[-21.20681828]
+2020-01-02 23:40:17,548 eval_logger INFO The SDR improvement for this wav:-0.26403334627224595
+2020-01-02 23:40:17,988 eval_logger INFO The loss for the current batch:1333.24609375
+2020-01-02 23:40:21,456 eval_logger INFO SDR before enhancement:[-25.58331113]
+2020-01-02 23:40:21,456 eval_logger INFO SDR after enhancement:[-24.25768884]
+2020-01-02 23:40:21,456 eval_logger INFO The SDR improvement for this wav:1.3256222987021289
+2020-01-02 23:40:21,974 eval_logger INFO The loss for the current batch:3094.73681640625
+2020-01-02 23:40:26,180 eval_logger INFO SDR before enhancement:[-21.57494569]
+2020-01-02 23:40:26,184 eval_logger INFO SDR after enhancement:[-20.39022995]
+2020-01-02 23:40:26,184 eval_logger INFO The SDR improvement for this wav:1.1847157420086951
+2020-01-02 23:40:26,467 eval_logger INFO The loss for the current batch:8790.0576171875
+2020-01-02 23:40:29,401 eval_logger INFO SDR before enhancement:[-17.86084468]
+2020-01-02 23:40:29,401 eval_logger INFO SDR after enhancement:[-18.36457512]
+2020-01-02 23:40:29,401 eval_logger INFO The SDR improvement for this wav:-0.5037304459768421
+2020-01-02 23:40:29,694 eval_logger INFO The loss for the current batch:4072.486083984375
+2020-01-02 23:40:32,452 eval_logger INFO SDR before enhancement:[-20.15435108]
+2020-01-02 23:40:32,452 eval_logger INFO SDR after enhancement:[-19.69307716]
+2020-01-02 23:40:32,453 eval_logger INFO The SDR improvement for this wav:0.4612739164477304
+2020-01-02 23:40:32,715 eval_logger INFO The loss for the current batch:2348.24951171875
+2020-01-02 23:40:35,629 eval_logger INFO SDR before enhancement:[-23.85998389]
+2020-01-02 23:40:35,630 eval_logger INFO SDR after enhancement:[-20.2856726]
+2020-01-02 23:40:35,630 eval_logger INFO The SDR improvement for this wav:3.5743112932744907
+2020-01-02 23:40:35,869 eval_logger INFO The loss for the current batch:3473.14453125
+2020-01-02 23:40:39,208 eval_logger INFO SDR before enhancement:[-24.33149811]
+2020-01-02 23:40:39,208 eval_logger INFO SDR after enhancement:[-22.86362774]
+2020-01-02 23:40:39,208 eval_logger INFO The SDR improvement for this wav:1.467870377226422
+2020-01-02 23:40:39,479 eval_logger INFO The loss for the current batch:1674.7154541015625
+2020-01-02 23:40:43,263 eval_logger INFO SDR before enhancement:[-20.40452684]
+2020-01-02 23:40:43,269 eval_logger INFO SDR after enhancement:[-20.19502034]
+2020-01-02 23:40:43,269 eval_logger INFO The SDR improvement for this wav:0.20950649469735794
+2020-01-02 23:40:43,590 eval_logger INFO The loss for the current batch:1447.290771484375
+2020-01-02 23:40:46,497 eval_logger INFO SDR before enhancement:[-18.95836325]
+2020-01-02 23:40:46,503 eval_logger INFO SDR after enhancement:[-22.03219622]
+2020-01-02 23:40:46,503 eval_logger INFO The SDR improvement for this wav:-3.073832973651875
+2020-01-02 23:40:46,716 eval_logger INFO The loss for the current batch:2763.588623046875
+2020-01-02 23:40:49,790 eval_logger INFO SDR before enhancement:[-16.72663918]
+2020-01-02 23:40:49,790 eval_logger INFO SDR after enhancement:[-16.87866447]
+2020-01-02 23:40:49,790 eval_logger INFO The SDR improvement for this wav:-0.1520252921634686
+2020-01-02 23:40:49,942 eval_logger INFO The loss for the current batch:4120.1796875
+2020-01-02 23:40:52,955 eval_logger INFO SDR before enhancement:[-19.03782105]
+2020-01-02 23:40:52,955 eval_logger INFO SDR after enhancement:[-19.58873233]
+2020-01-02 23:40:52,955 eval_logger INFO The SDR improvement for this wav:-0.5509112752073086
+2020-01-02 23:40:53,360 eval_logger INFO The loss for the current batch:1763.8087158203125
+2020-01-02 23:40:56,393 eval_logger INFO SDR before enhancement:[-19.13990009]
+2020-01-02 23:40:56,393 eval_logger INFO SDR after enhancement:[-22.65342727]
+2020-01-02 23:40:56,393 eval_logger INFO The SDR improvement for this wav:-3.5135271822254595
+2020-01-02 23:40:56,869 eval_logger INFO The loss for the current batch:4709.306640625
+2020-01-02 23:40:59,849 eval_logger INFO SDR before enhancement:[-22.50373491]
+2020-01-02 23:40:59,857 eval_logger INFO SDR after enhancement:[-22.61091413]
+2020-01-02 23:40:59,857 eval_logger INFO The SDR improvement for this wav:-0.10717922135975755
+2020-01-02 23:41:00,195 eval_logger INFO The loss for the current batch:984.5167846679688
+2020-01-02 23:41:03,099 eval_logger INFO SDR before enhancement:[-16.53387832]
+2020-01-02 23:41:03,099 eval_logger INFO SDR after enhancement:[-17.3025107]
+2020-01-02 23:41:03,099 eval_logger INFO The SDR improvement for this wav:-0.7686323738104264
+2020-01-02 23:41:03,420 eval_logger INFO The loss for the current batch:1929.335693359375
+2020-01-02 23:41:06,365 eval_logger INFO SDR before enhancement:[-15.54280144]
+2020-01-02 23:41:06,370 eval_logger INFO SDR after enhancement:[-15.65754702]
+2020-01-02 23:41:06,370 eval_logger INFO The SDR improvement for this wav:-0.1147455821690393
+2020-01-02 23:41:06,617 eval_logger INFO The loss for the current batch:2270.245361328125
+2020-01-02 23:41:09,377 eval_logger INFO SDR before enhancement:[-20.19471895]
+2020-01-02 23:41:09,378 eval_logger INFO SDR after enhancement:[-21.51909541]
+2020-01-02 23:41:09,378 eval_logger INFO The SDR improvement for this wav:-1.324376463298151
+2020-01-02 23:41:09,800 eval_logger INFO The loss for the current batch:2462.406494140625
+2020-01-02 23:41:12,507 eval_logger INFO SDR before enhancement:[-23.36354449]
+2020-01-02 23:41:12,507 eval_logger INFO SDR after enhancement:[-22.5632162]
+2020-01-02 23:41:12,507 eval_logger INFO The SDR improvement for this wav:0.8003282902357611
+2020-01-02 23:41:12,786 eval_logger INFO The loss for the current batch:3692.81103515625
+2020-01-02 23:41:15,555 eval_logger INFO SDR before enhancement:[-21.53103913]
+2020-01-02 23:41:15,556 eval_logger INFO SDR after enhancement:[-18.13223287]
+2020-01-02 23:41:15,556 eval_logger INFO The SDR improvement for this wav:3.3988062643140573
+2020-01-02 23:41:16,015 eval_logger INFO The loss for the current batch:1009.2388305664062
+2020-01-02 23:41:19,353 eval_logger INFO SDR before enhancement:[-20.49217897]
+2020-01-02 23:41:19,357 eval_logger INFO SDR after enhancement:[-19.17519677]
+2020-01-02 23:41:19,357 eval_logger INFO The SDR improvement for this wav:1.316982203755078
+2020-01-02 23:41:19,736 eval_logger INFO The loss for the current batch:2693.783203125
+2020-01-02 23:41:23,380 eval_logger INFO SDR before enhancement:[-21.71236612]
+2020-01-02 23:41:23,380 eval_logger INFO SDR after enhancement:[-23.19052771]
+2020-01-02 23:41:23,380 eval_logger INFO The SDR improvement for this wav:-1.4781615935574735
+2020-01-02 23:41:23,633 eval_logger INFO The loss for the current batch:4565.140625
+2020-01-02 23:41:26,800 eval_logger INFO SDR before enhancement:[-26.68473772]
+2020-01-02 23:41:26,801 eval_logger INFO SDR after enhancement:[-22.59904116]
+2020-01-02 23:41:26,801 eval_logger INFO The SDR improvement for this wav:4.08569656281248
+2020-01-02 23:41:27,090 eval_logger INFO The loss for the current batch:1417.3717041015625
+2020-01-02 23:41:29,683 eval_logger INFO SDR before enhancement:[-17.68240038]
+2020-01-02 23:41:29,684 eval_logger INFO SDR after enhancement:[-17.81869929]
+2020-01-02 23:41:29,684 eval_logger INFO The SDR improvement for this wav:-0.13629890316851956
+2020-01-02 23:41:30,074 eval_logger INFO The loss for the current batch:3588.755126953125
+2020-01-02 23:41:33,639 eval_logger INFO SDR before enhancement:[-19.64258422]
+2020-01-02 23:41:33,639 eval_logger INFO SDR after enhancement:[-19.70197904]
+2020-01-02 23:41:33,639 eval_logger INFO The SDR improvement for this wav:-0.05939481836372096
+2020-01-02 23:41:33,940 eval_logger INFO The loss for the current batch:4174.56494140625
+2020-01-02 23:41:37,095 eval_logger INFO SDR before enhancement:[-16.6235951]
+2020-01-02 23:41:37,095 eval_logger INFO SDR after enhancement:[-20.31833998]
+2020-01-02 23:41:37,095 eval_logger INFO The SDR improvement for this wav:-3.694744879176721
+2020-01-02 23:41:37,280 eval_logger INFO The loss for the current batch:2336.731689453125
+2020-01-02 23:41:40,860 eval_logger INFO SDR before enhancement:[-19.34363026]
+2020-01-02 23:41:40,860 eval_logger INFO SDR after enhancement:[-21.68908603]
+2020-01-02 23:41:40,860 eval_logger INFO The SDR improvement for this wav:-2.3454557718454367
+2020-01-02 23:41:41,222 eval_logger INFO The loss for the current batch:1709.3406982421875
+2020-01-02 23:41:44,333 eval_logger INFO SDR before enhancement:[-15.43757909]
+2020-01-02 23:41:44,333 eval_logger INFO SDR after enhancement:[-14.60326137]
+2020-01-02 23:41:44,333 eval_logger INFO The SDR improvement for this wav:0.8343177125275627
+2020-01-02 23:41:44,667 eval_logger INFO The loss for the current batch:1527.701171875
+2020-01-02 23:41:47,991 eval_logger INFO SDR before enhancement:[-22.40760737]
+2020-01-02 23:41:47,991 eval_logger INFO SDR after enhancement:[-22.11180651]
+2020-01-02 23:41:47,992 eval_logger INFO The SDR improvement for this wav:0.29580085752187557
+2020-01-02 23:41:48,283 eval_logger INFO The loss for the current batch:4561.443359375
+2020-01-02 23:41:51,294 eval_logger INFO SDR before enhancement:[-16.70232827]
+2020-01-02 23:41:51,298 eval_logger INFO SDR after enhancement:[-19.06586034]
+2020-01-02 23:41:51,299 eval_logger INFO The SDR improvement for this wav:-2.363532070615161
+2020-01-02 23:41:51,719 eval_logger INFO The loss for the current batch:5319.23291015625
+2020-01-02 23:41:54,829 eval_logger INFO SDR before enhancement:[-19.72613416]
+2020-01-02 23:41:54,829 eval_logger INFO SDR after enhancement:[-19.29191767]
+2020-01-02 23:41:54,830 eval_logger INFO The SDR improvement for this wav:0.4342164915417648
+2020-01-02 23:41:55,174 eval_logger INFO The loss for the current batch:4250.18212890625
+2020-01-02 23:41:58,256 eval_logger INFO SDR before enhancement:[-22.28291166]
+2020-01-02 23:41:58,265 eval_logger INFO SDR after enhancement:[-21.41192744]
+2020-01-02 23:41:58,265 eval_logger INFO The SDR improvement for this wav:0.8709842220148687
+2020-01-02 23:41:58,640 eval_logger INFO The loss for the current batch:2615.137451171875
+2020-01-02 23:42:01,650 eval_logger INFO SDR before enhancement:[-24.46880974]
+2020-01-02 23:42:01,651 eval_logger INFO SDR after enhancement:[-24.14020836]
+2020-01-02 23:42:01,651 eval_logger INFO The SDR improvement for this wav:0.32860137333311457
+2020-01-02 23:42:01,985 eval_logger INFO The loss for the current batch:2205.75341796875
+2020-01-02 23:42:05,338 eval_logger INFO SDR before enhancement:[-21.16165967]
+2020-01-02 23:42:05,338 eval_logger INFO SDR after enhancement:[-18.387734]
+2020-01-02 23:42:05,338 eval_logger INFO The SDR improvement for this wav:2.7739256631125286
+2020-01-02 23:42:05,939 eval_logger INFO The loss for the current batch:1506.424560546875
+2020-01-02 23:42:09,205 eval_logger INFO SDR before enhancement:[-27.24628989]
+2020-01-02 23:42:09,205 eval_logger INFO SDR after enhancement:[-28.97057963]
+2020-01-02 23:42:09,205 eval_logger INFO The SDR improvement for this wav:-1.7242897406385715
+2020-01-02 23:42:09,619 eval_logger INFO The loss for the current batch:1692.6439208984375
+2020-01-02 23:42:12,177 eval_logger INFO SDR before enhancement:[-23.62026361]
+2020-01-02 23:42:12,178 eval_logger INFO SDR after enhancement:[-26.80756154]
+2020-01-02 23:42:12,178 eval_logger INFO The SDR improvement for this wav:-3.187297922215162
+2020-01-02 23:42:12,439 eval_logger INFO The loss for the current batch:3789.017822265625
+2020-01-02 23:42:15,970 eval_logger INFO SDR before enhancement:[-19.30367465]
+2020-01-02 23:42:15,971 eval_logger INFO SDR after enhancement:[-18.52547818]
+2020-01-02 23:42:15,971 eval_logger INFO The SDR improvement for this wav:0.7781964694471988
+2020-01-02 23:42:16,266 eval_logger INFO The loss for the current batch:3642.42724609375
+2020-01-02 23:42:19,472 eval_logger INFO SDR before enhancement:[-16.84460887]
+2020-01-02 23:42:19,472 eval_logger INFO SDR after enhancement:[-17.73946557]
+2020-01-02 23:42:19,472 eval_logger INFO The SDR improvement for this wav:-0.8948567039945559
+2020-01-02 23:42:19,849 eval_logger INFO The loss for the current batch:6129.8916015625
+2020-01-02 23:42:22,543 eval_logger INFO SDR before enhancement:[-20.83537677]
+2020-01-02 23:42:22,559 eval_logger INFO SDR after enhancement:[-20.65778979]
+2020-01-02 23:42:22,559 eval_logger INFO The SDR improvement for this wav:0.17758698753226554
+2020-01-02 23:42:22,841 eval_logger INFO The loss for the current batch:2778.796142578125
+2020-01-02 23:42:26,311 eval_logger INFO SDR before enhancement:[-19.70376149]
+2020-01-02 23:42:26,312 eval_logger INFO SDR after enhancement:[-19.49338031]
+2020-01-02 23:42:26,312 eval_logger INFO The SDR improvement for this wav:0.21038118024663532
+2020-01-02 23:42:26,646 eval_logger INFO The loss for the current batch:3275.0224609375
+2020-01-02 23:42:29,258 eval_logger INFO SDR before enhancement:[-22.54111709]
+2020-01-02 23:42:29,263 eval_logger INFO SDR after enhancement:[-21.62358931]
+2020-01-02 23:42:29,263 eval_logger INFO The SDR improvement for this wav:0.9175277768850307
+2020-01-02 23:42:29,510 eval_logger INFO The loss for the current batch:1385.5296630859375
+2020-01-02 23:42:32,848 eval_logger INFO SDR before enhancement:[-18.826032]
+2020-01-02 23:42:32,848 eval_logger INFO SDR after enhancement:[-19.36038613]
+2020-01-02 23:42:32,848 eval_logger INFO The SDR improvement for this wav:-0.5343541354694672
+2020-01-02 23:42:33,226 eval_logger INFO The loss for the current batch:2166.596435546875
+2020-01-02 23:42:36,236 eval_logger INFO SDR before enhancement:[-22.47572932]
+2020-01-02 23:42:36,237 eval_logger INFO SDR after enhancement:[-21.60335503]
+2020-01-02 23:42:36,237 eval_logger INFO The SDR improvement for this wav:0.8723742827442571
+2020-01-02 23:42:36,613 eval_logger INFO The loss for the current batch:2478.340087890625
+2020-01-02 23:42:40,345 eval_logger INFO SDR before enhancement:[-21.32803544]
+2020-01-02 23:42:40,346 eval_logger INFO SDR after enhancement:[-21.71788552]
+2020-01-02 23:42:40,346 eval_logger INFO The SDR improvement for this wav:-0.3898500803647309
+2020-01-02 23:42:40,580 eval_logger INFO The loss for the current batch:2040.1151123046875
+2020-01-02 23:42:43,756 eval_logger INFO SDR before enhancement:[-22.28803585]
+2020-01-02 23:42:43,757 eval_logger INFO SDR after enhancement:[-21.40900542]
+2020-01-02 23:42:43,757 eval_logger INFO The SDR improvement for this wav:0.8790304305543621
+2020-01-02 23:42:44,029 eval_logger INFO The loss for the current batch:2791.962158203125
+2020-01-02 23:42:47,684 eval_logger INFO SDR before enhancement:[-16.26498625]
+2020-01-02 23:42:47,684 eval_logger INFO SDR after enhancement:[-18.16400816]
+2020-01-02 23:42:47,684 eval_logger INFO The SDR improvement for this wav:-1.8990219116190836
+2020-01-02 23:42:47,962 eval_logger INFO The loss for the current batch:5079.85107421875
+2020-01-02 23:42:51,207 eval_logger INFO SDR before enhancement:[-16.28161577]
+2020-01-02 23:42:51,208 eval_logger INFO SDR after enhancement:[-18.37340119]
+2020-01-02 23:42:51,208 eval_logger INFO The SDR improvement for this wav:-2.091785423263328
+2020-01-02 23:42:51,571 eval_logger INFO The loss for the current batch:3355.100830078125
+2020-01-02 23:42:54,233 eval_logger INFO SDR before enhancement:[-21.55194205]
+2020-01-02 23:42:54,233 eval_logger INFO SDR after enhancement:[-20.77692113]
+2020-01-02 23:42:54,234 eval_logger INFO The SDR improvement for this wav:0.7750209230456377
+2020-01-02 23:42:54,695 eval_logger INFO The loss for the current batch:974.4895629882812
+2020-01-02 23:42:58,060 eval_logger INFO SDR before enhancement:[-23.05959687]
+2020-01-02 23:42:58,060 eval_logger INFO SDR after enhancement:[-20.21735644]
+2020-01-02 23:42:58,060 eval_logger INFO The SDR improvement for this wav:2.8422404336562686
+2020-01-02 23:42:58,596 eval_logger INFO The loss for the current batch:3348.7880859375
+2020-01-02 23:43:02,613 eval_logger INFO SDR before enhancement:[-19.73863979]
+2020-01-02 23:43:02,614 eval_logger INFO SDR after enhancement:[-19.16395902]
+2020-01-02 23:43:02,614 eval_logger INFO The SDR improvement for this wav:0.5746807719045997
+2020-01-02 23:43:03,116 eval_logger INFO The loss for the current batch:2486.212890625
+2020-01-02 23:43:06,067 eval_logger INFO SDR before enhancement:[-18.2098342]
+2020-01-02 23:43:06,068 eval_logger INFO SDR after enhancement:[-21.44147971]
+2020-01-02 23:43:06,068 eval_logger INFO The SDR improvement for this wav:-3.231645511455742
+2020-01-02 23:43:06,382 eval_logger INFO The loss for the current batch:4853.16162109375
+2020-01-02 23:43:09,675 eval_logger INFO SDR before enhancement:[-21.93194318]
+2020-01-02 23:43:09,676 eval_logger INFO SDR after enhancement:[-17.23148888]
+2020-01-02 23:43:09,676 eval_logger INFO The SDR improvement for this wav:4.700454296590898
+2020-01-02 23:43:10,061 eval_logger INFO The loss for the current batch:3399.347412109375
+2020-01-02 23:43:13,337 eval_logger INFO SDR before enhancement:[-20.12964188]
+2020-01-02 23:43:13,337 eval_logger INFO SDR after enhancement:[-21.59768719]
+2020-01-02 23:43:13,338 eval_logger INFO The SDR improvement for this wav:-1.4680453125783686
+2020-01-02 23:43:13,758 eval_logger INFO The loss for the current batch:3620.051513671875
+2020-01-02 23:43:17,084 eval_logger INFO SDR before enhancement:[-20.83545549]
+2020-01-02 23:43:17,084 eval_logger INFO SDR after enhancement:[-20.0287698]
+2020-01-02 23:43:17,084 eval_logger INFO The SDR improvement for this wav:0.8066856901395383
+2020-01-02 23:43:17,375 eval_logger INFO The loss for the current batch:3823.03759765625
+2020-01-02 23:43:20,605 eval_logger INFO SDR before enhancement:[-21.25990341]
+2020-01-02 23:43:20,606 eval_logger INFO SDR after enhancement:[-20.84898318]
+2020-01-02 23:43:20,606 eval_logger INFO The SDR improvement for this wav:0.4109202360435198
+2020-01-02 23:43:21,068 eval_logger INFO The loss for the current batch:3213.78759765625
+2020-01-02 23:43:24,151 eval_logger INFO SDR before enhancement:[-20.98309702]
+2020-01-02 23:43:24,153 eval_logger INFO SDR after enhancement:[-22.73363896]
+2020-01-02 23:43:24,153 eval_logger INFO The SDR improvement for this wav:-1.7505419425799111
+2020-01-02 23:43:24,431 eval_logger INFO The loss for the current batch:1720.649169921875
+2020-01-02 23:43:28,410 eval_logger INFO SDR before enhancement:[-21.60254954]
+2020-01-02 23:43:28,410 eval_logger INFO SDR after enhancement:[-21.63862771]
+2020-01-02 23:43:28,410 eval_logger INFO The SDR improvement for this wav:-0.036078178975756714
+2020-01-02 23:43:28,672 eval_logger INFO The loss for the current batch:2686.865478515625
+2020-01-02 23:43:31,646 eval_logger INFO SDR before enhancement:[-18.22479363]
+2020-01-02 23:43:31,646 eval_logger INFO SDR after enhancement:[-18.1059032]
+2020-01-02 23:43:31,646 eval_logger INFO The SDR improvement for this wav:0.11889042488721913
+2020-01-02 23:43:31,901 eval_logger INFO The loss for the current batch:1126.4925537109375
+2020-01-02 23:43:34,792 eval_logger INFO SDR before enhancement:[-22.79810061]
+2020-01-02 23:43:34,794 eval_logger INFO SDR after enhancement:[-22.03657958]
+2020-01-02 23:43:34,794 eval_logger INFO The SDR improvement for this wav:0.7615210269409118
+2020-01-02 23:43:35,199 eval_logger INFO The loss for the current batch:3271.907958984375
+2020-01-02 23:43:38,469 eval_logger INFO SDR before enhancement:[-19.70235609]
+2020-01-02 23:43:38,470 eval_logger INFO SDR after enhancement:[-19.54774312]
+2020-01-02 23:43:38,470 eval_logger INFO The SDR improvement for this wav:0.1546129703941581
+2020-01-02 23:43:38,719 eval_logger INFO The loss for the current batch:2331.04052734375
+2020-01-02 23:43:41,579 eval_logger INFO SDR before enhancement:[-20.9567048]
+2020-01-02 23:43:41,580 eval_logger INFO SDR after enhancement:[-18.70968086]
+2020-01-02 23:43:41,580 eval_logger INFO The SDR improvement for this wav:2.2470239414058213
+2020-01-02 23:43:41,971 eval_logger INFO The loss for the current batch:1875.0040283203125
+2020-01-02 23:43:44,976 eval_logger INFO SDR before enhancement:[-19.94784387]
+2020-01-02 23:43:44,977 eval_logger INFO SDR after enhancement:[-19.28733623]
+2020-01-02 23:43:44,977 eval_logger INFO The SDR improvement for this wav:0.6605076410541528
+2020-01-02 23:43:45,173 eval_logger INFO The loss for the current batch:2328.466796875
+2020-01-02 23:43:48,350 eval_logger INFO SDR before enhancement:[-18.90590461]
+2020-01-02 23:43:48,350 eval_logger INFO SDR after enhancement:[-19.26639676]
+2020-01-02 23:43:48,350 eval_logger INFO The SDR improvement for this wav:-0.36049215435619075
+2020-01-02 23:43:48,871 eval_logger INFO The loss for the current batch:4133.16064453125
+2020-01-02 23:43:52,299 eval_logger INFO SDR before enhancement:[-21.68502258]
+2020-01-02 23:43:52,299 eval_logger INFO SDR after enhancement:[-21.54191193]
+2020-01-02 23:43:52,299 eval_logger INFO The SDR improvement for this wav:0.1431106490179701
+2020-01-02 23:43:52,689 eval_logger INFO The loss for the current batch:1178.335205078125
+2020-01-02 23:43:55,819 eval_logger INFO SDR before enhancement:[-25.19934089]
+2020-01-02 23:43:55,821 eval_logger INFO SDR after enhancement:[-23.78991061]
+2020-01-02 23:43:55,821 eval_logger INFO The SDR improvement for this wav:1.4094302804451893
+2020-01-02 23:43:56,290 eval_logger INFO The loss for the current batch:1550.507080078125
+2020-01-02 23:43:59,420 eval_logger INFO SDR before enhancement:[-24.3276929]
+2020-01-02 23:43:59,421 eval_logger INFO SDR after enhancement:[-24.9352664]
+2020-01-02 23:43:59,421 eval_logger INFO The SDR improvement for this wav:-0.6075735061295724
+2020-01-02 23:43:59,791 eval_logger INFO The loss for the current batch:2884.6318359375
+2020-01-02 23:44:02,823 eval_logger INFO SDR before enhancement:[-20.24972262]
+2020-01-02 23:44:02,824 eval_logger INFO SDR after enhancement:[-20.40815223]
+2020-01-02 23:44:02,824 eval_logger INFO The SDR improvement for this wav:-0.158429604302178
+2020-01-02 23:44:03,280 eval_logger INFO The loss for the current batch:1910.155029296875
+2020-01-02 23:44:06,469 eval_logger INFO SDR before enhancement:[-21.93013413]
+2020-01-02 23:44:06,470 eval_logger INFO SDR after enhancement:[-21.84571475]
+2020-01-02 23:44:06,470 eval_logger INFO The SDR improvement for this wav:0.0844193846739465
+2020-01-02 23:44:06,835 eval_logger INFO The loss for the current batch:1574.6148681640625
+2020-01-02 23:44:09,670 eval_logger INFO SDR before enhancement:[-21.24122715]
+2020-01-02 23:44:09,671 eval_logger INFO SDR after enhancement:[-19.59167408]
+2020-01-02 23:44:09,671 eval_logger INFO The SDR improvement for this wav:1.64955306900508
+2020-01-02 23:44:09,959 eval_logger INFO The loss for the current batch:3234.20166015625
+2020-01-02 23:44:12,869 eval_logger INFO SDR before enhancement:[-22.50517483]
+2020-01-02 23:44:12,869 eval_logger INFO SDR after enhancement:[-21.14591022]
+2020-01-02 23:44:12,869 eval_logger INFO The SDR improvement for this wav:1.3592646084010909
+2020-01-02 23:44:13,196 eval_logger INFO The loss for the current batch:7218.3701171875
+2020-01-02 23:44:16,929 eval_logger INFO SDR before enhancement:[-17.65726327]
+2020-01-02 23:44:16,930 eval_logger INFO SDR after enhancement:[-18.23030876]
+2020-01-02 23:44:16,930 eval_logger INFO The SDR improvement for this wav:-0.5730454878729923
+2020-01-02 23:44:17,222 eval_logger INFO The loss for the current batch:3241.63427734375
+2020-01-02 23:44:20,482 eval_logger INFO SDR before enhancement:[-19.10221674]
+2020-01-02 23:44:20,486 eval_logger INFO SDR after enhancement:[-17.56698955]
+2020-01-02 23:44:20,486 eval_logger INFO The SDR improvement for this wav:1.5352271930075894
+2020-01-02 23:44:20,876 eval_logger INFO The loss for the current batch:2761.270263671875
+2020-01-02 23:44:24,330 eval_logger INFO SDR before enhancement:[-22.55886755]
+2020-01-02 23:44:24,341 eval_logger INFO SDR after enhancement:[-22.94039635]
+2020-01-02 23:44:24,342 eval_logger INFO The SDR improvement for this wav:-0.38152879970148135
+2020-01-02 23:44:24,642 eval_logger INFO The loss for the current batch:4750.69580078125
+2020-01-02 23:44:27,682 eval_logger INFO SDR before enhancement:[-21.2789852]
+2020-01-02 23:44:27,682 eval_logger INFO SDR after enhancement:[-22.50679922]
+2020-01-02 23:44:27,682 eval_logger INFO The SDR improvement for this wav:-1.2278140195647396
+2020-01-02 23:44:27,941 eval_logger INFO The loss for the current batch:1668.338134765625
+2020-01-02 23:44:31,055 eval_logger INFO SDR before enhancement:[-19.92649055]
+2020-01-02 23:44:31,061 eval_logger INFO SDR after enhancement:[-20.68792527]
+2020-01-02 23:44:31,061 eval_logger INFO The SDR improvement for this wav:-0.761434717287166
+2020-01-02 23:44:31,450 eval_logger INFO The loss for the current batch:1367.4549560546875
+2020-01-02 23:44:34,514 eval_logger INFO SDR before enhancement:[-38.53172302]
+2020-01-02 23:44:34,519 eval_logger INFO SDR after enhancement:[-28.54438616]
+2020-01-02 23:44:34,519 eval_logger INFO The SDR improvement for this wav:9.987336861919879
+2020-01-02 23:44:34,844 eval_logger INFO The loss for the current batch:5698.6396484375
+2020-01-02 23:44:38,443 eval_logger INFO SDR before enhancement:[-17.71869048]
+2020-01-02 23:44:38,444 eval_logger INFO SDR after enhancement:[-19.20707897]
+2020-01-02 23:44:38,444 eval_logger INFO The SDR improvement for this wav:-1.488388486505503
+2020-01-02 23:44:38,749 eval_logger INFO The loss for the current batch:1333.6019287109375
+2020-01-02 23:44:42,326 eval_logger INFO SDR before enhancement:[-16.0109281]
+2020-01-02 23:44:42,326 eval_logger INFO SDR after enhancement:[-17.00582058]
+2020-01-02 23:44:42,326 eval_logger INFO The SDR improvement for this wav:-0.9948924744140797
+2020-01-02 23:44:42,631 eval_logger INFO The loss for the current batch:3587.48388671875
+2020-01-02 23:44:45,774 eval_logger INFO SDR before enhancement:[-20.58413252]
+2020-01-02 23:44:45,774 eval_logger INFO SDR after enhancement:[-20.11404373]
+2020-01-02 23:44:45,775 eval_logger INFO The SDR improvement for this wav:0.4700887951677295
+2020-01-02 23:44:46,026 eval_logger INFO The loss for the current batch:7951.27880859375
+2020-01-02 23:44:49,941 eval_logger INFO SDR before enhancement:[-22.57090237]
+2020-01-02 23:44:49,941 eval_logger INFO SDR after enhancement:[-22.01408862]
+2020-01-02 23:44:49,941 eval_logger INFO The SDR improvement for this wav:0.5568137555849404
+2020-01-02 23:44:50,220 eval_logger INFO The loss for the current batch:7546.68017578125
+2020-01-02 23:44:53,217 eval_logger INFO SDR before enhancement:[-17.39260856]
+2020-01-02 23:44:53,217 eval_logger INFO SDR after enhancement:[-17.41123738]
+2020-01-02 23:44:53,218 eval_logger INFO The SDR improvement for this wav:-0.018628825624730894
+2020-01-02 23:44:53,522 eval_logger INFO The loss for the current batch:4994.4755859375
+2020-01-02 23:44:57,744 eval_logger INFO SDR before enhancement:[-17.8144018]
+2020-01-02 23:44:57,751 eval_logger INFO SDR after enhancement:[-21.08855215]
+2020-01-02 23:44:57,752 eval_logger INFO The SDR improvement for this wav:-3.274150345643271
+2020-01-02 23:44:58,042 eval_logger INFO The loss for the current batch:1884.9365234375
+2020-01-02 23:45:00,780 eval_logger INFO SDR before enhancement:[-26.23958727]
+2020-01-02 23:45:00,780 eval_logger INFO SDR after enhancement:[-26.85199714]
+2020-01-02 23:45:00,780 eval_logger INFO The SDR improvement for this wav:-0.6124098686783377
+2020-01-02 23:45:01,160 eval_logger INFO The loss for the current batch:4090.235595703125
+2020-01-02 23:45:04,095 eval_logger INFO SDR before enhancement:[-19.09249455]
+2020-01-02 23:45:04,105 eval_logger INFO SDR after enhancement:[-18.33576754]
+2020-01-02 23:45:04,105 eval_logger INFO The SDR improvement for this wav:0.75672701186636
+2020-01-02 23:45:04,488 eval_logger INFO The loss for the current batch:5548.845703125
+2020-01-02 23:45:07,283 eval_logger INFO SDR before enhancement:[-19.16956677]
+2020-01-02 23:45:07,284 eval_logger INFO SDR after enhancement:[-18.26607333]
+2020-01-02 23:45:07,284 eval_logger INFO The SDR improvement for this wav:0.9034934383771684
+2020-01-02 23:45:07,642 eval_logger INFO The loss for the current batch:2452.556640625
+2020-01-02 23:45:10,527 eval_logger INFO SDR before enhancement:[-22.99256106]
+2020-01-02 23:45:10,527 eval_logger INFO SDR after enhancement:[-21.95756331]
+2020-01-02 23:45:10,527 eval_logger INFO The SDR improvement for this wav:1.0349977522691916
+2020-01-02 23:45:10,982 eval_logger INFO The loss for the current batch:1564.4083251953125
+2020-01-02 23:45:14,773 eval_logger INFO SDR before enhancement:[-21.96531735]
+2020-01-02 23:45:14,774 eval_logger INFO SDR after enhancement:[-20.94480545]
+2020-01-02 23:45:14,774 eval_logger INFO The SDR improvement for this wav:1.0205119050024862
+2020-01-02 23:45:15,035 eval_logger INFO The loss for the current batch:2549.062255859375
+2020-01-02 23:45:18,504 eval_logger INFO SDR before enhancement:[-20.73114269]
+2020-01-02 23:45:18,505 eval_logger INFO SDR after enhancement:[-21.0921772]
+2020-01-02 23:45:18,505 eval_logger INFO The SDR improvement for this wav:-0.36103450888685273
+2020-01-02 23:45:18,907 eval_logger INFO The loss for the current batch:1898.7872314453125
+2020-01-02 23:45:21,758 eval_logger INFO SDR before enhancement:[-20.77392085]
+2020-01-02 23:45:21,758 eval_logger INFO SDR after enhancement:[-19.75135834]
+2020-01-02 23:45:21,758 eval_logger INFO The SDR improvement for this wav:1.0225625039692403
+2020-01-02 23:45:22,197 eval_logger INFO The loss for the current batch:3527.823486328125
+2020-01-02 23:45:25,942 eval_logger INFO SDR before enhancement:[-22.46656556]
+2020-01-02 23:45:25,942 eval_logger INFO SDR after enhancement:[-22.08068391]
+2020-01-02 23:45:25,943 eval_logger INFO The SDR improvement for this wav:0.38588164576936634
+2020-01-02 23:45:26,289 eval_logger INFO The loss for the current batch:4500.06689453125
+2020-01-02 23:45:28,865 eval_logger INFO SDR before enhancement:[-18.1325517]
+2020-01-02 23:45:28,865 eval_logger INFO SDR after enhancement:[-19.58465031]
+2020-01-02 23:45:28,866 eval_logger INFO The SDR improvement for this wav:-1.4520986099256739
+2020-01-02 23:45:29,243 eval_logger INFO The loss for the current batch:1070.56787109375
+2020-01-02 23:45:32,551 eval_logger INFO SDR before enhancement:[-20.38606238]
+2020-01-02 23:45:32,552 eval_logger INFO SDR after enhancement:[-21.72673671]
+2020-01-02 23:45:32,552 eval_logger INFO The SDR improvement for this wav:-1.3406743286338596
+2020-01-02 23:45:33,056 eval_logger INFO The loss for the current batch:2449.974365234375
+2020-01-02 23:45:36,530 eval_logger INFO SDR before enhancement:[-25.76680481]
+2020-01-02 23:45:36,534 eval_logger INFO SDR after enhancement:[-25.24773942]
+2020-01-02 23:45:36,534 eval_logger INFO The SDR improvement for this wav:0.5190653847065505
+2020-01-02 23:45:36,944 eval_logger INFO The loss for the current batch:2624.144287109375
+2020-01-02 23:45:40,335 eval_logger INFO SDR before enhancement:[-26.64002024]
+2020-01-02 23:45:40,339 eval_logger INFO SDR after enhancement:[-25.98851542]
+2020-01-02 23:45:40,339 eval_logger INFO The SDR improvement for this wav:0.6515048177241916
+2020-01-02 23:45:40,698 eval_logger INFO The loss for the current batch:1171.233154296875
+2020-01-02 23:45:44,041 eval_logger INFO SDR before enhancement:[-22.25289217]
+2020-01-02 23:45:44,042 eval_logger INFO SDR after enhancement:[-21.29566774]
+2020-01-02 23:45:44,042 eval_logger INFO The SDR improvement for this wav:0.9572244285971188
+2020-01-02 23:45:44,421 eval_logger INFO The loss for the current batch:5760.35498046875
+2020-01-02 23:45:47,873 eval_logger INFO SDR before enhancement:[-18.89781137]
+2020-01-02 23:45:47,874 eval_logger INFO SDR after enhancement:[-18.73217769]
+2020-01-02 23:45:47,874 eval_logger INFO The SDR improvement for this wav:0.16563368541362067
+2020-01-02 23:45:48,210 eval_logger INFO The loss for the current batch:3170.240478515625
+2020-01-02 23:45:51,998 eval_logger INFO SDR before enhancement:[-22.09689289]
+2020-01-02 23:45:52,003 eval_logger INFO SDR after enhancement:[-24.55801818]
+2020-01-02 23:45:52,003 eval_logger INFO The SDR improvement for this wav:-2.461125293863681
+2020-01-02 23:45:52,193 eval_logger INFO The loss for the current batch:2330.6806640625
+2020-01-02 23:45:55,265 eval_logger INFO SDR before enhancement:[-20.59883945]
+2020-01-02 23:45:55,265 eval_logger INFO SDR after enhancement:[-20.23675734]
+2020-01-02 23:45:55,265 eval_logger INFO The SDR improvement for this wav:0.3620821110684389
+2020-01-02 23:45:55,478 eval_logger INFO The loss for the current batch:3715.858154296875
+2020-01-02 23:45:58,174 eval_logger INFO SDR before enhancement:[-18.76768128]
+2020-01-02 23:45:58,175 eval_logger INFO SDR after enhancement:[-17.79557722]
+2020-01-02 23:45:58,175 eval_logger INFO The SDR improvement for this wav:0.9721040614303718
+2020-01-02 23:45:58,562 eval_logger INFO The loss for the current batch:2464.16015625
+2020-01-02 23:46:03,133 eval_logger INFO SDR before enhancement:[-23.39472129]
+2020-01-02 23:46:03,150 eval_logger INFO SDR after enhancement:[-23.62844671]
+2020-01-02 23:46:03,150 eval_logger INFO The SDR improvement for this wav:-0.233725417992229
+2020-01-02 23:46:03,469 eval_logger INFO The loss for the current batch:1959.1478271484375
+2020-01-02 23:46:06,962 eval_logger INFO SDR before enhancement:[-20.34763765]
+2020-01-02 23:46:06,962 eval_logger INFO SDR after enhancement:[-19.57869175]
+2020-01-02 23:46:06,963 eval_logger INFO The SDR improvement for this wav:0.7689459026992473
+2020-01-02 23:46:07,280 eval_logger INFO The loss for the current batch:7176.98583984375
+2020-01-02 23:46:10,726 eval_logger INFO SDR before enhancement:[-14.69295063]
+2020-01-02 23:46:10,727 eval_logger INFO SDR after enhancement:[-15.53704216]
+2020-01-02 23:46:10,727 eval_logger INFO The SDR improvement for this wav:-0.844091527957481
+2020-01-02 23:46:11,192 eval_logger INFO The loss for the current batch:1527.536865234375
+2020-01-02 23:46:14,175 eval_logger INFO SDR before enhancement:[-19.09207368]
+2020-01-02 23:46:14,176 eval_logger INFO SDR after enhancement:[-22.69917208]
+2020-01-02 23:46:14,176 eval_logger INFO The SDR improvement for this wav:-3.6070983989001917
+2020-01-02 23:46:14,469 eval_logger INFO The loss for the current batch:1542.8741455078125
+2020-01-02 23:46:17,416 eval_logger INFO SDR before enhancement:[-19.35518035]
+2020-01-02 23:46:17,416 eval_logger INFO SDR after enhancement:[-18.18953885]
+2020-01-02 23:46:17,416 eval_logger INFO The SDR improvement for this wav:1.165641502571301
+2020-01-02 23:46:17,748 eval_logger INFO The loss for the current batch:1623.9830322265625
+2020-01-02 23:46:21,917 eval_logger INFO SDR before enhancement:[-25.25146023]
+2020-01-02 23:46:21,922 eval_logger INFO SDR after enhancement:[-25.09995773]
+2020-01-02 23:46:21,922 eval_logger INFO The SDR improvement for this wav:0.15150249541141747
+2020-01-02 23:46:22,206 eval_logger INFO The loss for the current batch:1489.3125
+2020-01-02 23:46:24,930 eval_logger INFO SDR before enhancement:[-23.06301464]
+2020-01-02 23:46:24,930 eval_logger INFO SDR after enhancement:[-22.13065383]
+2020-01-02 23:46:24,930 eval_logger INFO The SDR improvement for this wav:0.9323608082716106
+2020-01-02 23:46:25,207 eval_logger INFO The loss for the current batch:3367.658203125
+2020-01-02 23:46:28,665 eval_logger INFO SDR before enhancement:[-20.88441163]
+2020-01-02 23:46:28,666 eval_logger INFO SDR after enhancement:[-22.11909466]
+2020-01-02 23:46:28,666 eval_logger INFO The SDR improvement for this wav:-1.2346830357455403
+2020-01-02 23:46:28,936 eval_logger INFO The loss for the current batch:2334.822021484375
+2020-01-02 23:46:31,888 eval_logger INFO SDR before enhancement:[-23.55409553]
+2020-01-02 23:46:31,889 eval_logger INFO SDR after enhancement:[-21.51084184]
+2020-01-02 23:46:31,889 eval_logger INFO The SDR improvement for this wav:2.043253694744564
+2020-01-02 23:46:32,196 eval_logger INFO The loss for the current batch:2749.894287109375
+2020-01-02 23:46:35,492 eval_logger INFO SDR before enhancement:[-20.33756159]
+2020-01-02 23:46:35,493 eval_logger INFO SDR after enhancement:[-20.01035334]
+2020-01-02 23:46:35,493 eval_logger INFO The SDR improvement for this wav:0.32720824960476236
+2020-01-02 23:46:35,968 eval_logger INFO The loss for the current batch:4207.82275390625
+2020-01-02 23:46:39,303 eval_logger INFO SDR before enhancement:[-24.46672082]
+2020-01-02 23:46:39,304 eval_logger INFO SDR after enhancement:[-22.4411665]
+2020-01-02 23:46:39,304 eval_logger INFO The SDR improvement for this wav:2.025554324911333
+2020-01-02 23:46:39,728 eval_logger INFO The loss for the current batch:464.30322265625
+2020-01-02 23:46:43,039 eval_logger INFO SDR before enhancement:[-28.75395388]
+2020-01-02 23:46:43,046 eval_logger INFO SDR after enhancement:[-27.23825727]
+2020-01-02 23:46:43,047 eval_logger INFO The SDR improvement for this wav:1.5156966043078341
+2020-01-02 23:46:43,411 eval_logger INFO The loss for the current batch:2820.781005859375
+2020-01-02 23:46:46,439 eval_logger INFO SDR before enhancement:[-21.37800894]
+2020-01-02 23:46:46,443 eval_logger INFO SDR after enhancement:[-20.15387279]
+2020-01-02 23:46:46,443 eval_logger INFO The SDR improvement for this wav:1.2241361469366367
+2020-01-02 23:46:46,676 eval_logger INFO The loss for the current batch:3658.0478515625
+2020-01-02 23:46:49,910 eval_logger INFO SDR before enhancement:[-16.22225981]
+2020-01-02 23:46:49,911 eval_logger INFO SDR after enhancement:[-15.93522412]
+2020-01-02 23:46:49,911 eval_logger INFO The SDR improvement for this wav:0.2870356947296919
+2020-01-02 23:46:50,248 eval_logger INFO The loss for the current batch:6204.06005859375
+2020-01-02 23:46:52,940 eval_logger INFO SDR before enhancement:[-16.90065438]
+2020-01-02 23:46:52,940 eval_logger INFO SDR after enhancement:[-18.47146554]
+2020-01-02 23:46:52,940 eval_logger INFO The SDR improvement for this wav:-1.5708111562590403
+2020-01-02 23:46:53,236 eval_logger INFO The loss for the current batch:2942.013916015625
+2020-01-02 23:46:55,574 eval_logger INFO SDR before enhancement:[-15.24370537]
+2020-01-02 23:46:55,574 eval_logger INFO SDR after enhancement:[-16.9221649]
+2020-01-02 23:46:55,574 eval_logger INFO The SDR improvement for this wav:-1.6784595295633409
+2020-01-02 23:46:55,813 eval_logger INFO The loss for the current batch:3686.361328125
+2020-01-02 23:46:59,401 eval_logger INFO SDR before enhancement:[-20.96537404]
+2020-01-02 23:46:59,402 eval_logger INFO SDR after enhancement:[-21.06194687]
+2020-01-02 23:46:59,402 eval_logger INFO The SDR improvement for this wav:-0.09657282789307331
+2020-01-02 23:46:59,726 eval_logger INFO The loss for the current batch:3694.3173828125
+2020-01-02 23:47:03,058 eval_logger INFO SDR before enhancement:[-20.07970188]
+2020-01-02 23:47:03,058 eval_logger INFO SDR after enhancement:[-19.82745909]
+2020-01-02 23:47:03,058 eval_logger INFO The SDR improvement for this wav:0.2522427907788334
+2020-01-02 23:47:03,422 eval_logger INFO The loss for the current batch:2520.476318359375
+2020-01-02 23:47:06,889 eval_logger INFO SDR before enhancement:[-23.56112306]
+2020-01-02 23:47:06,890 eval_logger INFO SDR after enhancement:[-24.41274207]
+2020-01-02 23:47:06,890 eval_logger INFO The SDR improvement for this wav:-0.8516190103760657
+2020-01-02 23:47:07,182 eval_logger INFO The loss for the current batch:6887.00244140625
+2020-01-02 23:47:10,309 eval_logger INFO SDR before enhancement:[-18.93733886]
+2020-01-02 23:47:10,327 eval_logger INFO SDR after enhancement:[-20.02768256]
+2020-01-02 23:47:10,327 eval_logger INFO The SDR improvement for this wav:-1.0903436933237742
+2020-01-02 23:47:10,699 eval_logger INFO The loss for the current batch:4897.69384765625
+2020-01-02 23:47:13,404 eval_logger INFO SDR before enhancement:[-19.99072677]
+2020-01-02 23:47:13,409 eval_logger INFO SDR after enhancement:[-19.75676554]
+2020-01-02 23:47:13,409 eval_logger INFO The SDR improvement for this wav:0.23396122813348086
+2020-01-02 23:47:13,671 eval_logger INFO The loss for the current batch:4595.4013671875
+2020-01-02 23:47:16,628 eval_logger INFO SDR before enhancement:[-17.34460231]
+2020-01-02 23:47:16,628 eval_logger INFO SDR after enhancement:[-18.40765795]
+2020-01-02 23:47:16,629 eval_logger INFO The SDR improvement for this wav:-1.0630556425458373
+2020-01-02 23:47:16,940 eval_logger INFO The loss for the current batch:2918.643310546875
+2020-01-02 23:47:20,175 eval_logger INFO SDR before enhancement:[-17.11319727]
+2020-01-02 23:47:20,175 eval_logger INFO SDR after enhancement:[-17.02879285]
+2020-01-02 23:47:20,175 eval_logger INFO The SDR improvement for this wav:0.08440441525610964
+2020-01-02 23:47:20,631 eval_logger INFO The loss for the current batch:2651.965576171875
+2020-01-02 23:47:24,235 eval_logger INFO SDR before enhancement:[-16.35938358]
+2020-01-02 23:47:24,235 eval_logger INFO SDR after enhancement:[-18.46137953]
+2020-01-02 23:47:24,235 eval_logger INFO The SDR improvement for this wav:-2.1019959535422643
+2020-01-02 23:47:24,756 eval_logger INFO The loss for the current batch:3203.00244140625
+2020-01-02 23:47:28,268 eval_logger INFO SDR before enhancement:[-23.46275697]
+2020-01-02 23:47:28,268 eval_logger INFO SDR after enhancement:[-24.36824068]
+2020-01-02 23:47:28,268 eval_logger INFO The SDR improvement for this wav:-0.9054837065782309
+2020-01-02 23:47:28,603 eval_logger INFO The loss for the current batch:2764.193115234375
+2020-01-02 23:47:32,070 eval_logger INFO SDR before enhancement:[-19.32930781]
+2020-01-02 23:47:32,070 eval_logger INFO SDR after enhancement:[-19.93848663]
+2020-01-02 23:47:32,071 eval_logger INFO The SDR improvement for this wav:-0.6091788191705234
+2020-01-02 23:47:32,456 eval_logger INFO The loss for the current batch:2384.47900390625
+2020-01-02 23:47:36,112 eval_logger INFO SDR before enhancement:[-18.34557038]
+2020-01-02 23:47:36,116 eval_logger INFO SDR after enhancement:[-16.97353832]
+2020-01-02 23:47:36,117 eval_logger INFO The SDR improvement for this wav:1.372032066016672
+2020-01-02 23:47:36,415 eval_logger INFO The loss for the current batch:2626.98681640625
+2020-01-02 23:47:39,269 eval_logger INFO SDR before enhancement:[-22.4497413]
+2020-01-02 23:47:39,269 eval_logger INFO SDR after enhancement:[-18.8561738]
+2020-01-02 23:47:39,269 eval_logger INFO The SDR improvement for this wav:3.5935674999359506
+2020-01-02 23:47:39,506 eval_logger INFO The loss for the current batch:3846.684326171875
+2020-01-02 23:47:42,538 eval_logger INFO SDR before enhancement:[-22.36927096]
+2020-01-02 23:47:42,539 eval_logger INFO SDR after enhancement:[-22.18099296]
+2020-01-02 23:47:42,539 eval_logger INFO The SDR improvement for this wav:0.18827800659441962
+2020-01-02 23:47:42,907 eval_logger INFO The loss for the current batch:1785.839599609375
+2020-01-02 23:47:46,261 eval_logger INFO SDR before enhancement:[-24.74095864]
+2020-01-02 23:47:46,271 eval_logger INFO SDR after enhancement:[-22.71805189]
+2020-01-02 23:47:46,271 eval_logger INFO The SDR improvement for this wav:2.0229067467939004
+2020-01-02 23:47:46,683 eval_logger INFO The loss for the current batch:1454.6280517578125
+2020-01-02 23:47:50,510 eval_logger INFO SDR before enhancement:[-21.64503043]
+2020-01-02 23:47:50,511 eval_logger INFO SDR after enhancement:[-21.93880675]
+2020-01-02 23:47:50,511 eval_logger INFO The SDR improvement for this wav:-0.2937763251047869
+2020-01-02 23:47:50,908 eval_logger INFO The loss for the current batch:2461.362548828125
+2020-01-02 23:47:53,857 eval_logger INFO SDR before enhancement:[-18.56520979]
+2020-01-02 23:47:53,867 eval_logger INFO SDR after enhancement:[-18.60707356]
+2020-01-02 23:47:53,867 eval_logger INFO The SDR improvement for this wav:-0.04186377267970798
+2020-01-02 23:47:54,186 eval_logger INFO The loss for the current batch:5014.146484375
+2020-01-02 23:47:57,566 eval_logger INFO SDR before enhancement:[-22.85560159]
+2020-01-02 23:47:57,583 eval_logger INFO SDR after enhancement:[-21.88255901]
+2020-01-02 23:47:57,583 eval_logger INFO The SDR improvement for this wav:0.9730425752080727
+2020-01-02 23:47:57,973 eval_logger INFO The loss for the current batch:3194.3828125
+2020-01-02 23:48:01,337 eval_logger INFO SDR before enhancement:[-20.70499699]
+2020-01-02 23:48:01,337 eval_logger INFO SDR after enhancement:[-20.80253429]
+2020-01-02 23:48:01,337 eval_logger INFO The SDR improvement for this wav:-0.09753729334801875
+2020-01-02 23:48:01,664 eval_logger INFO The loss for the current batch:3651.92626953125
+2020-01-02 23:48:04,761 eval_logger INFO SDR before enhancement:[-15.14061391]
+2020-01-02 23:48:04,762 eval_logger INFO SDR after enhancement:[-15.59801744]
+2020-01-02 23:48:04,762 eval_logger INFO The SDR improvement for this wav:-0.45740352581343124
+2020-01-02 23:48:05,084 eval_logger INFO The loss for the current batch:8044.80859375
+2020-01-02 23:48:08,429 eval_logger INFO SDR before enhancement:[-11.73949232]
+2020-01-02 23:48:08,429 eval_logger INFO SDR after enhancement:[-13.56812433]
+2020-01-02 23:48:08,429 eval_logger INFO The SDR improvement for this wav:-1.8286320110841512
+2020-01-02 23:48:08,768 eval_logger INFO The loss for the current batch:2656.259765625
+2020-01-02 23:48:11,588 eval_logger INFO SDR before enhancement:[-19.79858067]
+2020-01-02 23:48:11,588 eval_logger INFO SDR after enhancement:[-20.42359953]
+2020-01-02 23:48:11,588 eval_logger INFO The SDR improvement for this wav:-0.6250188510604033
+2020-01-02 23:48:11,878 eval_logger INFO The loss for the current batch:1564.25
+2020-01-02 23:48:15,768 eval_logger INFO SDR before enhancement:[-19.60601173]
+2020-01-02 23:48:15,768 eval_logger INFO SDR after enhancement:[-19.66411307]
+2020-01-02 23:48:15,768 eval_logger INFO The SDR improvement for this wav:-0.05810133804410711
+2020-01-02 23:48:16,184 eval_logger INFO The loss for the current batch:1639.0029296875
+2020-01-02 23:48:19,383 eval_logger INFO SDR before enhancement:[-21.64296975]
+2020-01-02 23:48:19,384 eval_logger INFO SDR after enhancement:[-22.69047236]
+2020-01-02 23:48:19,384 eval_logger INFO The SDR improvement for this wav:-1.0475026155507798
+2020-01-02 23:48:19,725 eval_logger INFO The loss for the current batch:1366.036865234375
+2020-01-02 23:48:22,773 eval_logger INFO SDR before enhancement:[-18.61909283]
+2020-01-02 23:48:22,774 eval_logger INFO SDR after enhancement:[-18.54730981]
+2020-01-02 23:48:22,774 eval_logger INFO The SDR improvement for this wav:0.07178301778660057
+2020-01-02 23:48:23,270 eval_logger INFO The loss for the current batch:2900.26904296875
+2020-01-02 23:48:27,258 eval_logger INFO SDR before enhancement:[-19.87814684]
+2020-01-02 23:48:27,262 eval_logger INFO SDR after enhancement:[-21.5479478]
+2020-01-02 23:48:27,262 eval_logger INFO The SDR improvement for this wav:-1.6698009586553297
+2020-01-02 23:48:27,613 eval_logger INFO The loss for the current batch:1325.5391845703125
+2020-01-02 23:48:30,573 eval_logger INFO SDR before enhancement:[-22.59075878]
+2020-01-02 23:48:30,574 eval_logger INFO SDR after enhancement:[-19.34882183]
+2020-01-02 23:48:30,574 eval_logger INFO The SDR improvement for this wav:3.2419369552579482
+2020-01-02 23:48:30,976 eval_logger INFO The loss for the current batch:1473.185791015625
+2020-01-02 23:48:33,951 eval_logger INFO SDR before enhancement:[-20.56526415]
+2020-01-02 23:48:33,955 eval_logger INFO SDR after enhancement:[-22.09201603]
+2020-01-02 23:48:33,955 eval_logger INFO The SDR improvement for this wav:-1.5267518761677437
+2020-01-02 23:48:34,411 eval_logger INFO The loss for the current batch:1573.7939453125
+2020-01-02 23:48:37,972 eval_logger INFO SDR before enhancement:[-20.30356344]
+2020-01-02 23:48:37,984 eval_logger INFO SDR after enhancement:[-20.16997678]
+2020-01-02 23:48:37,984 eval_logger INFO The SDR improvement for this wav:0.1335866584819705
+2020-01-02 23:48:38,316 eval_logger INFO The loss for the current batch:5044.3818359375
+2020-01-02 23:48:41,786 eval_logger INFO SDR before enhancement:[-16.61096114]
+2020-01-02 23:48:41,786 eval_logger INFO SDR after enhancement:[-17.76338605]
+2020-01-02 23:48:41,787 eval_logger INFO The SDR improvement for this wav:-1.152424906539835
+2020-01-02 23:48:42,110 eval_logger INFO The loss for the current batch:2906.6494140625
+2020-01-02 23:48:45,080 eval_logger INFO SDR before enhancement:[-19.3510379]
+2020-01-02 23:48:45,080 eval_logger INFO SDR after enhancement:[-20.59018942]
+2020-01-02 23:48:45,080 eval_logger INFO The SDR improvement for this wav:-1.2391515205788437
+2020-01-02 23:48:45,375 eval_logger INFO The loss for the current batch:1530.076416015625
+2020-01-02 23:48:48,716 eval_logger INFO SDR before enhancement:[-20.43074696]
+2020-01-02 23:48:48,720 eval_logger INFO SDR after enhancement:[-19.15661276]
+2020-01-02 23:48:48,720 eval_logger INFO The SDR improvement for this wav:1.2741342034617702
+2020-01-02 23:48:49,089 eval_logger INFO The loss for the current batch:5238.580078125
+2020-01-02 23:48:52,014 eval_logger INFO SDR before enhancement:[-21.14212588]
+2020-01-02 23:48:52,014 eval_logger INFO SDR after enhancement:[-19.08551145]
+2020-01-02 23:48:52,015 eval_logger INFO The SDR improvement for this wav:2.0566144339592647
+2020-01-02 23:48:52,270 eval_logger INFO The loss for the current batch:1491.615966796875
+2020-01-02 23:48:55,660 eval_logger INFO SDR before enhancement:[-23.23488625]
+2020-01-02 23:48:55,660 eval_logger INFO SDR after enhancement:[-21.85753702]
+2020-01-02 23:48:55,660 eval_logger INFO The SDR improvement for this wav:1.377349234652801
+2020-01-02 23:48:55,991 eval_logger INFO The loss for the current batch:3389.683837890625
+2020-01-02 23:48:59,110 eval_logger INFO SDR before enhancement:[-24.5022836]
+2020-01-02 23:48:59,111 eval_logger INFO SDR after enhancement:[-25.85685199]
+2020-01-02 23:48:59,111 eval_logger INFO The SDR improvement for this wav:-1.3545683840000535
+2020-01-02 23:48:59,398 eval_logger INFO The loss for the current batch:4510.17236328125
+2020-01-02 23:49:02,566 eval_logger INFO SDR before enhancement:[-21.86757246]
+2020-01-02 23:49:02,567 eval_logger INFO SDR after enhancement:[-21.11262858]
+2020-01-02 23:49:02,567 eval_logger INFO The SDR improvement for this wav:0.7549438782458395
+2020-01-02 23:49:02,937 eval_logger INFO The loss for the current batch:2060.00439453125
+2020-01-02 23:49:05,191 eval_logger INFO SDR before enhancement:[-27.30208837]
+2020-01-02 23:49:05,191 eval_logger INFO SDR after enhancement:[-24.63390658]
+2020-01-02 23:49:05,191 eval_logger INFO The SDR improvement for this wav:2.6681817931688236
+2020-01-02 23:49:05,494 eval_logger INFO The loss for the current batch:2080.84375
+2020-01-02 23:49:08,742 eval_logger INFO SDR before enhancement:[-18.76298616]
+2020-01-02 23:49:08,743 eval_logger INFO SDR after enhancement:[-19.8327824]
+2020-01-02 23:49:08,743 eval_logger INFO The SDR improvement for this wav:-1.0697962320663699
+2020-01-02 23:49:09,164 eval_logger INFO The loss for the current batch:3399.962890625
+2020-01-02 23:49:12,964 eval_logger INFO SDR before enhancement:[-25.75884606]
+2020-01-02 23:49:12,971 eval_logger INFO SDR after enhancement:[-24.15191887]
+2020-01-02 23:49:12,971 eval_logger INFO The SDR improvement for this wav:1.6069271862887575
+2020-01-02 23:49:13,148 eval_logger INFO The loss for the current batch:1363.6177978515625
+2020-01-02 23:49:15,770 eval_logger INFO SDR before enhancement:[-13.03847382]
+2020-01-02 23:49:15,770 eval_logger INFO SDR after enhancement:[-13.60574484]
+2020-01-02 23:49:15,770 eval_logger INFO The SDR improvement for this wav:-0.5672710206326439
+2020-01-02 23:49:16,093 eval_logger INFO The loss for the current batch:2346.267333984375
+2020-01-02 23:49:19,025 eval_logger INFO SDR before enhancement:[-23.23971513]
+2020-01-02 23:49:19,033 eval_logger INFO SDR after enhancement:[-22.01287895]
+2020-01-02 23:49:19,033 eval_logger INFO The SDR improvement for this wav:1.2268361846456308
+2020-01-02 23:49:19,326 eval_logger INFO The loss for the current batch:3016.318359375
+2020-01-02 23:49:22,723 eval_logger INFO SDR before enhancement:[-14.6574444]
+2020-01-02 23:49:22,723 eval_logger INFO SDR after enhancement:[-19.92206719]
+2020-01-02 23:49:22,723 eval_logger INFO The SDR improvement for this wav:-5.264622793068126
+2020-01-02 23:49:22,986 eval_logger INFO The loss for the current batch:5599.236328125
+2020-01-02 23:49:26,000 eval_logger INFO SDR before enhancement:[-18.56586515]
+2020-01-02 23:49:26,001 eval_logger INFO SDR after enhancement:[-18.47143671]
+2020-01-02 23:49:26,001 eval_logger INFO The SDR improvement for this wav:0.09442844131178774
+2020-01-02 23:49:26,348 eval_logger INFO The loss for the current batch:3149.215087890625
+2020-01-02 23:49:29,049 eval_logger INFO SDR before enhancement:[-16.01079348]
+2020-01-02 23:49:29,049 eval_logger INFO SDR after enhancement:[-17.93530248]
+2020-01-02 23:49:29,049 eval_logger INFO The SDR improvement for this wav:-1.9245090061886785
+2020-01-02 23:49:29,447 eval_logger INFO The loss for the current batch:1272.7020263671875
+2020-01-02 23:49:32,789 eval_logger INFO SDR before enhancement:[-24.8423426]
+2020-01-02 23:49:32,794 eval_logger INFO SDR after enhancement:[-24.80611364]
+2020-01-02 23:49:32,794 eval_logger INFO The SDR improvement for this wav:0.03622896057639835
+2020-01-02 23:49:33,224 eval_logger INFO The loss for the current batch:4234.5029296875
+2020-01-02 23:49:36,490 eval_logger INFO SDR before enhancement:[-25.55492322]
+2020-01-02 23:49:36,490 eval_logger INFO SDR after enhancement:[-25.29049567]
+2020-01-02 23:49:36,490 eval_logger INFO The SDR improvement for this wav:0.2644275432280523
+2020-01-02 23:49:36,852 eval_logger INFO The loss for the current batch:4272.5810546875
+2020-01-02 23:49:40,420 eval_logger INFO SDR before enhancement:[-18.93340775]
+2020-01-02 23:49:40,421 eval_logger INFO SDR after enhancement:[-22.55800586]
+2020-01-02 23:49:40,421 eval_logger INFO The SDR improvement for this wav:-3.6245981079211376
+2020-01-02 23:49:40,770 eval_logger INFO The loss for the current batch:2369.4072265625
+2020-01-02 23:49:44,065 eval_logger INFO SDR before enhancement:[-21.50376884]
+2020-01-02 23:49:44,065 eval_logger INFO SDR after enhancement:[-21.41240053]
+2020-01-02 23:49:44,065 eval_logger INFO The SDR improvement for this wav:0.09136830226720605
+2020-01-02 23:49:44,660 eval_logger INFO The loss for the current batch:4053.67626953125
+2020-01-02 23:49:47,546 eval_logger INFO SDR before enhancement:[-21.03727954]
+2020-01-02 23:49:47,547 eval_logger INFO SDR after enhancement:[-19.36157555]
+2020-01-02 23:49:47,547 eval_logger INFO The SDR improvement for this wav:1.6757039949506023
+2020-01-02 23:49:47,935 eval_logger INFO The loss for the current batch:7136.97705078125
+2020-01-02 23:49:51,012 eval_logger INFO SDR before enhancement:[-19.60228019]
+2020-01-02 23:49:51,013 eval_logger INFO SDR after enhancement:[-19.57576826]
+2020-01-02 23:49:51,013 eval_logger INFO The SDR improvement for this wav:0.02651192839622496
+2020-01-02 23:49:51,267 eval_logger INFO The loss for the current batch:1052.61962890625
+2020-01-02 23:49:54,617 eval_logger INFO SDR before enhancement:[-21.97899184]
+2020-01-02 23:49:54,618 eval_logger INFO SDR after enhancement:[-22.71416421]
+2020-01-02 23:49:54,618 eval_logger INFO The SDR improvement for this wav:-0.7351723738966562
+2020-01-02 23:49:54,910 eval_logger INFO The loss for the current batch:5612.3017578125
+2020-01-02 23:49:58,237 eval_logger INFO SDR before enhancement:[-13.34354713]
+2020-01-02 23:49:58,242 eval_logger INFO SDR after enhancement:[-13.18209089]
+2020-01-02 23:49:58,242 eval_logger INFO The SDR improvement for this wav:0.16145623578683477
+2020-01-02 23:49:58,510 eval_logger INFO The loss for the current batch:3302.242919921875
+2020-01-02 23:50:01,457 eval_logger INFO SDR before enhancement:[-19.23776669]
+2020-01-02 23:50:01,457 eval_logger INFO SDR after enhancement:[-17.24432789]
+2020-01-02 23:50:01,457 eval_logger INFO The SDR improvement for this wav:1.9934388013381756
+2020-01-02 23:50:01,826 eval_logger INFO The loss for the current batch:1596.615478515625
+2020-01-02 23:50:04,661 eval_logger INFO SDR before enhancement:[-20.95067256]
+2020-01-02 23:50:04,661 eval_logger INFO SDR after enhancement:[-16.88844922]
+2020-01-02 23:50:04,661 eval_logger INFO The SDR improvement for this wav:4.06222334093432
+2020-01-02 23:50:04,970 eval_logger INFO The loss for the current batch:2077.3046875
+2020-01-02 23:50:07,660 eval_logger INFO SDR before enhancement:[-17.96208378]
+2020-01-02 23:50:07,664 eval_logger INFO SDR after enhancement:[-17.53726511]
+2020-01-02 23:50:07,665 eval_logger INFO The SDR improvement for this wav:0.42481867329685485
+2020-01-02 23:50:08,009 eval_logger INFO The loss for the current batch:1394.3397216796875
+2020-01-02 23:50:11,051 eval_logger INFO SDR before enhancement:[-19.26520967]
+2020-01-02 23:50:11,052 eval_logger INFO SDR after enhancement:[-18.81914704]
+2020-01-02 23:50:11,052 eval_logger INFO The SDR improvement for this wav:0.4460626317167602
+2020-01-02 23:50:11,310 eval_logger INFO The loss for the current batch:4588.80029296875
+2020-01-02 23:50:14,350 eval_logger INFO SDR before enhancement:[-17.40549073]
+2020-01-02 23:50:14,355 eval_logger INFO SDR after enhancement:[-16.64846411]
+2020-01-02 23:50:14,355 eval_logger INFO The SDR improvement for this wav:0.7570266143503801
+2020-01-02 23:50:14,628 eval_logger INFO The loss for the current batch:5825.5908203125
+2020-01-02 23:50:18,462 eval_logger INFO SDR before enhancement:[-20.47102382]
+2020-01-02 23:50:18,462 eval_logger INFO SDR after enhancement:[-18.59395995]
+2020-01-02 23:50:18,462 eval_logger INFO The SDR improvement for this wav:1.8770638678060223
+2020-01-02 23:50:18,919 eval_logger INFO The loss for the current batch:2535.919921875
+2020-01-02 23:50:22,408 eval_logger INFO SDR before enhancement:[-20.48283692]
+2020-01-02 23:50:22,413 eval_logger INFO SDR after enhancement:[-20.53257446]
+2020-01-02 23:50:22,413 eval_logger INFO The SDR improvement for this wav:-0.04973753250298074
+2020-01-02 23:50:22,623 eval_logger INFO The loss for the current batch:5055.5283203125
+2020-01-02 23:50:26,037 eval_logger INFO SDR before enhancement:[-17.67976536]
+2020-01-02 23:50:26,037 eval_logger INFO SDR after enhancement:[-18.83185895]
+2020-01-02 23:50:26,037 eval_logger INFO The SDR improvement for this wav:-1.1520935942231105
+2020-01-02 23:50:26,434 eval_logger INFO The loss for the current batch:2121.615478515625
+2020-01-02 23:50:29,632 eval_logger INFO SDR before enhancement:[-18.81344246]
+2020-01-02 23:50:29,633 eval_logger INFO SDR after enhancement:[-19.29822823]
+2020-01-02 23:50:29,633 eval_logger INFO The SDR improvement for this wav:-0.484785773282951
+2020-01-02 23:50:29,760 eval_logger INFO The loss for the current batch:1597.00439453125
+2020-01-02 23:50:32,689 eval_logger INFO SDR before enhancement:[-18.56766985]
+2020-01-02 23:50:32,690 eval_logger INFO SDR after enhancement:[-23.43513339]
+2020-01-02 23:50:32,690 eval_logger INFO The SDR improvement for this wav:-4.867463542554631
+2020-01-02 23:50:33,116 eval_logger INFO The loss for the current batch:1291.0621337890625
+2020-01-02 23:50:36,133 eval_logger INFO SDR before enhancement:[-22.25976443]
+2020-01-02 23:50:36,134 eval_logger INFO SDR after enhancement:[-22.11521199]
+2020-01-02 23:50:36,134 eval_logger INFO The SDR improvement for this wav:0.1445524399305782
+2020-01-02 23:50:36,451 eval_logger INFO The loss for the current batch:2430.907470703125
+2020-01-02 23:50:39,595 eval_logger INFO SDR before enhancement:[-23.45962272]
+2020-01-02 23:50:39,600 eval_logger INFO SDR after enhancement:[-20.71116028]
+2020-01-02 23:50:39,600 eval_logger INFO The SDR improvement for this wav:2.748462443171615
+2020-01-02 23:50:39,931 eval_logger INFO The loss for the current batch:2631.564453125
+2020-01-02 23:50:42,915 eval_logger INFO SDR before enhancement:[-19.4921008]
+2020-01-02 23:50:42,916 eval_logger INFO SDR after enhancement:[-23.6603031]
+2020-01-02 23:50:42,916 eval_logger INFO The SDR improvement for this wav:-4.168202302416351
+2020-01-02 23:50:43,407 eval_logger INFO The loss for the current batch:2222.0537109375
+2020-01-02 23:50:46,932 eval_logger INFO SDR before enhancement:[-21.68259938]
+2020-01-02 23:50:46,933 eval_logger INFO SDR after enhancement:[-21.69463315]
+2020-01-02 23:50:46,933 eval_logger INFO The SDR improvement for this wav:-0.012033771354300171
+2020-01-02 23:50:47,254 eval_logger INFO The loss for the current batch:5170.22802734375
+2020-01-02 23:50:50,099 eval_logger INFO SDR before enhancement:[-21.76320228]
+2020-01-02 23:50:50,099 eval_logger INFO SDR after enhancement:[-18.00607701]
+2020-01-02 23:50:50,099 eval_logger INFO The SDR improvement for this wav:3.757125267802582
+2020-01-02 23:50:50,285 eval_logger INFO The loss for the current batch:8751.4794921875
+2020-01-02 23:50:53,538 eval_logger INFO SDR before enhancement:[-20.98001493]
+2020-01-02 23:50:53,543 eval_logger INFO SDR after enhancement:[-20.82433662]
+2020-01-02 23:50:53,543 eval_logger INFO The SDR improvement for this wav:0.155678301564258
+2020-01-02 23:50:53,830 eval_logger INFO The loss for the current batch:1804.399658203125
+2020-01-02 23:50:57,151 eval_logger INFO SDR before enhancement:[-25.80040181]
+2020-01-02 23:50:57,152 eval_logger INFO SDR after enhancement:[-25.94476959]
+2020-01-02 23:50:57,152 eval_logger INFO The SDR improvement for this wav:-0.14436777528268507
+2020-01-02 23:50:57,470 eval_logger INFO The loss for the current batch:1224.1339111328125
+2020-01-02 23:51:00,032 eval_logger INFO SDR before enhancement:[-17.45756691]
+2020-01-02 23:51:00,044 eval_logger INFO SDR after enhancement:[-16.73052427]
+2020-01-02 23:51:00,045 eval_logger INFO The SDR improvement for this wav:0.7270426486392516
+2020-01-02 23:51:00,349 eval_logger INFO The loss for the current batch:1948.52978515625
+2020-01-02 23:51:04,035 eval_logger INFO SDR before enhancement:[-17.92444439]
+2020-01-02 23:51:04,036 eval_logger INFO SDR after enhancement:[-18.07713036]
+2020-01-02 23:51:04,036 eval_logger INFO The SDR improvement for this wav:-0.15268597325849598
+2020-01-02 23:51:04,307 eval_logger INFO The loss for the current batch:1558.4178466796875
+2020-01-02 23:51:07,301 eval_logger INFO SDR before enhancement:[-21.35177051]
+2020-01-02 23:51:07,302 eval_logger INFO SDR after enhancement:[-19.37091877]
+2020-01-02 23:51:07,302 eval_logger INFO The SDR improvement for this wav:1.9808517412504045
+2020-01-02 23:51:07,732 eval_logger INFO The loss for the current batch:1863.8619384765625
+2020-01-02 23:51:11,714 eval_logger INFO SDR before enhancement:[-22.64949441]
+2020-01-02 23:51:11,715 eval_logger INFO SDR after enhancement:[-21.46876912]
+2020-01-02 23:51:11,715 eval_logger INFO The SDR improvement for this wav:1.1807252879496275
+2020-01-02 23:51:12,067 eval_logger INFO The loss for the current batch:1779.3382568359375
+2020-01-02 23:51:15,723 eval_logger INFO SDR before enhancement:[-26.0234743]
+2020-01-02 23:51:15,724 eval_logger INFO SDR after enhancement:[-25.76842028]
+2020-01-02 23:51:15,724 eval_logger INFO The SDR improvement for this wav:0.25505401868912614
+2020-01-02 23:51:15,986 eval_logger INFO The loss for the current batch:2958.484619140625
+2020-01-02 23:51:18,581 eval_logger INFO SDR before enhancement:[-18.83378845]
+2020-01-02 23:51:18,582 eval_logger INFO SDR after enhancement:[-18.90937284]
+2020-01-02 23:51:18,582 eval_logger INFO The SDR improvement for this wav:-0.07558438392029743
+2020-01-02 23:51:18,924 eval_logger INFO The loss for the current batch:1767.6192626953125
+2020-01-02 23:51:22,104 eval_logger INFO SDR before enhancement:[-21.84657746]
+2020-01-02 23:51:22,104 eval_logger INFO SDR after enhancement:[-22.18190975]
+2020-01-02 23:51:22,104 eval_logger INFO The SDR improvement for this wav:-0.3353322933712626
+2020-01-02 23:51:22,472 eval_logger INFO The loss for the current batch:3368.169677734375
+2020-01-02 23:51:26,531 eval_logger INFO SDR before enhancement:[-20.39719491]
+2020-01-02 23:51:26,531 eval_logger INFO SDR after enhancement:[-19.91719242]
+2020-01-02 23:51:26,531 eval_logger INFO The SDR improvement for this wav:0.4800024878992488
+2020-01-02 23:51:26,934 eval_logger INFO The loss for the current batch:4643.6767578125
+2020-01-02 23:51:30,513 eval_logger INFO SDR before enhancement:[-18.20246028]
+2020-01-02 23:51:30,514 eval_logger INFO SDR after enhancement:[-17.87836636]
+2020-01-02 23:51:30,514 eval_logger INFO The SDR improvement for this wav:0.32409392055640396
+2020-01-02 23:51:30,761 eval_logger INFO The loss for the current batch:3301.454345703125
+2020-01-02 23:51:34,071 eval_logger INFO SDR before enhancement:[-21.31340859]
+2020-01-02 23:51:34,071 eval_logger INFO SDR after enhancement:[-19.56722589]
+2020-01-02 23:51:34,071 eval_logger INFO The SDR improvement for this wav:1.7461826993639846
+2020-01-02 23:51:34,382 eval_logger INFO The loss for the current batch:7033.12939453125
+2020-01-02 23:51:38,212 eval_logger INFO SDR before enhancement:[-16.33168706]
+2020-01-02 23:51:38,213 eval_logger INFO SDR after enhancement:[-15.01730536]
+2020-01-02 23:51:38,213 eval_logger INFO The SDR improvement for this wav:1.3143816922570046
+2020-01-02 23:51:38,487 eval_logger INFO The loss for the current batch:3538.80859375
+2020-01-02 23:51:41,276 eval_logger INFO SDR before enhancement:[-19.60385783]
+2020-01-02 23:51:41,276 eval_logger INFO SDR after enhancement:[-20.96375674]
+2020-01-02 23:51:41,276 eval_logger INFO The SDR improvement for this wav:-1.3598989130768508
+2020-01-02 23:51:41,602 eval_logger INFO The loss for the current batch:1172.814208984375
+2020-01-02 23:51:44,608 eval_logger INFO SDR before enhancement:[-17.64333249]
+2020-01-02 23:51:44,609 eval_logger INFO SDR after enhancement:[-17.67861174]
+2020-01-02 23:51:44,609 eval_logger INFO The SDR improvement for this wav:-0.035279250849207244
+2020-01-02 23:51:44,908 eval_logger INFO The loss for the current batch:2868.2109375
+2020-01-02 23:51:48,117 eval_logger INFO SDR before enhancement:[-23.83918198]
+2020-01-02 23:51:48,117 eval_logger INFO SDR after enhancement:[-23.79046447]
+2020-01-02 23:51:48,117 eval_logger INFO The SDR improvement for this wav:0.04871750236858219
+2020-01-02 23:51:48,677 eval_logger INFO The loss for the current batch:2920.364501953125
+2020-01-02 23:51:51,607 eval_logger INFO SDR before enhancement:[-22.05980809]
+2020-01-02 23:51:51,607 eval_logger INFO SDR after enhancement:[-22.10645048]
+2020-01-02 23:51:51,607 eval_logger INFO The SDR improvement for this wav:-0.046642390879853224
+2020-01-02 23:51:51,929 eval_logger INFO The loss for the current batch:3867.364990234375
+2020-01-02 23:51:55,741 eval_logger INFO SDR before enhancement:[-17.53619]
+2020-01-02 23:51:55,741 eval_logger INFO SDR after enhancement:[-20.08229862]
+2020-01-02 23:51:55,742 eval_logger INFO The SDR improvement for this wav:-2.546108613343634
+2020-01-02 23:51:55,995 eval_logger INFO The loss for the current batch:1361.7635498046875
+2020-01-02 23:51:59,303 eval_logger INFO SDR before enhancement:[-17.7966924]
+2020-01-02 23:51:59,304 eval_logger INFO SDR after enhancement:[-17.74223259]
+2020-01-02 23:51:59,304 eval_logger INFO The SDR improvement for this wav:0.05445981066918648
+2020-01-02 23:51:59,676 eval_logger INFO The loss for the current batch:1853.7591552734375
+2020-01-02 23:52:03,153 eval_logger INFO SDR before enhancement:[-20.12885116]
+2020-01-02 23:52:03,153 eval_logger INFO SDR after enhancement:[-19.45802346]
+2020-01-02 23:52:03,154 eval_logger INFO The SDR improvement for this wav:0.6708277043597342
+2020-01-02 23:52:03,523 eval_logger INFO The loss for the current batch:1449.41259765625
+2020-01-02 23:52:06,454 eval_logger INFO SDR before enhancement:[-22.21801763]
+2020-01-02 23:52:06,461 eval_logger INFO SDR after enhancement:[-19.25647117]
+2020-01-02 23:52:06,461 eval_logger INFO The SDR improvement for this wav:2.961546454530339
+2020-01-02 23:52:06,791 eval_logger INFO The loss for the current batch:2907.22216796875
+2020-01-02 23:52:09,607 eval_logger INFO SDR before enhancement:[-22.56304005]
+2020-01-02 23:52:09,607 eval_logger INFO SDR after enhancement:[-21.00557762]
+2020-01-02 23:52:09,607 eval_logger INFO The SDR improvement for this wav:1.5574624241739166
+2020-01-02 23:52:10,075 eval_logger INFO The loss for the current batch:1995.88232421875
+2020-01-02 23:52:13,245 eval_logger INFO SDR before enhancement:[-24.85622337]
+2020-01-02 23:52:13,250 eval_logger INFO SDR after enhancement:[-22.70554332]
+2020-01-02 23:52:13,250 eval_logger INFO The SDR improvement for this wav:2.150680053163608
+2020-01-02 23:52:13,513 eval_logger INFO The loss for the current batch:2746.037109375
+2020-01-02 23:52:17,108 eval_logger INFO SDR before enhancement:[-18.40230376]
+2020-01-02 23:52:17,108 eval_logger INFO SDR after enhancement:[-20.37766864]
+2020-01-02 23:52:17,108 eval_logger INFO The SDR improvement for this wav:-1.9753648793925116
+2020-01-02 23:52:17,365 eval_logger INFO The loss for the current batch:5345.615234375
+2020-01-02 23:52:20,981 eval_logger INFO SDR before enhancement:[-19.16799476]
+2020-01-02 23:52:20,982 eval_logger INFO SDR after enhancement:[-19.12085299]
+2020-01-02 23:52:20,982 eval_logger INFO The SDR improvement for this wav:0.047141767109533106
+2020-01-02 23:52:21,266 eval_logger INFO The loss for the current batch:5747.65771484375
+2020-01-02 23:52:24,836 eval_logger INFO SDR before enhancement:[-19.91159713]
+2020-01-02 23:52:24,837 eval_logger INFO SDR after enhancement:[-22.0617441]
+2020-01-02 23:52:24,837 eval_logger INFO The SDR improvement for this wav:-2.150146969165718
+2020-01-02 23:52:25,347 eval_logger INFO The loss for the current batch:2724.08056640625
+2020-01-02 23:52:28,878 eval_logger INFO SDR before enhancement:[-23.65266218]
+2020-01-02 23:52:28,878 eval_logger INFO SDR after enhancement:[-23.87516321]
+2020-01-02 23:52:28,878 eval_logger INFO The SDR improvement for this wav:-0.22250102705643826
+2020-01-02 23:52:29,248 eval_logger INFO The loss for the current batch:4230.9140625
+2020-01-02 23:52:32,716 eval_logger INFO SDR before enhancement:[-19.74787171]
+2020-01-02 23:52:32,717 eval_logger INFO SDR after enhancement:[-21.45287789]
+2020-01-02 23:52:32,717 eval_logger INFO The SDR improvement for this wav:-1.70500617807388
+2020-01-02 23:52:32,957 eval_logger INFO The loss for the current batch:3047.647216796875
+2020-01-02 23:52:35,569 eval_logger INFO SDR before enhancement:[-23.42258115]
+2020-01-02 23:52:35,571 eval_logger INFO SDR after enhancement:[-22.320133]
+2020-01-02 23:52:35,571 eval_logger INFO The SDR improvement for this wav:1.1024481492167553
+2020-01-02 23:52:35,755 eval_logger INFO The loss for the current batch:6298.5126953125
+2020-01-02 23:52:38,548 eval_logger INFO SDR before enhancement:[-20.35070965]
+2020-01-02 23:52:38,549 eval_logger INFO SDR after enhancement:[-19.5523256]
+2020-01-02 23:52:38,549 eval_logger INFO The SDR improvement for this wav:0.798384050428151
+2020-01-02 23:52:38,857 eval_logger INFO The loss for the current batch:6135.59375
+2020-01-02 23:52:41,885 eval_logger INFO SDR before enhancement:[-17.67558525]
+2020-01-02 23:52:41,885 eval_logger INFO SDR after enhancement:[-17.92279674]
+2020-01-02 23:52:41,885 eval_logger INFO The SDR improvement for this wav:-0.24721148760175282
+2020-01-02 23:52:42,185 eval_logger INFO The loss for the current batch:3959.98095703125
+2020-01-02 23:52:45,106 eval_logger INFO SDR before enhancement:[-19.03571905]
+2020-01-02 23:52:45,107 eval_logger INFO SDR after enhancement:[-20.64710794]
+2020-01-02 23:52:45,107 eval_logger INFO The SDR improvement for this wav:-1.6113888875749254
+2020-01-02 23:52:45,474 eval_logger INFO The loss for the current batch:4290.728515625
+2020-01-02 23:52:48,835 eval_logger INFO SDR before enhancement:[-26.18622407]
+2020-01-02 23:52:48,836 eval_logger INFO SDR after enhancement:[-27.6591383]
+2020-01-02 23:52:48,836 eval_logger INFO The SDR improvement for this wav:-1.4729142299397076
+2020-01-02 23:52:49,255 eval_logger INFO The loss for the current batch:1046.810546875
+2020-01-02 23:52:52,881 eval_logger INFO SDR before enhancement:[-23.28529815]
+2020-01-02 23:52:52,881 eval_logger INFO SDR after enhancement:[-25.24613488]
+2020-01-02 23:52:52,881 eval_logger INFO The SDR improvement for this wav:-1.960836734536489
+2020-01-02 23:52:53,172 eval_logger INFO The loss for the current batch:13979.9208984375
+2020-01-02 23:52:56,049 eval_logger INFO SDR before enhancement:[-16.63670783]
+2020-01-02 23:52:56,050 eval_logger INFO SDR after enhancement:[-14.98899189]
+2020-01-02 23:52:56,050 eval_logger INFO The SDR improvement for this wav:1.6477159412702456
+2020-01-02 23:52:56,444 eval_logger INFO The loss for the current batch:3164.189453125
+2020-01-02 23:52:59,600 eval_logger INFO SDR before enhancement:[-18.10955528]
+2020-01-02 23:52:59,601 eval_logger INFO SDR after enhancement:[-22.10213828]
+2020-01-02 23:52:59,601 eval_logger INFO The SDR improvement for this wav:-3.9925829998080786
+2020-01-02 23:52:59,990 eval_logger INFO The loss for the current batch:2642.40869140625
+2020-01-02 23:53:03,455 eval_logger INFO SDR before enhancement:[-20.15096597]
+2020-01-02 23:53:03,455 eval_logger INFO SDR after enhancement:[-19.57181832]
+2020-01-02 23:53:03,455 eval_logger INFO The SDR improvement for this wav:0.5791476511350879
+2020-01-02 23:53:03,881 eval_logger INFO The loss for the current batch:3745.932861328125
+2020-01-02 23:53:07,227 eval_logger INFO SDR before enhancement:[-18.72220749]
+2020-01-02 23:53:07,242 eval_logger INFO SDR after enhancement:[-17.97983951]
+2020-01-02 23:53:07,242 eval_logger INFO The SDR improvement for this wav:0.7423679784525206
+2020-01-02 23:53:07,665 eval_logger INFO The loss for the current batch:2072.998046875
+2020-01-02 23:53:11,009 eval_logger INFO SDR before enhancement:[-22.08472934]
+2020-01-02 23:53:11,009 eval_logger INFO SDR after enhancement:[-21.32104141]
+2020-01-02 23:53:11,009 eval_logger INFO The SDR improvement for this wav:0.7636879269371128
+2020-01-02 23:53:11,508 eval_logger INFO The loss for the current batch:1050.267822265625
+2020-01-02 23:53:15,313 eval_logger INFO SDR before enhancement:[-16.6990644]
+2020-01-02 23:53:15,313 eval_logger INFO SDR after enhancement:[-17.66936544]
+2020-01-02 23:53:15,314 eval_logger INFO The SDR improvement for this wav:-0.9703010333032189
+2020-01-02 23:53:15,813 eval_logger INFO The loss for the current batch:3752.293701171875
+2020-01-02 23:53:19,259 eval_logger INFO SDR before enhancement:[-23.27846294]
+2020-01-02 23:53:19,260 eval_logger INFO SDR after enhancement:[-21.39493875]
+2020-01-02 23:53:19,260 eval_logger INFO The SDR improvement for this wav:1.88352419188789
+2020-01-02 23:53:19,673 eval_logger INFO The loss for the current batch:2715.42626953125
+2020-01-02 23:53:23,030 eval_logger INFO SDR before enhancement:[-16.4371274]
+2020-01-02 23:53:23,030 eval_logger INFO SDR after enhancement:[-18.24877986]
+2020-01-02 23:53:23,031 eval_logger INFO The SDR improvement for this wav:-1.8116524665287201
+2020-01-02 23:53:23,319 eval_logger INFO The loss for the current batch:6593.7001953125
+2020-01-02 23:53:26,384 eval_logger INFO SDR before enhancement:[-18.56326172]
+2020-01-02 23:53:26,384 eval_logger INFO SDR after enhancement:[-17.50672487]
+2020-01-02 23:53:26,384 eval_logger INFO The SDR improvement for this wav:1.0565368490798193
+2020-01-02 23:53:26,758 eval_logger INFO The loss for the current batch:3264.81396484375
+2020-01-02 23:53:30,710 eval_logger INFO SDR before enhancement:[-19.29895743]
+2020-01-02 23:53:30,710 eval_logger INFO SDR after enhancement:[-19.71603143]
+2020-01-02 23:53:30,711 eval_logger INFO The SDR improvement for this wav:-0.41707400548204276
+2020-01-02 23:53:31,115 eval_logger INFO The loss for the current batch:4840.654296875
+2020-01-02 23:53:33,906 eval_logger INFO SDR before enhancement:[-18.73893292]
+2020-01-02 23:53:33,917 eval_logger INFO SDR after enhancement:[-21.58104153]
+2020-01-02 23:53:33,918 eval_logger INFO The SDR improvement for this wav:-2.8421086027416713
+2020-01-02 23:53:34,163 eval_logger INFO The loss for the current batch:1436.3575439453125
+2020-01-02 23:53:37,261 eval_logger INFO SDR before enhancement:[-26.6265098]
+2020-01-02 23:53:37,262 eval_logger INFO SDR after enhancement:[-26.35615271]
+2020-01-02 23:53:37,262 eval_logger INFO The SDR improvement for this wav:0.2703570897080212
+2020-01-02 23:53:37,620 eval_logger INFO The loss for the current batch:2505.9814453125
+2020-01-02 23:53:40,833 eval_logger INFO SDR before enhancement:[-22.07350485]
+2020-01-02 23:53:40,834 eval_logger INFO SDR after enhancement:[-20.62259401]
+2020-01-02 23:53:40,834 eval_logger INFO The SDR improvement for this wav:1.4509108407436848
+2020-01-02 23:53:41,106 eval_logger INFO The loss for the current batch:1532.0614013671875
+2020-01-02 23:53:43,950 eval_logger INFO SDR before enhancement:[-16.78704417]
+2020-01-02 23:53:43,951 eval_logger INFO SDR after enhancement:[-16.69456528]
+2020-01-02 23:53:43,951 eval_logger INFO The SDR improvement for this wav:0.0924788867539661
+2020-01-02 23:53:44,393 eval_logger INFO The loss for the current batch:2016.2374267578125
+2020-01-02 23:53:47,209 eval_logger INFO SDR before enhancement:[-20.77648309]
+2020-01-02 23:53:47,210 eval_logger INFO SDR after enhancement:[-22.40076818]
+2020-01-02 23:53:47,210 eval_logger INFO The SDR improvement for this wav:-1.6242850944211398
+2020-01-02 23:53:47,661 eval_logger INFO The loss for the current batch:1973.935546875
+2020-01-02 23:53:50,640 eval_logger INFO SDR before enhancement:[-18.55370146]
+2020-01-02 23:53:50,640 eval_logger INFO SDR after enhancement:[-17.12724673]
+2020-01-02 23:53:50,640 eval_logger INFO The SDR improvement for this wav:1.4264547286422342
+2020-01-02 23:53:50,997 eval_logger INFO The loss for the current batch:1429.9644775390625
+2020-01-02 23:53:54,426 eval_logger INFO SDR before enhancement:[-22.96461346]
+2020-01-02 23:53:54,427 eval_logger INFO SDR after enhancement:[-22.8740692]
+2020-01-02 23:53:54,427 eval_logger INFO The SDR improvement for this wav:0.09054425273773248
+2020-01-02 23:53:54,785 eval_logger INFO The loss for the current batch:2277.590087890625
+2020-01-02 23:53:57,498 eval_logger INFO SDR before enhancement:[-18.26156265]
+2020-01-02 23:53:57,499 eval_logger INFO SDR after enhancement:[-19.42199596]
+2020-01-02 23:53:57,499 eval_logger INFO The SDR improvement for this wav:-1.1604333084125145
+2020-01-02 23:53:57,723 eval_logger INFO The loss for the current batch:2169.934326171875
+2020-01-02 23:54:00,762 eval_logger INFO SDR before enhancement:[-24.30811764]
+2020-01-02 23:54:00,765 eval_logger INFO SDR after enhancement:[-22.87248781]
+2020-01-02 23:54:00,765 eval_logger INFO The SDR improvement for this wav:1.4356298306365929
+2020-01-02 23:54:01,249 eval_logger INFO The loss for the current batch:2089.853271484375
+2020-01-02 23:54:04,438 eval_logger INFO SDR before enhancement:[-17.064438]
+2020-01-02 23:54:04,438 eval_logger INFO SDR after enhancement:[-17.96038978]
+2020-01-02 23:54:04,438 eval_logger INFO The SDR improvement for this wav:-0.8959517769946466
+2020-01-02 23:54:04,830 eval_logger INFO The loss for the current batch:1139.7178955078125
+2020-01-02 23:54:08,533 eval_logger INFO SDR before enhancement:[-18.74417111]
+2020-01-02 23:54:08,534 eval_logger INFO SDR after enhancement:[-18.59196855]
+2020-01-02 23:54:08,534 eval_logger INFO The SDR improvement for this wav:0.15220256844451185
+2020-01-02 23:54:08,911 eval_logger INFO The loss for the current batch:1370.3392333984375
+2020-01-02 23:54:12,208 eval_logger INFO SDR before enhancement:[-22.36620472]
+2020-01-02 23:54:12,209 eval_logger INFO SDR after enhancement:[-21.73888195]
+2020-01-02 23:54:12,209 eval_logger INFO The SDR improvement for this wav:0.6273227715639358
+2020-01-02 23:54:12,497 eval_logger INFO The loss for the current batch:3222.5771484375
+2020-01-02 23:54:15,432 eval_logger INFO SDR before enhancement:[-19.38873659]
+2020-01-02 23:54:15,433 eval_logger INFO SDR after enhancement:[-22.85463897]
+2020-01-02 23:54:15,433 eval_logger INFO The SDR improvement for this wav:-3.4659023790712666
+2020-01-02 23:54:15,969 eval_logger INFO The loss for the current batch:1697.2548828125
+2020-01-02 23:54:18,842 eval_logger INFO SDR before enhancement:[-20.54863348]
+2020-01-02 23:54:18,843 eval_logger INFO SDR after enhancement:[-20.72948666]
+2020-01-02 23:54:18,843 eval_logger INFO The SDR improvement for this wav:-0.18085317949982382
+2020-01-02 23:54:19,121 eval_logger INFO The loss for the current batch:3635.727294921875
+2020-01-02 23:54:22,068 eval_logger INFO SDR before enhancement:[-22.48052672]
+2020-01-02 23:54:22,068 eval_logger INFO SDR after enhancement:[-22.52102452]
+2020-01-02 23:54:22,068 eval_logger INFO The SDR improvement for this wav:-0.04049780037009043
+2020-01-02 23:54:22,430 eval_logger INFO The loss for the current batch:10222.0146484375
+2020-01-02 23:54:26,358 eval_logger INFO SDR before enhancement:[-17.70025191]
+2020-01-02 23:54:26,359 eval_logger INFO SDR after enhancement:[-17.90914728]
+2020-01-02 23:54:26,359 eval_logger INFO The SDR improvement for this wav:-0.2088953627242489
+2020-01-02 23:54:26,739 eval_logger INFO The loss for the current batch:1857.6441650390625
+2020-01-02 23:54:29,824 eval_logger INFO SDR before enhancement:[-19.57968173]
+2020-01-02 23:54:29,834 eval_logger INFO SDR after enhancement:[-20.22044408]
+2020-01-02 23:54:29,834 eval_logger INFO The SDR improvement for this wav:-0.6407623515329348
+2020-01-02 23:54:30,299 eval_logger INFO The loss for the current batch:3282.241455078125
+2020-01-02 23:54:34,039 eval_logger INFO SDR before enhancement:[-21.42295595]
+2020-01-02 23:54:34,040 eval_logger INFO SDR after enhancement:[-20.17410473]
+2020-01-02 23:54:34,040 eval_logger INFO The SDR improvement for this wav:1.2488512219051984
+2020-01-02 23:54:34,389 eval_logger INFO The loss for the current batch:1651.87255859375
+2020-01-02 23:54:37,840 eval_logger INFO SDR before enhancement:[-21.09649396]
+2020-01-02 23:54:37,840 eval_logger INFO SDR after enhancement:[-21.76626488]
+2020-01-02 23:54:37,840 eval_logger INFO The SDR improvement for this wav:-0.6697709108962009
+2020-01-02 23:54:38,288 eval_logger INFO The loss for the current batch:1332.7109375
+2020-01-02 23:54:41,328 eval_logger INFO SDR before enhancement:[-19.88713053]
+2020-01-02 23:54:41,328 eval_logger INFO SDR after enhancement:[-20.19774482]
+2020-01-02 23:54:41,328 eval_logger INFO The SDR improvement for this wav:-0.3106142948906587
+2020-01-02 23:54:41,585 eval_logger INFO The loss for the current batch:7004.3232421875
+2020-01-02 23:54:44,775 eval_logger INFO SDR before enhancement:[-20.88412161]
+2020-01-02 23:54:44,775 eval_logger INFO SDR after enhancement:[-21.79795647]
+2020-01-02 23:54:44,775 eval_logger INFO The SDR improvement for this wav:-0.9138348670472567
+2020-01-02 23:54:45,203 eval_logger INFO The loss for the current batch:2664.8095703125
+2020-01-02 23:54:48,700 eval_logger INFO SDR before enhancement:[-14.4328804]
+2020-01-02 23:54:48,701 eval_logger INFO SDR after enhancement:[-16.95855577]
+2020-01-02 23:54:48,701 eval_logger INFO The SDR improvement for this wav:-2.5256753715916407
+2020-01-02 23:54:49,259 eval_logger INFO The loss for the current batch:2444.217041015625
+2020-01-02 23:54:52,280 eval_logger INFO SDR before enhancement:[-23.69020517]
+2020-01-02 23:54:52,280 eval_logger INFO SDR after enhancement:[-24.35444778]
+2020-01-02 23:54:52,280 eval_logger INFO The SDR improvement for this wav:-0.6642426121338403
+2020-01-02 23:54:52,551 eval_logger INFO The loss for the current batch:2664.814697265625
+2020-01-02 23:54:55,884 eval_logger INFO SDR before enhancement:[-17.68062729]
+2020-01-02 23:54:55,884 eval_logger INFO SDR after enhancement:[-17.71212193]
+2020-01-02 23:54:55,884 eval_logger INFO The SDR improvement for this wav:-0.03149464294682858
+2020-01-02 23:54:56,158 eval_logger INFO The loss for the current batch:955.1390380859375
+2020-01-02 23:54:59,216 eval_logger INFO SDR before enhancement:[-19.94734499]
+2020-01-02 23:54:59,217 eval_logger INFO SDR after enhancement:[-18.18393795]
+2020-01-02 23:54:59,217 eval_logger INFO The SDR improvement for this wav:1.763407045974553
+2020-01-02 23:54:59,481 eval_logger INFO The loss for the current batch:4395.15283203125
+2020-01-02 23:55:02,623 eval_logger INFO SDR before enhancement:[-18.89330607]
+2020-01-02 23:55:02,624 eval_logger INFO SDR after enhancement:[-18.65740586]
+2020-01-02 23:55:02,624 eval_logger INFO The SDR improvement for this wav:0.23590021181993492
+2020-01-02 23:55:02,931 eval_logger INFO The loss for the current batch:6646.00439453125
+2020-01-02 23:55:05,687 eval_logger INFO SDR before enhancement:[-20.36011142]
+2020-01-02 23:55:05,687 eval_logger INFO SDR after enhancement:[-18.25294338]
+2020-01-02 23:55:05,688 eval_logger INFO The SDR improvement for this wav:2.1071680454052526
+2020-01-02 23:55:05,870 eval_logger INFO The loss for the current batch:3113.160888671875
+2020-01-02 23:55:08,688 eval_logger INFO SDR before enhancement:[-22.10241149]
+2020-01-02 23:55:08,688 eval_logger INFO SDR after enhancement:[-18.83675433]
+2020-01-02 23:55:08,689 eval_logger INFO The SDR improvement for this wav:3.265657163606207
+2020-01-02 23:55:08,953 eval_logger INFO The loss for the current batch:565.3192138671875
+2020-01-02 23:55:12,995 eval_logger INFO SDR before enhancement:[-26.87136067]
+2020-01-02 23:55:12,996 eval_logger INFO SDR after enhancement:[-20.31683617]
+2020-01-02 23:55:12,996 eval_logger INFO The SDR improvement for this wav:6.554524492199164
+2020-01-02 23:55:13,263 eval_logger INFO The loss for the current batch:5417.14013671875
+2020-01-02 23:55:15,642 eval_logger INFO SDR before enhancement:[-19.39207707]
+2020-01-02 23:55:15,653 eval_logger INFO SDR after enhancement:[-19.14212488]
+2020-01-02 23:55:15,653 eval_logger INFO The SDR improvement for this wav:0.24995218728696855
+2020-01-02 23:55:15,993 eval_logger INFO The loss for the current batch:1706.143310546875
+2020-01-02 23:55:19,089 eval_logger INFO SDR before enhancement:[-30.95731465]
+2020-01-02 23:55:19,094 eval_logger INFO SDR after enhancement:[-24.72497831]
+2020-01-02 23:55:19,094 eval_logger INFO The SDR improvement for this wav:6.232336337513463
+2020-01-02 23:55:19,395 eval_logger INFO The loss for the current batch:2379.297119140625
+2020-01-02 23:55:22,491 eval_logger INFO SDR before enhancement:[-23.40800904]
+2020-01-02 23:55:22,491 eval_logger INFO SDR after enhancement:[-21.54671519]
+2020-01-02 23:55:22,491 eval_logger INFO The SDR improvement for this wav:1.861293847684621
+2020-01-02 23:55:22,779 eval_logger INFO The loss for the current batch:8347.974609375
+2020-01-02 23:55:25,986 eval_logger INFO SDR before enhancement:[-14.01189983]
+2020-01-02 23:55:25,990 eval_logger INFO SDR after enhancement:[-18.21051242]
+2020-01-02 23:55:25,990 eval_logger INFO The SDR improvement for this wav:-4.198612589220549
+2020-01-02 23:55:26,328 eval_logger INFO The loss for the current batch:1480.315673828125
+2020-01-02 23:55:29,180 eval_logger INFO SDR before enhancement:[-21.41975003]
+2020-01-02 23:55:29,180 eval_logger INFO SDR after enhancement:[-21.04056129]
+2020-01-02 23:55:29,181 eval_logger INFO The SDR improvement for this wav:0.37918874193671925
+2020-01-02 23:55:29,455 eval_logger INFO The loss for the current batch:2957.4052734375
+2020-01-02 23:55:32,527 eval_logger INFO SDR before enhancement:[-19.92440504]
+2020-01-02 23:55:32,527 eval_logger INFO SDR after enhancement:[-18.67391474]
+2020-01-02 23:55:32,527 eval_logger INFO The SDR improvement for this wav:1.2504903003727392
+2020-01-02 23:55:32,867 eval_logger INFO The loss for the current batch:3283.472412109375
+2020-01-02 23:55:35,794 eval_logger INFO SDR before enhancement:[-21.55807157]
+2020-01-02 23:55:35,794 eval_logger INFO SDR after enhancement:[-21.67679644]
+2020-01-02 23:55:35,794 eval_logger INFO The SDR improvement for this wav:-0.11872487162951018
+2020-01-02 23:55:36,069 eval_logger INFO The loss for the current batch:4041.42236328125
+2020-01-02 23:55:39,479 eval_logger INFO SDR before enhancement:[-20.89263766]
+2020-01-02 23:55:39,480 eval_logger INFO SDR after enhancement:[-19.35590896]
+2020-01-02 23:55:39,480 eval_logger INFO The SDR improvement for this wav:1.5367287013684745
+2020-01-02 23:55:40,054 eval_logger INFO The loss for the current batch:1689.42236328125
+2020-01-02 23:55:43,489 eval_logger INFO SDR before enhancement:[-16.9888013]
+2020-01-02 23:55:43,490 eval_logger INFO SDR after enhancement:[-18.67483713]
+2020-01-02 23:55:43,490 eval_logger INFO The SDR improvement for this wav:-1.6860358344040343
+2020-01-02 23:55:43,826 eval_logger INFO The loss for the current batch:1565.8050537109375
+2020-01-02 23:55:46,669 eval_logger INFO SDR before enhancement:[-21.0789425]
+2020-01-02 23:55:46,669 eval_logger INFO SDR after enhancement:[-20.00829738]
+2020-01-02 23:55:46,669 eval_logger INFO The SDR improvement for this wav:1.0706451212206254
+2020-01-02 23:55:46,954 eval_logger INFO The loss for the current batch:2693.701171875
+2020-01-02 23:55:49,871 eval_logger INFO SDR before enhancement:[-15.91149391]
+2020-01-02 23:55:49,871 eval_logger INFO SDR after enhancement:[-15.16035713]
+2020-01-02 23:55:49,871 eval_logger INFO The SDR improvement for this wav:0.7511367776142404
+2020-01-02 23:55:50,194 eval_logger INFO The loss for the current batch:3168.167236328125
+2020-01-02 23:55:53,106 eval_logger INFO SDR before enhancement:[-24.66954814]
+2020-01-02 23:55:53,106 eval_logger INFO SDR after enhancement:[-22.61976929]
+2020-01-02 23:55:53,106 eval_logger INFO The SDR improvement for this wav:2.0497788512074138
+2020-01-02 23:55:53,420 eval_logger INFO The loss for the current batch:3006.19189453125
+2020-01-02 23:55:57,097 eval_logger INFO SDR before enhancement:[-22.9218962]
+2020-01-02 23:55:57,098 eval_logger INFO SDR after enhancement:[-22.25667603]
+2020-01-02 23:55:57,098 eval_logger INFO The SDR improvement for this wav:0.6652201600624537
+2020-01-02 23:55:57,463 eval_logger INFO The loss for the current batch:6901.25341796875
+2020-01-02 23:56:00,535 eval_logger INFO SDR before enhancement:[-21.91797993]
+2020-01-02 23:56:00,535 eval_logger INFO SDR after enhancement:[-20.85045779]
+2020-01-02 23:56:00,535 eval_logger INFO The SDR improvement for this wav:1.0675221435778894
+2020-01-02 23:56:00,776 eval_logger INFO The loss for the current batch:2532.149169921875
+2020-01-02 23:56:03,811 eval_logger INFO SDR before enhancement:[-22.01179067]
+2020-01-02 23:56:03,812 eval_logger INFO SDR after enhancement:[-21.96925456]
+2020-01-02 23:56:03,812 eval_logger INFO The SDR improvement for this wav:0.04253610862425461
+2020-01-02 23:56:04,097 eval_logger INFO The loss for the current batch:2875.680419921875
+2020-01-02 23:56:07,760 eval_logger INFO SDR before enhancement:[-19.02818184]
+2020-01-02 23:56:07,761 eval_logger INFO SDR after enhancement:[-18.55080951]
+2020-01-02 23:56:07,761 eval_logger INFO The SDR improvement for this wav:0.4773723299666841
+2020-01-02 23:56:08,108 eval_logger INFO The loss for the current batch:3912.317138671875
+2020-01-02 23:56:11,733 eval_logger INFO SDR before enhancement:[-20.57350538]
+2020-01-02 23:56:11,751 eval_logger INFO SDR after enhancement:[-18.91776008]
+2020-01-02 23:56:11,751 eval_logger INFO The SDR improvement for this wav:1.655745301526487
+2020-01-02 23:56:12,093 eval_logger INFO The loss for the current batch:6793.736328125
+2020-01-02 23:56:15,335 eval_logger INFO SDR before enhancement:[-17.31883368]
+2020-01-02 23:56:15,335 eval_logger INFO SDR after enhancement:[-17.52626205]
+2020-01-02 23:56:15,335 eval_logger INFO The SDR improvement for this wav:-0.20742836522817854
+2020-01-02 23:56:15,661 eval_logger INFO The loss for the current batch:6239.7421875
+2020-01-02 23:56:18,837 eval_logger INFO SDR before enhancement:[-21.7814393]
+2020-01-02 23:56:18,844 eval_logger INFO SDR after enhancement:[-21.25882183]
+2020-01-02 23:56:18,844 eval_logger INFO The SDR improvement for this wav:0.5226174722506407
+2020-01-02 23:56:19,246 eval_logger INFO The loss for the current batch:2073.19775390625
+2020-01-02 23:56:22,774 eval_logger INFO SDR before enhancement:[-25.75621147]
+2020-01-02 23:56:22,775 eval_logger INFO SDR after enhancement:[-25.25854354]
+2020-01-02 23:56:22,775 eval_logger INFO The SDR improvement for this wav:0.4976679278780729
+2020-01-02 23:56:23,158 eval_logger INFO The loss for the current batch:1561.2347412109375
+2020-01-02 23:56:25,672 eval_logger INFO SDR before enhancement:[-22.16539262]
+2020-01-02 23:56:25,672 eval_logger INFO SDR after enhancement:[-19.63100594]
+2020-01-02 23:56:25,673 eval_logger INFO The SDR improvement for this wav:2.5343866771718986
+2020-01-02 23:56:25,887 eval_logger INFO The loss for the current batch:1809.404296875
+2020-01-02 23:56:28,877 eval_logger INFO SDR before enhancement:[-18.30154536]
+2020-01-02 23:56:28,878 eval_logger INFO SDR after enhancement:[-18.99730073]
+2020-01-02 23:56:28,878 eval_logger INFO The SDR improvement for this wav:-0.6957553697106285
+2020-01-02 23:56:29,093 eval_logger INFO The loss for the current batch:5022.533203125
+2020-01-02 23:56:32,198 eval_logger INFO SDR before enhancement:[-20.02345199]
+2020-01-02 23:56:32,198 eval_logger INFO SDR after enhancement:[-19.22980139]
+2020-01-02 23:56:32,198 eval_logger INFO The SDR improvement for this wav:0.7936505961261311
+2020-01-02 23:56:32,502 eval_logger INFO The loss for the current batch:2038.2371826171875
+2020-01-02 23:56:35,353 eval_logger INFO SDR before enhancement:[-17.18425893]
+2020-01-02 23:56:35,354 eval_logger INFO SDR after enhancement:[-15.19772192]
+2020-01-02 23:56:35,354 eval_logger INFO The SDR improvement for this wav:1.9865370112973952
+2020-01-02 23:56:35,559 eval_logger INFO The loss for the current batch:1290.3531494140625
+2020-01-02 23:56:38,083 eval_logger INFO SDR before enhancement:[-19.58434496]
+2020-01-02 23:56:38,083 eval_logger INFO SDR after enhancement:[-17.89363575]
+2020-01-02 23:56:38,083 eval_logger INFO The SDR improvement for this wav:1.6907092077878794
+2020-01-02 23:56:38,393 eval_logger INFO The loss for the current batch:3933.564453125
+2020-01-02 23:56:42,115 eval_logger INFO SDR before enhancement:[-21.04986423]
+2020-01-02 23:56:42,116 eval_logger INFO SDR after enhancement:[-19.1214465]
+2020-01-02 23:56:42,116 eval_logger INFO The SDR improvement for this wav:1.9284177254468986
+2020-01-02 23:56:42,478 eval_logger INFO The loss for the current batch:1348.6397705078125
+2020-01-02 23:56:45,515 eval_logger INFO SDR before enhancement:[-18.02260533]
+2020-01-02 23:56:45,515 eval_logger INFO SDR after enhancement:[-20.29637988]
+2020-01-02 23:56:45,515 eval_logger INFO The SDR improvement for this wav:-2.273774550064193
+2020-01-02 23:56:45,868 eval_logger INFO The loss for the current batch:4111.04150390625
+2020-01-02 23:56:49,325 eval_logger INFO SDR before enhancement:[-18.97729096]
+2020-01-02 23:56:49,328 eval_logger INFO SDR after enhancement:[-19.9549247]
+2020-01-02 23:56:49,328 eval_logger INFO The SDR improvement for this wav:-0.9776337419814318
+2020-01-02 23:56:49,566 eval_logger INFO The loss for the current batch:2744.362060546875
+2020-01-02 23:56:52,506 eval_logger INFO SDR before enhancement:[-19.87570739]
+2020-01-02 23:56:52,507 eval_logger INFO SDR after enhancement:[-20.3271149]
+2020-01-02 23:56:52,507 eval_logger INFO The SDR improvement for this wav:-0.4514075095140164
+2020-01-02 23:56:52,797 eval_logger INFO The loss for the current batch:1355.8172607421875
+2020-01-02 23:56:55,635 eval_logger INFO SDR before enhancement:[-22.29340564]
+2020-01-02 23:56:55,635 eval_logger INFO SDR after enhancement:[-21.22735374]
+2020-01-02 23:56:55,635 eval_logger INFO The SDR improvement for this wav:1.0660518986023604
+2020-01-02 23:56:56,025 eval_logger INFO The loss for the current batch:2580.9521484375
+2020-01-02 23:56:58,711 eval_logger INFO SDR before enhancement:[-25.63871542]
+2020-01-02 23:56:58,711 eval_logger INFO SDR after enhancement:[-24.75827922]
+2020-01-02 23:56:58,712 eval_logger INFO The SDR improvement for this wav:0.8804361934398806
+2020-01-02 23:56:58,917 eval_logger INFO The loss for the current batch:2526.92333984375
+2020-01-02 23:57:01,643 eval_logger INFO SDR before enhancement:[-19.15940802]
+2020-01-02 23:57:01,643 eval_logger INFO SDR after enhancement:[-17.32026192]
+2020-01-02 23:57:01,643 eval_logger INFO The SDR improvement for this wav:1.8391460933904717
+2020-01-02 23:57:01,899 eval_logger INFO The loss for the current batch:2840.64794921875
+2020-01-02 23:57:04,417 eval_logger INFO SDR before enhancement:[-22.29305752]
+2020-01-02 23:57:04,417 eval_logger INFO SDR after enhancement:[-20.31135176]
+2020-01-02 23:57:04,417 eval_logger INFO The SDR improvement for this wav:1.9817057546952732
+2020-01-02 23:57:04,801 eval_logger INFO The loss for the current batch:2114.215576171875
+2020-01-02 23:57:08,080 eval_logger INFO SDR before enhancement:[-19.987953]
+2020-01-02 23:57:08,081 eval_logger INFO SDR after enhancement:[-18.8029031]
+2020-01-02 23:57:08,081 eval_logger INFO The SDR improvement for this wav:1.1850498995991785
+2020-01-02 23:57:08,451 eval_logger INFO The loss for the current batch:1968.563720703125
+2020-01-02 23:57:11,612 eval_logger INFO SDR before enhancement:[-22.41276038]
+2020-01-02 23:57:11,612 eval_logger INFO SDR after enhancement:[-20.42147236]
+2020-01-02 23:57:11,613 eval_logger INFO The SDR improvement for this wav:1.9912880110098747
+2020-01-02 23:57:11,941 eval_logger INFO The loss for the current batch:1955.688232421875
+2020-01-02 23:57:14,575 eval_logger INFO SDR before enhancement:[-17.9039418]
+2020-01-02 23:57:14,576 eval_logger INFO SDR after enhancement:[-16.99021073]
+2020-01-02 23:57:14,576 eval_logger INFO The SDR improvement for this wav:0.9137310796819342
+2020-01-02 23:57:14,956 eval_logger INFO The loss for the current batch:3641.84716796875
+2020-01-02 23:57:17,707 eval_logger INFO SDR before enhancement:[-20.66158076]
+2020-01-02 23:57:17,708 eval_logger INFO SDR after enhancement:[-18.99103887]
+2020-01-02 23:57:17,708 eval_logger INFO The SDR improvement for this wav:1.670541895972459
+2020-01-02 23:57:18,053 eval_logger INFO The loss for the current batch:5587.78955078125
+2020-01-02 23:57:21,286 eval_logger INFO SDR before enhancement:[-20.67585]
+2020-01-02 23:57:21,286 eval_logger INFO SDR after enhancement:[-21.02518147]
+2020-01-02 23:57:21,286 eval_logger INFO The SDR improvement for this wav:-0.3493314711519915
+2020-01-02 23:57:21,576 eval_logger INFO The loss for the current batch:2705.815673828125
+2020-01-02 23:57:24,669 eval_logger INFO SDR before enhancement:[-24.27932208]
+2020-01-02 23:57:24,674 eval_logger INFO SDR after enhancement:[-23.00098966]
+2020-01-02 23:57:24,674 eval_logger INFO The SDR improvement for this wav:1.2783324146921053
+2020-01-02 23:57:24,965 eval_logger INFO The loss for the current batch:3290.375732421875
+2020-01-02 23:57:27,650 eval_logger INFO SDR before enhancement:[-17.41893397]
+2020-01-02 23:57:27,650 eval_logger INFO SDR after enhancement:[-18.83206545]
+2020-01-02 23:57:27,650 eval_logger INFO The SDR improvement for this wav:-1.4131314794577428
+2020-01-02 23:57:28,042 eval_logger INFO The loss for the current batch:1683.719482421875
+2020-01-02 23:57:30,808 eval_logger INFO SDR before enhancement:[-20.78926031]
+2020-01-02 23:57:30,808 eval_logger INFO SDR after enhancement:[-19.51723174]
+2020-01-02 23:57:30,808 eval_logger INFO The SDR improvement for this wav:1.2720285619501048
+2020-01-02 23:57:31,158 eval_logger INFO The loss for the current batch:7075.39697265625
+2020-01-02 23:57:34,542 eval_logger INFO SDR before enhancement:[-22.82049367]
+2020-01-02 23:57:34,542 eval_logger INFO SDR after enhancement:[-17.1361542]
+2020-01-02 23:57:34,542 eval_logger INFO The SDR improvement for this wav:5.6843394710514055
+2020-01-02 23:57:34,882 eval_logger INFO The loss for the current batch:4225.7158203125
+2020-01-02 23:57:38,512 eval_logger INFO SDR before enhancement:[-20.04863598]
+2020-01-02 23:57:38,513 eval_logger INFO SDR after enhancement:[-21.2579185]
+2020-01-02 23:57:38,513 eval_logger INFO The SDR improvement for this wav:-1.2092825134805203
+2020-01-02 23:57:38,847 eval_logger INFO The loss for the current batch:2842.53759765625
+2020-01-02 23:57:41,601 eval_logger INFO SDR before enhancement:[-18.9116654]
+2020-01-02 23:57:41,602 eval_logger INFO SDR after enhancement:[-18.54226026]
+2020-01-02 23:57:41,602 eval_logger INFO The SDR improvement for this wav:0.36940514598753893
+2020-01-02 23:57:41,842 eval_logger INFO The loss for the current batch:3087.030517578125
+2020-01-02 23:57:44,997 eval_logger INFO SDR before enhancement:[-17.61716695]
+2020-01-02 23:57:44,997 eval_logger INFO SDR after enhancement:[-17.46755687]
+2020-01-02 23:57:44,997 eval_logger INFO The SDR improvement for this wav:0.1496100856971161
+2020-01-02 23:57:45,289 eval_logger INFO The loss for the current batch:1092.7620849609375
+2020-01-02 23:57:48,731 eval_logger INFO SDR before enhancement:[-19.48920618]
+2020-01-02 23:57:48,736 eval_logger INFO SDR after enhancement:[-18.88385406]
+2020-01-02 23:57:48,736 eval_logger INFO The SDR improvement for this wav:0.6053521122934598
+2020-01-02 23:57:48,916 eval_logger INFO The loss for the current batch:461.6172790527344
+2020-01-02 23:57:51,486 eval_logger INFO SDR before enhancement:[-29.98504934]
+2020-01-02 23:57:51,487 eval_logger INFO SDR after enhancement:[-28.02028221]
+2020-01-02 23:57:51,487 eval_logger INFO The SDR improvement for this wav:1.9647671263342126
+2020-01-02 23:57:51,722 eval_logger INFO The loss for the current batch:1892.996826171875
+2020-01-02 23:57:54,653 eval_logger INFO SDR before enhancement:[-22.37026272]
+2020-01-02 23:57:54,653 eval_logger INFO SDR after enhancement:[-21.26255256]
+2020-01-02 23:57:54,653 eval_logger INFO The SDR improvement for this wav:1.1077101685005992
+2020-01-02 23:57:54,965 eval_logger INFO The loss for the current batch:5790.7470703125
+2020-01-02 23:57:58,305 eval_logger INFO SDR before enhancement:[-21.62962053]
+2020-01-02 23:57:58,305 eval_logger INFO SDR after enhancement:[-18.72720198]
+2020-01-02 23:57:58,305 eval_logger INFO The SDR improvement for this wav:2.9024185464977315
+2020-01-02 23:57:58,624 eval_logger INFO The loss for the current batch:4773.205078125
+2020-01-02 23:58:02,095 eval_logger INFO SDR before enhancement:[-17.15384653]
+2020-01-02 23:58:02,096 eval_logger INFO SDR after enhancement:[-18.7101868]
+2020-01-02 23:58:02,096 eval_logger INFO The SDR improvement for this wav:-1.5563402671153206
+2020-01-02 23:58:02,458 eval_logger INFO The loss for the current batch:988.951171875
+2020-01-02 23:58:05,384 eval_logger INFO SDR before enhancement:[-19.51773572]
+2020-01-02 23:58:05,385 eval_logger INFO SDR after enhancement:[-19.77659038]
+2020-01-02 23:58:05,385 eval_logger INFO The SDR improvement for this wav:-0.2588546647157699
+2020-01-02 23:58:05,648 eval_logger INFO The loss for the current batch:5474.64013671875
+2020-01-02 23:58:09,403 eval_logger INFO SDR before enhancement:[-19.9436501]
+2020-01-02 23:58:09,403 eval_logger INFO SDR after enhancement:[-22.71222497]
+2020-01-02 23:58:09,403 eval_logger INFO The SDR improvement for this wav:-2.768574873046205
+2020-01-02 23:58:09,744 eval_logger INFO The loss for the current batch:1155.5931396484375
+2020-01-02 23:58:13,459 eval_logger INFO SDR before enhancement:[-23.64600228]
+2020-01-02 23:58:13,459 eval_logger INFO SDR after enhancement:[-22.96567007]
+2020-01-02 23:58:13,459 eval_logger INFO The SDR improvement for this wav:0.6803322072225981
+2020-01-02 23:58:13,802 eval_logger INFO The loss for the current batch:2165.230224609375
+2020-01-02 23:58:16,531 eval_logger INFO SDR before enhancement:[-24.81819877]
+2020-01-02 23:58:16,531 eval_logger INFO SDR after enhancement:[-24.86020717]
+2020-01-02 23:58:16,531 eval_logger INFO The SDR improvement for this wav:-0.0420083983221744
+2020-01-02 23:58:16,861 eval_logger INFO The loss for the current batch:1597.828857421875
+2020-01-02 23:58:19,872 eval_logger INFO SDR before enhancement:[-21.67398476]
+2020-01-02 23:58:19,873 eval_logger INFO SDR after enhancement:[-21.6319822]
+2020-01-02 23:58:19,873 eval_logger INFO The SDR improvement for this wav:0.04200255580619583
+2020-01-02 23:58:20,117 eval_logger INFO The loss for the current batch:4057.29248046875
+2020-01-02 23:58:23,512 eval_logger INFO SDR before enhancement:[-17.40354108]
+2020-01-02 23:58:23,519 eval_logger INFO SDR after enhancement:[-17.01747091]
+2020-01-02 23:58:23,519 eval_logger INFO The SDR improvement for this wav:0.38607016725688936
+2020-01-02 23:58:23,789 eval_logger INFO The loss for the current batch:3849.851318359375
+2020-01-02 23:58:26,857 eval_logger INFO SDR before enhancement:[-20.76894072]
+2020-01-02 23:58:26,857 eval_logger INFO SDR after enhancement:[-21.0074719]
+2020-01-02 23:58:26,858 eval_logger INFO The SDR improvement for this wav:-0.23853118391267003
+2020-01-02 23:58:27,104 eval_logger INFO The loss for the current batch:2545.927978515625
+2020-01-02 23:58:29,901 eval_logger INFO SDR before enhancement:[-21.99566506]
+2020-01-02 23:58:29,902 eval_logger INFO SDR after enhancement:[-22.11949421]
+2020-01-02 23:58:29,902 eval_logger INFO The SDR improvement for this wav:-0.12382914718619631
+2020-01-02 23:58:30,242 eval_logger INFO The loss for the current batch:3165.1279296875
+2020-01-02 23:58:33,455 eval_logger INFO SDR before enhancement:[-17.39274212]
+2020-01-02 23:58:33,456 eval_logger INFO SDR after enhancement:[-18.32499799]
+2020-01-02 23:58:33,456 eval_logger INFO The SDR improvement for this wav:-0.93225587086906
+2020-01-02 23:58:33,794 eval_logger INFO The loss for the current batch:7216.27490234375
+2020-01-02 23:58:36,444 eval_logger INFO SDR before enhancement:[-18.85423763]
+2020-01-02 23:58:36,445 eval_logger INFO SDR after enhancement:[-20.14254686]
+2020-01-02 23:58:36,445 eval_logger INFO The SDR improvement for this wav:-1.2883092310127715
+2020-01-02 23:58:36,749 eval_logger INFO The loss for the current batch:1386.8021240234375
+2020-01-02 23:58:40,572 eval_logger INFO SDR before enhancement:[-18.87484306]
+2020-01-02 23:58:40,572 eval_logger INFO SDR after enhancement:[-24.24273181]
+2020-01-02 23:58:40,572 eval_logger INFO The SDR improvement for this wav:-5.367888753254636
+2020-01-02 23:58:41,077 eval_logger INFO The loss for the current batch:4363.4599609375
+2020-01-02 23:58:44,775 eval_logger INFO SDR before enhancement:[-21.06345349]
+2020-01-02 23:58:44,776 eval_logger INFO SDR after enhancement:[-21.50560331]
+2020-01-02 23:58:44,776 eval_logger INFO The SDR improvement for this wav:-0.44214982270963077
+2020-01-02 23:58:45,052 eval_logger INFO The loss for the current batch:1650.389404296875
+2020-01-02 23:58:48,128 eval_logger INFO SDR before enhancement:[-22.86885333]
+2020-01-02 23:58:48,128 eval_logger INFO SDR after enhancement:[-25.632545]
+2020-01-02 23:58:48,128 eval_logger INFO The SDR improvement for this wav:-2.763691666719666
+2020-01-02 23:58:48,384 eval_logger INFO The loss for the current batch:3441.92138671875
+2020-01-02 23:58:51,313 eval_logger INFO SDR before enhancement:[-17.13589705]
+2020-01-02 23:58:51,335 eval_logger INFO SDR after enhancement:[-18.82390295]
+2020-01-02 23:58:51,335 eval_logger INFO The SDR improvement for this wav:-1.6880059042064524
+2020-01-02 23:58:51,774 eval_logger INFO The loss for the current batch:2466.66357421875
+2020-01-02 23:58:55,261 eval_logger INFO SDR before enhancement:[-24.32894668]
+2020-01-02 23:58:55,261 eval_logger INFO SDR after enhancement:[-23.62822439]
+2020-01-02 23:58:55,262 eval_logger INFO The SDR improvement for this wav:0.70072229365352
+2020-01-02 23:58:55,262 eval_logger INFO The SDR improvement for test set:[0.17757696]
